@@ -1,0 +1,4716 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1207.23909221
+tiers? <exists>
+size = 8
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "B-turns"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 161
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.0443246935
+			text = ""
+		intervals [2]:
+			xmin = 4.0443246935
+			xmax = 18.057187062
+			text = "B"
+		intervals [3]:
+			xmin = 18.057187062
+			xmax = 20.7899121818
+			text = ""
+		intervals [4]:
+			xmin = 20.7899121818
+			xmax = 21.2327493354
+			text = "B"
+		intervals [5]:
+			xmin = 21.2327493354
+			xmax = 25.87344408
+			text = ""
+		intervals [6]:
+			xmin = 25.87344408
+			xmax = 27.9635158864
+			text = "B"
+		intervals [7]:
+			xmin = 27.9635158864
+			xmax = 30.41532159
+			text = ""
+		intervals [8]:
+			xmin = 30.41532159
+			xmax = 51.347109146
+			text = "B"
+		intervals [9]:
+			xmin = 51.347109146
+			xmax = 64.8048929739
+			text = ""
+		intervals [10]:
+			xmin = 64.8048929739
+			xmax = 65.4191405824
+			text = "B"
+		intervals [11]:
+			xmin = 65.4191405824
+			xmax = 67.538261607
+			text = ""
+		intervals [12]:
+			xmin = 67.538261607
+			xmax = 69.9017795786
+			text = "B"
+		intervals [13]:
+			xmin = 69.9017795786
+			xmax = 86.8332467995
+			text = ""
+		intervals [14]:
+			xmin = 86.8332467995
+			xmax = 87.1537238126
+			text = "B"
+		intervals [15]:
+			xmin = 87.1537238126
+			xmax = 92.7086587064
+			text = ""
+		intervals [16]:
+			xmin = 92.7086587064
+			xmax = 123.10195762
+			text = "B"
+		intervals [17]:
+			xmin = 123.10195762
+			xmax = 128.450884668
+			text = ""
+		intervals [18]:
+			xmin = 128.450884668
+			xmax = 136.234297325
+			text = "B"
+		intervals [19]:
+			xmin = 136.234297325
+			xmax = 137.75074449
+			text = ""
+		intervals [20]:
+			xmin = 137.75074449
+			xmax = 139.618400468
+			text = "B"
+		intervals [21]:
+			xmin = 139.618400468
+			xmax = 151.577158543
+			text = ""
+		intervals [22]:
+			xmin = 151.577158543
+			xmax = 154.499421524
+			text = "B"
+		intervals [23]:
+			xmin = 154.499421524
+			xmax = 156.605034009
+			text = ""
+		intervals [24]:
+			xmin = 156.605034009
+			xmax = 157.28846648
+			text = "B"
+		intervals [25]:
+			xmin = 157.28846648
+			xmax = 158.883727668
+			text = ""
+		intervals [26]:
+			xmin = 158.883727668
+			xmax = 159.142960675
+			text = "B"
+		intervals [27]:
+			xmin = 159.142960675
+			xmax = 180.1535122
+			text = ""
+		intervals [28]:
+			xmin = 180.1535122
+			xmax = 181.261144137
+			text = "B"
+		intervals [29]:
+			xmin = 181.261144137
+			xmax = 183.543092931
+			text = ""
+		intervals [30]:
+			xmin = 183.543092931
+			xmax = 198.366507573
+			text = "B"
+		intervals [31]:
+			xmin = 198.366507573
+			xmax = 201.359470465
+			text = ""
+		intervals [32]:
+			xmin = 201.359470465
+			xmax = 205.130132377
+			text = "B"
+		intervals [33]:
+			xmin = 205.130132377
+			xmax = 206.88322708
+			text = ""
+		intervals [34]:
+			xmin = 206.88322708
+			xmax = 213.505452063
+			text = "B"
+		intervals [35]:
+			xmin = 213.505452063
+			xmax = 231.765042444
+			text = ""
+		intervals [36]:
+			xmin = 231.765042444
+			xmax = 234.143625708
+			text = "B"
+		intervals [37]:
+			xmin = 234.143625708
+			xmax = 236.700006498
+			text = ""
+		intervals [38]:
+			xmin = 236.700006498
+			xmax = 239.845624755
+			text = "B"
+		intervals [39]:
+			xmin = 239.845624755
+			xmax = 244.125036044
+			text = ""
+		intervals [40]:
+			xmin = 244.125036044
+			xmax = 248.169402375
+			text = "B"
+		intervals [41]:
+			xmin = 248.169402375
+			xmax = 250.434780428
+			text = ""
+		intervals [42]:
+			xmin = 250.434780428
+			xmax = 262.235018377
+			text = "B"
+		intervals [43]:
+			xmin = 262.235018377
+			xmax = 265.194688756
+			text = ""
+		intervals [44]:
+			xmin = 265.194688756
+			xmax = 266.349115161
+			text = "B"
+		intervals [45]:
+			xmin = 266.349115161
+			xmax = 268.529267104
+			text = ""
+		intervals [46]:
+			xmin = 268.529267104
+			xmax = 268.924406343
+			text = "B"
+		intervals [47]:
+			xmin = 268.924406343
+			xmax = 274.474863562
+			text = ""
+		intervals [48]:
+			xmin = 274.474863562
+			xmax = 276.194881427
+			text = "B"
+		intervals [49]:
+			xmin = 276.194881427
+			xmax = 284.170810375
+			text = ""
+		intervals [50]:
+			xmin = 284.170810375
+			xmax = 284.596940928
+			text = "B"
+		intervals [51]:
+			xmin = 284.596940928
+			xmax = 287.350432159
+			text = ""
+		intervals [52]:
+			xmin = 287.350432159
+			xmax = 295.834304059
+			text = "B"
+		intervals [53]:
+			xmin = 295.834304059
+			xmax = 325.060781063
+			text = ""
+		intervals [54]:
+			xmin = 325.060781063
+			xmax = 325.546909357
+			text = "B"
+		intervals [55]:
+			xmin = 325.546909357
+			xmax = 327.052037345
+			text = ""
+		intervals [56]:
+			xmin = 327.052037345
+			xmax = 328.650651544
+			text = "B"
+		intervals [57]:
+			xmin = 328.650651544
+			xmax = 331.960730812
+			text = ""
+		intervals [58]:
+			xmin = 331.960730812
+			xmax = 334.040486523
+			text = "B"
+		intervals [59]:
+			xmin = 334.040486523
+			xmax = 592.068451648
+			text = ""
+		intervals [60]:
+			xmin = 592.068451648
+			xmax = 593.777032827
+			text = "B"
+		intervals [61]:
+			xmin = 593.777032827
+			xmax = 600.831596714
+			text = ""
+		intervals [62]:
+			xmin = 600.831596714
+			xmax = 602.817085877
+			text = "B"
+		intervals [63]:
+			xmin = 602.817085877
+			xmax = 624.934964021
+			text = ""
+		intervals [64]:
+			xmin = 624.934964021
+			xmax = 626.731920088
+			text = "B"
+		intervals [65]:
+			xmin = 626.731920088
+			xmax = 640.955558325
+			text = ""
+		intervals [66]:
+			xmin = 640.955558325
+			xmax = 643.919062922
+			text = "B"
+		intervals [67]:
+			xmin = 643.919062922
+			xmax = 648.917480092
+			text = ""
+		intervals [68]:
+			xmin = 648.917480092
+			xmax = 650.749479587
+			text = "B"
+		intervals [69]:
+			xmin = 650.749479587
+			xmax = 657.734790875
+			text = ""
+		intervals [70]:
+			xmin = 657.734790875
+			xmax = 658.895447745
+			text = "B"
+		intervals [71]:
+			xmin = 658.895447745
+			xmax = 660.529728095
+			text = ""
+		intervals [72]:
+			xmin = 660.529728095
+			xmax = 663.222216366
+			text = "B"
+		intervals [73]:
+			xmin = 663.222216366
+			xmax = 667.289751981
+			text = ""
+		intervals [74]:
+			xmin = 667.289751981
+			xmax = 667.484176736
+			text = "B"
+		intervals [75]:
+			xmin = 667.484176736
+			xmax = 686.181723344
+			text = ""
+		intervals [76]:
+			xmin = 686.181723344
+			xmax = 686.641272765
+			text = "B"
+		intervals [77]:
+			xmin = 686.641272765
+			xmax = 688.620870269
+			text = ""
+		intervals [78]:
+			xmin = 688.620870269
+			xmax = 690.576901135
+			text = "B"
+		intervals [79]:
+			xmin = 690.576901135
+			xmax = 692.332615588
+			text = ""
+		intervals [80]:
+			xmin = 692.332615588
+			xmax = 697.950188386
+			text = "B"
+		intervals [81]:
+			xmin = 697.950188386
+			xmax = 700.094752348
+			text = ""
+		intervals [82]:
+			xmin = 700.094752348
+			xmax = 708.182690304
+			text = "B"
+		intervals [83]:
+			xmin = 708.182690304
+			xmax = 709.855921528
+			text = ""
+		intervals [84]:
+			xmin = 709.855921528
+			xmax = 724.598487664
+			text = "B"
+		intervals [85]:
+			xmin = 724.598487664
+			xmax = 726.189235658
+			text = ""
+		intervals [86]:
+			xmin = 726.189235658
+			xmax = 733.598490151
+			text = "B"
+		intervals [87]:
+			xmin = 733.598490151
+			xmax = 736.037637075
+			text = ""
+		intervals [88]:
+			xmin = 736.037637075
+			xmax = 736.349895015
+			text = "B"
+		intervals [89]:
+			xmin = 736.349895015
+			xmax = 744.567448869
+			text = ""
+		intervals [90]:
+			xmin = 744.567448869
+			xmax = 745.898963857
+			text = "B"
+		intervals [91]:
+			xmin = 745.898963857
+			xmax = 758.425386475
+			text = ""
+		intervals [92]:
+			xmin = 758.425386475
+			xmax = 790.557851524
+			text = "B"
+		intervals [93]:
+			xmin = 790.557851524
+			xmax = 792.178411813
+			text = ""
+		intervals [94]:
+			xmin = 792.178411813
+			xmax = 797.76123481
+			text = "B"
+		intervals [95]:
+			xmin = 797.76123481
+			xmax = 799.84688218
+			text = ""
+		intervals [96]:
+			xmin = 799.84688218
+			xmax = 811.523491393
+			text = "B"
+		intervals [97]:
+			xmin = 811.523491393
+			xmax = 813.573788807
+			text = ""
+		intervals [98]:
+			xmin = 813.573788807
+			xmax = 818.670936225
+			text = "B"
+		intervals [99]:
+			xmin = 818.670936225
+			xmax = 841.257575133
+			text = ""
+		intervals [100]:
+			xmin = 841.257575133
+			xmax = 844.443835671
+			text = "B"
+		intervals [101]:
+			xmin = 844.443835671
+			xmax = 846.247827981
+			text = ""
+		intervals [102]:
+			xmin = 846.247827981
+			xmax = 850.443834426
+			text = "B"
+		intervals [103]:
+			xmin = 850.443834426
+			xmax = 852.215423095
+			text = ""
+		intervals [104]:
+			xmin = 852.215423095
+			xmax = 852.931259692
+			text = "B"
+		intervals [105]:
+			xmin = 852.931259692
+			xmax = 857.546525807
+			text = ""
+		intervals [106]:
+			xmin = 857.546525807
+			xmax = 858.274145723
+			text = "B"
+		intervals [107]:
+			xmin = 858.274145723
+			xmax = 859.839017683
+			text = ""
+		intervals [108]:
+			xmin = 859.839017683
+			xmax = 877.350444324
+			text = "B"
+		intervals [109]:
+			xmin = 877.350444324
+			xmax = 879.020729718
+			text = ""
+		intervals [110]:
+			xmin = 879.020729718
+			xmax = 882.516144558
+			text = "B"
+		intervals [111]:
+			xmin = 882.516144558
+			xmax = 884.567982371
+			text = ""
+		intervals [112]:
+			xmin = 884.567982371
+			xmax = 895.657720347
+			text = "B"
+		intervals [113]:
+			xmin = 895.657720347
+			xmax = 899.125562657
+			text = ""
+		intervals [114]:
+			xmin = 899.125562657
+			xmax = 904.192389601
+			text = "B"
+		intervals [115]:
+			xmin = 904.192389601
+			xmax = 906.192573022
+			text = ""
+		intervals [116]:
+			xmin = 906.192573022
+			xmax = 911.05649172
+			text = "B"
+		intervals [117]:
+			xmin = 911.05649172
+			xmax = 918.201305742
+			text = ""
+		intervals [118]:
+			xmin = 918.201305742
+			xmax = 918.416571702
+			text = "B"
+		intervals [119]:
+			xmin = 918.416571702
+			xmax = 938.415697686
+			text = ""
+		intervals [120]:
+			xmin = 938.415697686
+			xmax = 939.00486361
+			text = "B"
+		intervals [121]:
+			xmin = 939.00486361
+			xmax = 941.392278512
+			text = ""
+		intervals [122]:
+			xmin = 941.392278512
+			xmax = 946.573337399
+			text = "B"
+		intervals [123]:
+			xmin = 946.573337399
+			xmax = 953.026995005
+			text = ""
+		intervals [124]:
+			xmin = 953.026995005
+			xmax = 953.822369002
+			text = "B"
+		intervals [125]:
+			xmin = 953.822369002
+			xmax = 961.256232538
+			text = ""
+		intervals [126]:
+			xmin = 961.256232538
+			xmax = 962.682014073
+			text = "B"
+		intervals [127]:
+			xmin = 962.682014073
+			xmax = 964.506775518
+			text = ""
+		intervals [128]:
+			xmin = 964.506775518
+			xmax = 977.516266506
+			text = "B"
+		intervals [129]:
+			xmin = 977.516266506
+			xmax = 979.656817239
+			text = ""
+		intervals [130]:
+			xmin = 979.656817239
+			xmax = 983.097546234
+			text = "B"
+		intervals [131]:
+			xmin = 983.097546234
+			xmax = 985.260138568
+			text = ""
+		intervals [132]:
+			xmin = 985.260138568
+			xmax = 997.6636217
+			text = "B"
+		intervals [133]:
+			xmin = 997.6636217
+			xmax = 1018.68168249
+			text = ""
+		intervals [134]:
+			xmin = 1018.68168249
+			xmax = 1018.98510294
+			text = "B"
+		intervals [135]:
+			xmin = 1018.98510294
+			xmax = 1032.59005642
+			text = ""
+		intervals [136]:
+			xmin = 1032.59005642
+			xmax = 1042.25695845
+			text = "B"
+		intervals [137]:
+			xmin = 1042.25695845
+			xmax = 1043.89175421
+			text = ""
+		intervals [138]:
+			xmin = 1043.89175421
+			xmax = 1077.53353205
+			text = "B"
+		intervals [139]:
+			xmin = 1077.53353205
+			xmax = 1079.18353878
+			text = ""
+		intervals [140]:
+			xmin = 1079.18353878
+			xmax = 1094.02112772
+			text = "B"
+		intervals [141]:
+			xmin = 1094.02112772
+			xmax = 1095.70213197
+			text = ""
+		intervals [142]:
+			xmin = 1095.70213197
+			xmax = 1096.86976897
+			text = "B"
+		intervals [143]:
+			xmin = 1096.86976897
+			xmax = 1113.07961988
+			text = ""
+		intervals [144]:
+			xmin = 1113.07961988
+			xmax = 1115.5243779
+			text = "B"
+		intervals [145]:
+			xmin = 1115.5243779
+			xmax = 1123.67507603
+			text = ""
+		intervals [146]:
+			xmin = 1123.67507603
+			xmax = 1123.99322563
+			text = "B"
+		intervals [147]:
+			xmin = 1123.99322563
+			xmax = 1163.04473916
+			text = ""
+		intervals [148]:
+			xmin = 1163.04473916
+			xmax = 1166.77702133
+			text = "B"
+		intervals [149]:
+			xmin = 1166.77702133
+			xmax = 1168.82259752
+			text = ""
+		intervals [150]:
+			xmin = 1168.82259752
+			xmax = 1169.10539716
+			text = "B"
+		intervals [151]:
+			xmin = 1169.10539716
+			xmax = 1171.04964471
+			text = ""
+		intervals [152]:
+			xmin = 1171.04964471
+			xmax = 1173.10324195
+			text = "B"
+		intervals [153]:
+			xmin = 1173.10324195
+			xmax = 1187.64908978
+			text = ""
+		intervals [154]:
+			xmin = 1187.64908978
+			xmax = 1188.52105535
+			text = "B"
+		intervals [155]:
+			xmin = 1188.52105535
+			xmax = 1190.21792051
+			text = ""
+		intervals [156]:
+			xmin = 1190.21792051
+			xmax = 1193.52019551
+			text = "B"
+		intervals [157]:
+			xmin = 1193.52019551
+			xmax = 1197.97922022
+			text = ""
+		intervals [158]:
+			xmin = 1197.97922022
+			xmax = 1202.79178321
+			text = "B"
+		intervals [159]:
+			xmin = 1202.79178321
+			xmax = 1204.60088021
+			text = ""
+		intervals [160]:
+			xmin = 1204.60088021
+			xmax = 1206.59226086
+			text = "B"
+		intervals [161]:
+			xmin = 1206.59226086
+			xmax = 1207.23909221
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "A-turns"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 136
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.1739355677
+			text = ""
+		intervals [2]:
+			xmin = 4.1739355677
+			xmax = 7.25155984618
+			text = "A"
+		intervals [3]:
+			xmin = 7.25155984618
+			xmax = 20.6819025156
+			text = ""
+		intervals [4]:
+			xmin = 20.6819025156
+			xmax = 25.4792110043
+			text = "A"
+		intervals [5]:
+			xmin = 25.4792110043
+			xmax = 27.4396719365
+			text = ""
+		intervals [6]:
+			xmin = 27.4396719365
+			xmax = 29.0814096764
+			text = "A"
+		intervals [7]:
+			xmin = 29.0814096764
+			xmax = 50.6869088899
+			text = ""
+		intervals [8]:
+			xmin = 50.6869088899
+			xmax = 63.6689422033
+			text = "A"
+		intervals [9]:
+			xmin = 63.6689422033
+			xmax = 70.0187399731
+			text = ""
+		intervals [10]:
+			xmin = 70.0187399731
+			xmax = 88.221980523
+			text = "A"
+		intervals [11]:
+			xmin = 88.221980523
+			xmax = 89.8377187974
+			text = ""
+		intervals [12]:
+			xmin = 89.8377187974
+			xmax = 92.2112516757
+			text = "A"
+		intervals [13]:
+			xmin = 92.2112516757
+			xmax = 99.9161516796
+			text = ""
+		intervals [14]:
+			xmin = 99.9161516796
+			xmax = 100.835250521
+			text = "A"
+		intervals [15]:
+			xmin = 100.835250521
+			xmax = 113.837056556
+			text = ""
+		intervals [16]:
+			xmin = 113.837056556
+			xmax = 116.117128681
+			text = "A"
+		intervals [17]:
+			xmin = 116.117128681
+			xmax = 118.473792376
+			text = ""
+		intervals [18]:
+			xmin = 118.473792376
+			xmax = 118.956908433
+			text = "A"
+		intervals [19]:
+			xmin = 118.956908433
+			xmax = 122.94288282
+			text = ""
+		intervals [20]:
+			xmin = 122.94288282
+			xmax = 129.672523991
+			text = "A"
+		intervals [21]:
+			xmin = 129.672523991
+			xmax = 136.293213917
+			text = ""
+		intervals [22]:
+			xmin = 136.293213917
+			xmax = 136.629038493
+			text = "A"
+		intervals [23]:
+			xmin = 136.629038493
+			xmax = 140.737815723
+			text = ""
+		intervals [24]:
+			xmin = 140.737815723
+			xmax = 143.353712424
+			text = "A"
+		intervals [25]:
+			xmin = 143.353712424
+			xmax = 145.683208564
+			text = ""
+		intervals [26]:
+			xmin = 145.683208564
+			xmax = 150.473127524
+			text = "A"
+		intervals [27]:
+			xmin = 150.473127524
+			xmax = 158.235645152
+			text = ""
+		intervals [28]:
+			xmin = 158.235645152
+			xmax = 160.827975217
+			text = "A"
+		intervals [29]:
+			xmin = 160.827975217
+			xmax = 162.395156574
+			text = ""
+		intervals [30]:
+			xmin = 162.395156574
+			xmax = 162.89005595
+			text = "A"
+		intervals [31]:
+			xmin = 162.89005595
+			xmax = 164.952136683
+			text = ""
+		intervals [32]:
+			xmin = 164.952136683
+			xmax = 169.471568913
+			text = "A"
+		intervals [33]:
+			xmin = 169.471568913
+			xmax = 171.617808747
+			text = ""
+		intervals [34]:
+			xmin = 171.617808747
+			xmax = 179.406582259
+			text = "A"
+		intervals [35]:
+			xmin = 179.406582259
+			xmax = 196.669709712
+			text = ""
+		intervals [36]:
+			xmin = 196.669709712
+			xmax = 197.235308999
+			text = "A"
+		intervals [37]:
+			xmin = 197.235308999
+			xmax = 198.767140401
+			text = ""
+		intervals [38]:
+			xmin = 198.767140401
+			xmax = 201.053104185
+			text = "A"
+		intervals [39]:
+			xmin = 201.053104185
+			xmax = 214.120316882
+			text = ""
+		intervals [40]:
+			xmin = 214.120316882
+			xmax = 216.021691401
+			text = "A"
+		intervals [41]:
+			xmin = 216.021691401
+			xmax = 220.096972673
+			text = ""
+		intervals [42]:
+			xmin = 220.096972673
+			xmax = 229.959849887
+			text = "A"
+		intervals [43]:
+			xmin = 229.959849887
+			xmax = 241.473366353
+			text = ""
+		intervals [44]:
+			xmin = 241.473366353
+			xmax = 245.612619062
+			text = "A"
+		intervals [45]:
+			xmin = 245.612619062
+			xmax = 248.618776411
+			text = ""
+		intervals [46]:
+			xmin = 248.618776411
+			xmax = 248.990672166
+			text = "A"
+		intervals [47]:
+			xmin = 248.990672166
+			xmax = 260.569235309
+			text = ""
+		intervals [48]:
+			xmin = 260.569235309
+			xmax = 261.181313739
+			text = "A"
+		intervals [49]:
+			xmin = 261.181313739
+			xmax = 269.048371595
+			text = ""
+		intervals [50]:
+			xmin = 269.048371595
+			xmax = 286.541645811
+			text = "A"
+		intervals [51]:
+			xmin = 286.541645811
+			xmax = 295.772321434
+			text = ""
+		intervals [52]:
+			xmin = 295.772321434
+			xmax = 298.393324692
+			text = "A"
+		intervals [53]:
+			xmin = 298.393324692
+			xmax = 300.219811529
+			text = ""
+		intervals [54]:
+			xmin = 300.219811529
+			xmax = 321.081191872
+			text = "A"
+		intervals [55]:
+			xmin = 321.081191872
+			xmax = 322.734435633
+			text = ""
+		intervals [56]:
+			xmin = 322.734435633
+			xmax = 323.15512358
+			text = "A"
+		intervals [57]:
+			xmin = 323.15512358
+			xmax = 327.725138061
+			text = ""
+		intervals [58]:
+			xmin = 327.725138061
+			xmax = 328.501073607
+			text = "A"
+		intervals [59]:
+			xmin = 328.501073607
+			xmax = 333.931490827
+			text = ""
+		intervals [60]:
+			xmin = 333.931490827
+			xmax = 335.838587496
+			text = "A"
+		intervals [61]:
+			xmin = 335.838587496
+			xmax = 593.187866903
+			text = ""
+		intervals [62]:
+			xmin = 593.187866903
+			xmax = 599.723964778
+			text = "A"
+		intervals [63]:
+			xmin = 599.723964778
+			xmax = 604.18984248
+			text = ""
+		intervals [64]:
+			xmin = 604.18984248
+			xmax = 611.12890628
+			text = "A"
+		intervals [65]:
+			xmin = 611.12890628
+			xmax = 612.638643959
+			text = ""
+		intervals [66]:
+			xmin = 612.638643959
+			xmax = 624.261024731
+			text = "A"
+		intervals [67]:
+			xmin = 624.261024731
+			xmax = 626.684786814
+			text = ""
+		intervals [68]:
+			xmin = 626.684786814
+			xmax = 634.662910481
+			text = "A"
+		intervals [69]:
+			xmin = 634.662910481
+			xmax = 636.222399418
+			text = ""
+		intervals [70]:
+			xmin = 636.222399418
+			xmax = 647.721473266
+			text = "A"
+		intervals [71]:
+			xmin = 647.721473266
+			xmax = 650.307605144
+			text = ""
+		intervals [72]:
+			xmin = 650.307605144
+			xmax = 659.201814025
+			text = "A"
+		intervals [73]:
+			xmin = 659.201814025
+			xmax = 667.53131001
+			text = ""
+		intervals [74]:
+			xmin = 667.53131001
+			xmax = 685.792873835
+			text = "A"
+		intervals [75]:
+			xmin = 685.792873835
+			xmax = 697.667388743
+			text = ""
+		intervals [76]:
+			xmin = 697.667388743
+			xmax = 698.798587316
+			text = "A"
+		intervals [77]:
+			xmin = 698.798587316
+			xmax = 702.262882948
+			text = ""
+		intervals [78]:
+			xmin = 702.262882948
+			xmax = 702.545682591
+			text = "A"
+		intervals [79]:
+			xmin = 702.545682591
+			xmax = 706.634494102
+			text = ""
+		intervals [80]:
+			xmin = 706.634494102
+			xmax = 707.141176796
+			text = "A"
+		intervals [81]:
+			xmin = 707.141176796
+			xmax = 734.028581275
+			text = ""
+		intervals [82]:
+			xmin = 734.028581275
+			xmax = 758.183828446
+			text = "A"
+		intervals [83]:
+			xmin = 758.183828446
+			xmax = 820.643986657
+			text = ""
+		intervals [84]:
+			xmin = 820.643986657
+			xmax = 839.597057949
+			text = "A"
+		intervals [85]:
+			xmin = 839.597057949
+			xmax = 850.93987887
+			text = ""
+		intervals [86]:
+			xmin = 850.93987887
+			xmax = 851.776494482
+			text = "A"
+		intervals [87]:
+			xmin = 851.776494482
+			xmax = 853.598162255
+			text = ""
+		intervals [88]:
+			xmin = 853.598162255
+			xmax = 854.723469169
+			text = "A"
+		intervals [89]:
+			xmin = 854.723469169
+			xmax = 882.091276119
+			text = ""
+		intervals [90]:
+			xmin = 882.091276119
+			xmax = 885.110015021
+			text = "A"
+		intervals [91]:
+			xmin = 885.110015021
+			xmax = 887.778281205
+			text = ""
+		intervals [92]:
+			xmin = 887.778281205
+			xmax = 887.960922641
+			text = "A"
+		intervals [93]:
+			xmin = 887.960922641
+			xmax = 896.543542996
+			text = ""
+		intervals [94]:
+			xmin = 896.543542996
+			xmax = 898.632136196
+			text = "A"
+		intervals [95]:
+			xmin = 898.632136196
+			xmax = 900.427772655
+			text = ""
+		intervals [96]:
+			xmin = 900.427772655
+			xmax = 900.628089069
+			text = "A"
+		intervals [97]:
+			xmin = 900.628089069
+			xmax = 904.684308257
+			text = ""
+		intervals [98]:
+			xmin = 904.684308257
+			xmax = 904.919974627
+			text = "A"
+		intervals [99]:
+			xmin = 904.919974627
+			xmax = 911.418828764
+			text = ""
+		intervals [100]:
+			xmin = 911.418828764
+			xmax = 936.723621051
+			text = "A"
+		intervals [101]:
+			xmin = 936.723621051
+			xmax = 945.71315515
+			text = ""
+		intervals [102]:
+			xmin = 945.71315515
+			xmax = 946.054871386
+			text = "A"
+		intervals [103]:
+			xmin = 946.054871386
+			xmax = 949.430792129
+			text = ""
+		intervals [104]:
+			xmin = 949.430792129
+			xmax = 951.310231426
+			text = "A"
+		intervals [105]:
+			xmin = 951.310231426
+			xmax = 953.13893653
+			text = ""
+		intervals [106]:
+			xmin = 953.13893653
+			xmax = 959.07631862
+			text = "A"
+		intervals [107]:
+			xmin = 959.07631862
+			xmax = 984.169828215
+			text = ""
+		intervals [108]:
+			xmin = 984.169828215
+			xmax = 984.429061221
+			text = "A"
+		intervals [109]:
+			xmin = 984.429061221
+			xmax = 998.266504326
+			text = ""
+		intervals [110]:
+			xmin = 998.266504326
+			xmax = 1018.42539531
+			text = "A"
+		intervals [111]:
+			xmin = 1018.42539531
+			xmax = 1019.96459129
+			text = ""
+		intervals [112]:
+			xmin = 1019.96459129
+			xmax = 1030.32245095
+			text = "A"
+		intervals [113]:
+			xmin = 1030.32245095
+			xmax = 1033.55186979
+			text = ""
+		intervals [114]:
+			xmin = 1033.55186979
+			xmax = 1034.27359805
+			text = "A"
+		intervals [115]:
+			xmin = 1034.27359805
+			xmax = 1074.32798959
+			text = ""
+		intervals [116]:
+			xmin = 1074.32798959
+			xmax = 1074.6778176
+			text = "A"
+		intervals [117]:
+			xmin = 1074.6778176
+			xmax = 1094.20818774
+			text = ""
+		intervals [118]:
+			xmin = 1094.20818774
+			xmax = 1094.45858326
+			text = "A"
+		intervals [119]:
+			xmin = 1094.45858326
+			xmax = 1098.63194731
+			text = ""
+		intervals [120]:
+			xmin = 1098.63194731
+			xmax = 1111.94105674
+			text = "A"
+		intervals [121]:
+			xmin = 1111.94105674
+			xmax = 1116.25471213
+			text = ""
+		intervals [122]:
+			xmin = 1116.25471213
+			xmax = 1122.44418258
+			text = "A"
+		intervals [123]:
+			xmin = 1122.44418258
+			xmax = 1125.02426629
+			text = ""
+		intervals [124]:
+			xmin = 1125.02426629
+			xmax = 1131.20690666
+			text = "A"
+		intervals [125]:
+			xmin = 1131.20690666
+			xmax = 1133.1216959
+			text = ""
+		intervals [126]:
+			xmin = 1133.1216959
+			xmax = 1164.68849837
+			text = "A"
+		intervals [127]:
+			xmin = 1164.68849837
+			xmax = 1166.36460518
+			text = ""
+		intervals [128]:
+			xmin = 1166.36460518
+			xmax = 1166.67097146
+			text = "A"
+		intervals [129]:
+			xmin = 1166.67097146
+			xmax = 1174.30049017
+			text = ""
+		intervals [130]:
+			xmin = 1174.30049017
+			xmax = 1174.47429412
+			text = "A"
+		intervals [131]:
+			xmin = 1174.47429412
+			xmax = 1178.03615613
+			text = ""
+		intervals [132]:
+			xmin = 1178.03615613
+			xmax = 1185.76134639
+			text = "A"
+		intervals [133]:
+			xmin = 1185.76134639
+			xmax = 1191.58478545
+			text = ""
+		intervals [134]:
+			xmin = 1191.58478545
+			xmax = 1197.31935438
+			text = "A"
+		intervals [135]:
+			xmin = 1197.31935438
+			xmax = 1201.78930789
+			text = ""
+		intervals [136]:
+			xmin = 1201.78930789
+			xmax = 1207.23909221
+			text = "A"
+	item [3]:
+		class = "IntervalTier"
+		name = "Comments"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 341.054995454
+			text = ""
+		intervals [2]:
+			xmin = 341.054995454
+			xmax = 592.068451648
+			text = "break"
+		intervals [3]:
+			xmin = 592.068451648
+			xmax = 1207.23909221
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "B-utts"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 386
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.0443246935
+			text = ""
+		intervals [2]:
+			xmin = 4.0443246935
+			xmax = 4.29274553571
+			text = "ja"
+		intervals [3]:
+			xmin = 4.29274553571
+			xmax = 4.48666585247
+			text = ""
+		intervals [4]:
+			xmin = 4.48666585247
+			xmax = 4.67568171068
+			text = "hi"
+		intervals [5]:
+			xmin = 4.67568171068
+			xmax = 4.76478918669
+			text = ""
+		intervals [6]:
+			xmin = 4.76478918669
+			xmax = 5.2778322304
+			text = "<laughter/>"
+		intervals [7]:
+			xmin = 5.2778322304
+			xmax = 5.51275193989
+			text = "<laughterOffset/>"
+		intervals [8]:
+			xmin = 5.51275193989
+			xmax = 5.72896262945
+			text = ""
+		intervals [9]:
+			xmin = 5.72896262945
+			xmax = 6.0205870964
+			text = "<laughterOffset/>"
+		intervals [10]:
+			xmin = 6.0205870964
+			xmax = 6.73074667795
+			text = ""
+		intervals [11]:
+			xmin = 6.73074667795
+			xmax = 7.27349221367
+			text = "{F äh:}"
+		intervals [12]:
+			xmin = 7.27349221367
+			xmax = 7.8915656964
+			text = ""
+		intervals [13]:
+			xmin = 7.8915656964
+			xmax = 8.10488359352
+			text = "ja"
+		intervals [14]:
+			xmin = 8.10488359352
+			xmax = 10.7025015306
+			text = "(Wir sollen ja + {F ähm} wir wollen ja den Film machen ne)"
+		intervals [15]:
+			xmin = 10.7025015306
+			xmax = 10.9221220891
+			text = ""
+		intervals [16]:
+			xmin = 10.9221220891
+			xmax = 11.2029456499
+			text = "<laughter/>"
+		intervals [17]:
+			xmin = 11.2029456499
+			xmax = 11.7780939042
+			text = "<laughterOffset/>"
+		intervals [18]:
+			xmin = 11.7780939042
+			xmax = 12.0670181446
+			text = ""
+		intervals [19]:
+			xmin = 12.0670181446
+			xmax = 13.1363078567
+			text = "u:nd {F äh:}"
+		intervals [20]:
+			xmin = 13.1363078567
+			xmax = 14.0787348489
+			text = ""
+		intervals [21]:
+			xmin = 14.0787348489
+			xmax = 14.3487575035
+			text = "Ja"
+		intervals [22]:
+			xmin = 14.3487575035
+			xmax = 18.057187062
+			text = "Hättest du vielleicht <v='eine'>'ne</v> Idee für <v='eine'>'ne</v> lustige Szene mit dem . Hauptcharakter"
+		intervals [23]:
+			xmin = 18.057187062
+			xmax = 20.7899121818
+			text = ""
+		intervals [24]:
+			xmin = 20.7899121818
+			xmax = 21.2327493354
+			text = "<laughter/>"
+		intervals [25]:
+			xmin = 21.2327493354
+			xmax = 25.87344408
+			text = ""
+		intervals [26]:
+			xmin = 25.87344408
+			xmax = 26.3162812336
+			text = "ja"
+		intervals [27]:
+			xmin = 26.3162812336
+			xmax = 27.4396719365
+			text = ""
+		intervals [28]:
+			xmin = 27.4396719365
+			xmax = 27.9635158864
+			text = "{F ähm}"
+		intervals [29]:
+			xmin = 27.9635158864
+			xmax = 30.41532159
+			text = ""
+		intervals [30]:
+			xmin = 30.41532159
+			xmax = 30.9121632744
+			text = "ja"
+		intervals [31]:
+			xmin = 30.9121632744
+			xmax = 31.1794894228
+			text = "also"
+		intervals [32]:
+			xmin = 31.1794894228
+			xmax = 49.0202189129
+			text = "Ich ... <v='hätte'>hätt'</v> Lust irgendwie auch so <v='etwas'>'was</v> Slapstick-mäßiges also halt ... wo einfach jeder lacht so ne also keine Ahnung der Charakter ... stößt sich irgendwo oder so beim Aufheben von irgendwas oder <laughter/> oder {F äh} keine Ahnung fällt hin rutscht (auf + aus) auf irgendwas oder so"
+		intervals [33]:
+			xmin = 49.0202189129
+			xmax = 50.0753152459
+			text = ""
+		intervals [34]:
+			xmin = 50.0753152459
+			xmax = 50.7235750699
+			text = "wie <v='findest du'>find'ste</v> das"
+		intervals [35]:
+			xmin = 50.7235750699
+			xmax = 51.347109146
+			text = "<laughter/>"
+		intervals [36]:
+			xmin = 51.347109146
+			xmax = 64.8048929739
+			text = ""
+		intervals [37]:
+			xmin = 64.8048929739
+			xmax = 65.4191405824
+			text = "hm:"
+		intervals [38]:
+			xmin = 65.4191405824
+			xmax = 67.538261607
+			text = ""
+		intervals [39]:
+			xmin = 67.538261607
+			xmax = 67.9855941044
+			text = "tja"
+		intervals [40]:
+			xmin = 67.9855941044
+			xmax = 69.5612727522
+			text = "Bananenschale ist doch tollpatschig {also}"
+		intervals [41]:
+			xmin = 69.5612727522
+			xmax = 69.9017795786
+			text = "<laughter/>"
+		intervals [42]:
+			xmin = 69.9017795786
+			xmax = 86.8332467995
+			text = ""
+		intervals [43]:
+			xmin = 86.8332467995
+			xmax = 87.1537238126
+			text = "<unclear/>"
+		intervals [44]:
+			xmin = 87.1537238126
+			xmax = 92.7086587064
+			text = ""
+		intervals [45]:
+			xmin = 92.7086587064
+			xmax = 93.2294338527
+			text = "{F äh}"
+		intervals [46]:
+			xmin = 93.2294338527
+			xmax = 94.297690563
+			text = ""
+		intervals [47]:
+			xmin = 94.297690563
+			xmax = 94.6715804117
+			text = "ja {F äh}"
+		intervals [48]:
+			xmin = 94.6715804117
+			xmax = 95.9510650129
+			text = ""
+		intervals [49]:
+			xmin = 95.9510650129
+			xmax = 96.2633229525
+			text = "ja"
+		intervals [50]:
+			xmin = 96.2633229525
+			xmax = 99.7452935617
+			text = "Du kennst ja vielleicht die Szene da {F äh} aus Brooklyn Nine-Nine"
+		intervals [51]:
+			xmin = 99.7452935617
+			xmax = 100.976650342
+			text = "<laughter/><laughterOffset/>"
+		intervals [52]:
+			xmin = 100.976650342
+			xmax = 101.065025231
+			text = ""
+		intervals [53]:
+			xmin = 101.065025231
+			xmax = 101.636516177
+			text = "{F ähm}"
+		intervals [54]:
+			xmin = 101.636516177
+			xmax = 101.901640843
+			text = ""
+		intervals [55]:
+			xmin = 101.901640843
+			xmax = 107.775849378
+			text = "Der .. Hauptcharakter steht in der Küche {F ähm} ... hat <v='einen'>'nen</v> Muffin in der Hand"
+		intervals [56]:
+			xmin = 107.775849378
+			xmax = 108.288423732
+			text = ""
+		intervals [57]:
+			xmin = 108.288423732
+			xmax = 109.763629282
+			text = "Und dann lässt er ihn aus Versehen fallen"
+		intervals [58]:
+			xmin = 109.763629282
+			xmax = 110.741644715
+			text = ""
+		intervals [59]:
+			xmin = 110.741644715
+			xmax = 113.546074512
+			text = "Und beim Aufheben stößt er seinen Kopf {F äh} an der Theke <laughter/>"
+		intervals [60]:
+			xmin = 113.546074512
+			xmax = 113.923140704
+			text = "<laughter/>"
+		intervals [61]:
+			xmin = 113.923140704
+			xmax = 114.49463165
+			text = "<laughterOffset/>"
+		intervals [62]:
+			xmin = 114.49463165
+			xmax = 114.897555219
+			text = ""
+		intervals [63]:
+			xmin = 114.897555219
+			xmax = 117.366160439
+			text = "Und dann steht er wieder auf und tritt aus Versehen auf <v='den'>'n</v> Muffin"
+		intervals [64]:
+			xmin = 117.366160439
+			xmax = 117.684310038
+			text = "<laughter/>"
+		intervals [65]:
+			xmin = 117.684310038
+			xmax = 118.29115094
+			text = "<laughterOffset/>"
+		intervals [66]:
+			xmin = 118.29115094
+			xmax = 118.423980185
+			text = ""
+		intervals [67]:
+			xmin = 118.423980185
+			xmax = 122.878074569
+			text = "Und dann regt er sich darüber auf dass der Muffin {F äh} jetzt im Eimer ist und .. dass er seinen Kopf gestoßen hat"
+		intervals [68]:
+			xmin = 122.878074569
+			xmax = 123.10195762
+			text = "<laughter/>"
+		intervals [69]:
+			xmin = 123.10195762
+			xmax = 128.450884668
+			text = ""
+		intervals [70]:
+			xmin = 128.450884668
+			xmax = 129.034158933
+			text = "<laughter/>"
+		intervals [71]:
+			xmin = 129.034158933
+			xmax = 129.835424589
+			text = "<laughterOffset/>"
+		intervals [72]:
+			xmin = 129.835424589
+			xmax = 130.377457239
+			text = ""
+		intervals [73]:
+			xmin = 130.377457239
+			xmax = 130.807548363
+			text = "{F ähm}"
+		intervals [74]:
+			xmin = 130.807548363
+			xmax = 131.738961326
+			text = ""
+		intervals [75]:
+			xmin = 131.738961326
+			xmax = 132.610926894
+			text = "ja keine Ahnung"
+		intervals [76]:
+			xmin = 132.610926894
+			xmax = 136.234297325
+			text = "Er lenkt ihn vielleicht ab oder so dadurch lässt der Hauptcharakter seinen Muffin fallen"
+		intervals [77]:
+			xmin = 136.234297325
+			xmax = 137.75074449
+			text = ""
+		intervals [78]:
+			xmin = 137.75074449
+			xmax = 139.347384143
+			text = "<v='Hast du'>Haste</v> da <v='eine'>'ne</v> Idee wie er ihn ablenken kann"
+		intervals [79]:
+			xmin = 139.347384143
+			xmax = 139.618400468
+			text = "<laughter/>"
+		intervals [80]:
+			xmin = 139.618400468
+			xmax = 151.577158543
+			text = ""
+		intervals [81]:
+			xmin = 151.577158543
+			xmax = 152.826190301
+			text = "Ja erschrecken <v='finde'>find'</v> ich gut"
+		intervals [82]:
+			xmin = 152.826190301
+			xmax = 153.969172193
+			text = ""
+		intervals [83]:
+			xmin = 153.969172193
+			xmax = 154.499421524
+			text = "{F ähm}"
+		intervals [84]:
+			xmin = 154.499421524
+			xmax = 156.605034009
+			text = ""
+		intervals [85]:
+			xmin = 156.605034009
+			xmax = 157.28846648
+			text = "Ja wie denn"
+		intervals [86]:
+			xmin = 157.28846648
+			xmax = 158.883727668
+			text = ""
+		intervals [87]:
+			xmin = 158.883727668
+			xmax = 159.142960675
+			text = "<laughter/>"
+		intervals [88]:
+			xmin = 159.142960675
+			xmax = 180.1535122
+			text = ""
+		intervals [89]:
+			xmin = 180.1535122
+			xmax = 181.261144137
+			text = "{F mh} okay {F ähm}"
+		intervals [90]:
+			xmin = 181.261144137
+			xmax = 183.543092931
+			text = ""
+		intervals [91]:
+			xmin = 183.543092931
+			xmax = 183.842641476
+			text = "ja"
+		intervals [92]:
+			xmin = 183.842641476
+			xmax = 198.366507573
+			text = "Vielleicht irgendwie (son + so) Klassiker {keine Ahnung} er hat <v='eine'>'ne</v> Gummispinne oder so in der Hand (und + oder) lässt die irgendwie von oben so herab gleiten vor seinem Gesicht und dann will er grad so in seinen Muffin beißen und dann <laughter/> fällt er ihm halt aus der Hand"
+		intervals [93]:
+			xmin = 198.366507573
+			xmax = 201.359470465
+			text = ""
+		intervals [94]:
+			xmin = 201.359470465
+			xmax = 201.854369841
+			text = "genau"
+		intervals [95]:
+			xmin = 201.854369841
+			xmax = 202.844168593
+			text = ""
+		intervals [96]:
+			xmin = 202.844168593
+			xmax = 203.051573369
+			text = "also"
+		intervals [97]:
+			xmin = 203.051573369
+			xmax = 205.130132377
+			text = "Er erschreckt sich erst so vor der Spinne und dann"
+		intervals [98]:
+			xmin = 205.130132377
+			xmax = 206.88322708
+			text = ""
+		intervals [99]:
+			xmin = 206.88322708
+			xmax = 207.148688367
+			text = "joa"
+		intervals [100]:
+			xmin = 207.148688367
+			xmax = 207.313654825
+			text = ""
+		intervals [101]:
+			xmin = 207.313654825
+			xmax = 213.505452063
+			text = "Will er halt hinterher stößt seinen Kopf <laughter/> {ja} und dann tritt er aus Versehen auf den Muffin drauf"
+		intervals [102]:
+			xmin = 213.505452063
+			xmax = 231.765042444
+			text = ""
+		intervals [103]:
+			xmin = 231.765042444
+			xmax = 234.143625708
+			text = "ja <unclear/> ein bisschen {halt} am Fluchen und-"
+		intervals [104]:
+			xmin = 234.143625708
+			xmax = 236.700006498
+			text = ""
+		intervals [105]:
+			xmin = 236.700006498
+			xmax = 237.242354473
+			text = "ja keine Ahnung"
+		intervals [106]:
+			xmin = 237.242354473
+			xmax = 237.784702449
+			text = ""
+		intervals [107]:
+			xmin = 237.784702449
+			xmax = 238.210833001
+			text = "<laughter/>"
+		intervals [108]:
+			xmin = 238.210833001
+			xmax = 238.505250473
+			text = ""
+		intervals [109]:
+			xmin = 238.505250473
+			xmax = 239.845624755
+			text = "Guckt den Nebencharacter blöd an"
+		intervals [110]:
+			xmin = 239.845624755
+			xmax = 244.125036044
+			text = ""
+		intervals [111]:
+			xmin = 244.125036044
+			xmax = 244.899818866
+			text = "Ja genau so"
+		intervals [112]:
+			xmin = 244.899818866
+			xmax = 245.767575626
+			text = ""
+		intervals [113]:
+			xmin = 245.767575626
+			xmax = 248.169402375
+			text = "So mehr über sich selbst als über den Nebencharakter"
+		intervals [114]:
+			xmin = 248.169402375
+			xmax = 250.434780428
+			text = ""
+		intervals [115]:
+			xmin = 250.434780428
+			xmax = 250.721450072
+			text = "ja"
+		intervals [116]:
+			xmin = 250.721450072
+			xmax = 250.938389262
+			text = ""
+		intervals [117]:
+			xmin = 250.938389262
+			xmax = 251.310285017
+			text = "<laughter/>"
+		intervals [118]:
+			xmin = 251.310285017
+			xmax = 252.394980968
+			text = ""
+		intervals [119]:
+			xmin = 252.394980968
+			xmax = 254.440407618
+			text = "Wie lässt er die Spinne herab . so-"
+		intervals [120]:
+			xmin = 254.440407618
+			xmax = 255.478616599
+			text = ""
+		intervals [121]:
+			xmin = 255.478616599
+			xmax = 257.500799764
+			text = "Stellt er sich hinter ihn und macht dann so-"
+		intervals [122]:
+			xmin = 257.500799764
+			xmax = 257.927225886
+			text = ""
+		intervals [123]:
+			xmin = 257.927225886
+			xmax = 262.235018377
+			text = "Hat er das (<p='vorher'>vor-</p> + vorher) schon irgendwie an der Decke installiert und <laughter/> lässt die dann runtergleiten"
+		intervals [124]:
+			xmin = 262.235018377
+			xmax = 265.194688756
+			text = ""
+		intervals [125]:
+			xmin = 265.194688756
+			xmax = 266.349115161
+			text = "Muss ja auch realistisch sein"
+		intervals [126]:
+			xmin = 266.349115161
+			xmax = 268.529267104
+			text = ""
+		intervals [127]:
+			xmin = 268.529267104
+			xmax = 268.924406343
+			text = "<laughter/>"
+		intervals [128]:
+			xmin = 268.924406343
+			xmax = 274.474863562
+			text = ""
+		intervals [129]:
+			xmin = 274.474863562
+			xmax = 276.194881427
+			text = "Achso {F äh} (mit <v='so einer'>soner</v> + mit <v='so einer'>soner</v>) Angelschnur"
+		intervals [130]:
+			xmin = 276.194881427
+			xmax = 284.170810375
+			text = ""
+		intervals [131]:
+			xmin = 284.170810375
+			xmax = 284.596940928
+			text = "ja okay"
+		intervals [132]:
+			xmin = 284.596940928
+			xmax = 287.350432159
+			text = ""
+		intervals [133]:
+			xmin = 287.350432159
+			xmax = 287.699084429
+			text = "genau"
+		intervals [134]:
+			xmin = 287.699084429
+			xmax = 288.055484527
+			text = ""
+		intervals [135]:
+			xmin = 288.055484527
+			xmax = 295.834304059
+			text = "Und dazu kommt noch dass das der letzte Muffin war so .. jeder hat sich schon einen genommen und er ist {halt} der letzte will sich den Muffin nehmen .. erschreckt sich <laughter/>"
+		intervals [136]:
+			xmin = 295.834304059
+			xmax = 325.060781063
+			text = ""
+		intervals [137]:
+			xmin = 325.060781063
+			xmax = 325.546909357
+			text = "na gut"
+		intervals [138]:
+			xmin = 325.546909357
+			xmax = 327.052037345
+			text = ""
+		intervals [139]:
+			xmin = 327.052037345
+			xmax = 328.183220492
+			text = "<laughter>Kann man machen</laughter>"
+		intervals [140]:
+			xmin = 328.183220492
+			xmax = 328.650651544
+			text = "<laughterOffset/>"
+		intervals [141]:
+			xmin = 328.650651544
+			xmax = 331.960730812
+			text = ""
+		intervals [142]:
+			xmin = 331.960730812
+			xmax = 334.040486523
+			text = "Ja ich <v='würde'>würd'</v> sagen dann ist die Szene komplett oder <laughter/>"
+		intervals [143]:
+			xmin = 334.040486523
+			xmax = 336.631015664
+			text = ""
+		intervals [144]:
+			xmin = 336.631015664
+			xmax = 336.902031989
+			text = "ja"
+		intervals [145]:
+			xmin = 336.902031989
+			xmax = 592.068451648
+			text = ""
+		intervals [146]:
+			xmin = 592.068451648
+			xmax = 592.928633897
+			text = "ach hallo"
+		intervals [147]:
+			xmin = 592.928633897
+			xmax = 593.777032827
+			text = "<laughter/>"
+		intervals [148]:
+			xmin = 593.777032827
+			xmax = 600.831596714
+			text = ""
+		intervals [149]:
+			xmin = 600.831596714
+			xmax = 602.412034305
+			text = "Kannst auch ruhig du sagen wir kennen uns ja"
+		intervals [150]:
+			xmin = 602.412034305
+			xmax = 602.504827938
+			text = ""
+		intervals [151]:
+			xmin = 602.504827938
+			xmax = 602.817085877
+			text = "<laughter/>"
+		intervals [152]:
+			xmin = 602.817085877
+			xmax = 624.934964021
+			text = ""
+		intervals [153]:
+			xmin = 624.934964021
+			xmax = 625.295970006
+			text = "na gut"
+		intervals [154]:
+			xmin = 625.295970006
+			xmax = 625.378453236
+			text = ""
+		intervals [155]:
+			xmin = 625.378453236
+			xmax = 626.246286514
+			text = "wenn das dein Beruf ist"
+		intervals [156]:
+			xmin = 626.246286514
+			xmax = 626.731920088
+			text = "<laughter/>"
+		intervals [157]:
+			xmin = 626.731920088
+			xmax = 640.955558325
+			text = ""
+		intervals [158]:
+			xmin = 640.955558325
+			xmax = 642.522739683
+			text = "Kannst wie gesagt ruhig du sagen ne"
+		intervals [159]:
+			xmin = 642.522739683
+			xmax = 643.919062922
+			text = "<laughter/>"
+		intervals [160]:
+			xmin = 643.919062922
+			xmax = 648.917480092
+			text = ""
+		intervals [161]:
+			xmin = 648.917480092
+			xmax = 650.749479587
+			text = "n:ein"
+		intervals [162]:
+			xmin = 650.749479587
+			xmax = 657.734790875
+			text = ""
+		intervals [163]:
+			xmin = 657.734790875
+			xmax = 658.895447745
+			text = "{F ähm:}"
+		intervals [164]:
+			xmin = 658.895447745
+			xmax = 660.529728095
+			text = ""
+		intervals [165]:
+			xmin = 660.529728095
+			xmax = 660.924469264
+			text = "<nv type='breathing'/>"
+		intervals [166]:
+			xmin = 660.924469264
+			xmax = 663.222216366
+			text = "Hätte das irgendwelche Konsequenzen wenn {F äh} -"
+		intervals [167]:
+			xmin = 663.222216366
+			xmax = 667.289751981
+			text = ""
+		intervals [168]:
+			xmin = 667.289751981
+			xmax = 667.484176736
+			text = "<unclear/>"
+		intervals [169]:
+			xmin = 667.484176736
+			xmax = 686.181723344
+			text = ""
+		intervals [170]:
+			xmin = 686.181723344
+			xmax = 686.641272765
+			text = "ja"
+		intervals [171]:
+			xmin = 686.641272765
+			xmax = 688.620870269
+			text = ""
+		intervals [172]:
+			xmin = 688.620870269
+			xmax = 689.327869377
+			text = "<nv type='breathing'/>"
+		intervals [173]:
+			xmin = 689.327869377
+			xmax = 689.869902027
+			text = ""
+		intervals [174]:
+			xmin = 689.869902027
+			xmax = 690.576901135
+			text = "ja also"
+		intervals [175]:
+			xmin = 690.576901135
+			xmax = 692.332615588
+			text = ""
+		intervals [176]:
+			xmin = 692.332615588
+			xmax = 693.181014518
+			text = "also"
+		intervals [177]:
+			xmin = 693.181014518
+			xmax = 696.06485743
+			text = "Der Name der auf meinem Ausweis steht ist eigentlich nicht mein Geburtsname"
+		intervals [178]:
+			xmin = 696.06485743
+			xmax = 696.359440392
+			text = "<laughter/>"
+		intervals [179]:
+			xmin = 696.359440392
+			xmax = 696.960389634
+			text = "<nv type='breathing'/>"
+		intervals [180]:
+			xmin = 696.960389634
+			xmax = 697.278539233
+			text = ""
+		intervals [181]:
+			xmin = 697.278539233
+			xmax = 697.950188386
+			text = "{F äh:}"
+		intervals [182]:
+			xmin = 697.950188386
+			xmax = 700.094752348
+			text = ""
+		intervals [183]:
+			xmin = 700.094752348
+			xmax = 700.653797753
+			text = "{F äh}"
+		intervals [184]:
+			xmin = 700.653797753
+			xmax = 701.697283661
+			text = "Nee der komplette Name"
+		intervals [185]:
+			xmin = 701.697283661
+			xmax = 702.745999005
+			text = ""
+		intervals [186]:
+			xmin = 702.745999005
+			xmax = 703.006476681
+			text = "{F äh}"
+		intervals [187]:
+			xmin = 703.006476681
+			xmax = 706.328127822
+			text = "Ich <v='heiße'>heiß'</v> eigentlich nicht <name>[NAME]</name> sondern {F äh} .. <name>[NAME]</name>"
+		intervals [188]:
+			xmin = 706.328127822
+			xmax = 707.605307699
+			text = ""
+		intervals [189]:
+			xmin = 707.605307699
+			xmax = 708.182690304
+			text = "{F äh}"
+		intervals [190]:
+			xmin = 708.182690304
+			xmax = 709.855921528
+			text = ""
+		intervals [191]:
+			xmin = 709.855921528
+			xmax = 717.208712256
+			text = "Ja das {F äh} das <v='ist'>is'</v> <v='eine'>'ne</v> lange Geschichte und .. {naja} . ich hab' meinen Namen ändern lassen als ich {F äh} neunzehn war"
+		intervals [192]:
+			xmin = 717.208712256
+			xmax = 717.968080281
+			text = ""
+		intervals [193]:
+			xmin = 717.968080281
+			xmax = 719.835736259
+			text = "Das hat was mit meinen Eltern zu tun {F äh}"
+		intervals [194]:
+			xmin = 719.835736259
+			xmax = 721.316833469
+			text = ""
+		intervals [195]:
+			xmin = 721.316833469
+			xmax = 724.598487664
+			text = "Das ist auch der Grund warum ich nicht viel über meine Eltern geredet <v='habe'>hab'</v> {F äh}"
+		intervals [196]:
+			xmin = 724.598487664
+			xmax = 726.189235658
+			text = ""
+		intervals [197]:
+			xmin = 726.189235658
+			xmax = 726.299267338
+			text = "na"
+		intervals [198]:
+			xmin = 726.299267338
+			xmax = 730.072987186
+			text = "Ich <v='habe'>hab'</v> jedenfalls meinen Namen ändern lassen und {F äh} den Kontakt zu meinen Eltern abgebrochen"
+		intervals [199]:
+			xmin = 730.072987186
+			xmax = 731.065076679
+			text = ""
+		intervals [200]:
+			xmin = 731.065076679
+			xmax = 731.554084396
+			text = "von daher"
+		intervals [201]:
+			xmin = 731.554084396
+			xmax = 731.777967447
+			text = ""
+		intervals [202]:
+			xmin = 731.777967447
+			xmax = 732.007742157
+			text = "ja"
+		intervals [203]:
+			xmin = 732.007742157
+			xmax = 732.314108437
+			text = ""
+		intervals [204]:
+			xmin = 732.314108437
+			xmax = 733.598490151
+			text = "Aber ich <v='habe'>hab'</v> den offiziell ändern lassen"
+		intervals [205]:
+			xmin = 733.598490151
+			xmax = 736.037637075
+			text = ""
+		intervals [206]:
+			xmin = 736.037637075
+			xmax = 736.349895015
+			text = "okay"
+		intervals [207]:
+			xmin = 736.349895015
+			xmax = 744.567448869
+			text = ""
+		intervals [208]:
+			xmin = 744.567448869
+			xmax = 744.844356854
+			text = "du"
+		intervals [209]:
+			xmin = 744.844356854
+			xmax = 744.909165105
+			text = ""
+		intervals [210]:
+			xmin = 744.909165105
+			xmax = 745.898963857
+			text = "<laughter/>"
+		intervals [211]:
+			xmin = 745.898963857
+			xmax = 758.425386475
+			text = ""
+		intervals [212]:
+			xmin = 758.425386475
+			xmax = 759.067577332
+			text = "ja"
+		intervals [213]:
+			xmin = 759.067577332
+			xmax = 760.335487366
+			text = ""
+		intervals [214]:
+			xmin = 760.335487366
+			xmax = 761.915402168
+			text = "Das habe ich dir glaube ich nicht erzählt"
+		intervals [215]:
+			xmin = 761.915402168
+			xmax = 762.304251678
+			text = "{F ähm}"
+		intervals [216]:
+			xmin = 762.304251678
+			xmax = 770.187799719
+			text = "(Ich war + ... ich war ) mal im Gefängnis . {F ähm} .. für ein paar Monate ... weil ich {F ähm} -"
+		intervals [217]:
+			xmin = 770.187799719
+			xmax = 770.765182324
+			text = ""
+		intervals [218]:
+			xmin = 770.765182324
+			xmax = 774.288394548
+			text = "Ich <v='glaube'>glaub'</v> es war (<p>n-</p> + neunzehnfünfundneunzig) {F ähm} ..."
+		intervals [219]:
+			xmin = 774.288394548
+			xmax = 775.2781933
+			text = ""
+		intervals [220]:
+			xmin = 775.2781933
+			xmax = 775.451534809
+			text = "ja"
+		intervals [221]:
+			xmin = 775.451534809
+			xmax = 785.763462302
+			text = "Es war so ich <v='habe'>hab'</v> .. ich hatte <v='eine'>'ne</v> Freundin .. {F ähm} ... in {F äh} ... in einem . anderen Land"
+		intervals [222]:
+			xmin = 785.763462302
+			xmax = 786.322051013
+			text = ""
+		intervals [223]:
+			xmin = 786.322051013
+			xmax = 790.557851524
+			text = "Und ich ... habe Medikamente besorgt weil diese Freundin krank war"
+		intervals [224]:
+			xmin = 790.557851524
+			xmax = 792.178411813
+			text = ""
+		intervals [225]:
+			xmin = 792.178411813
+			xmax = 797.76123481
+			text = "Nur sind diese Medikamente nicht leicht zu besorgen ... und nicht legal und {F ähm} -"
+		intervals [226]:
+			xmin = 797.76123481
+			xmax = 799.84688218
+			text = ""
+		intervals [227]:
+			xmin = 799.84688218
+			xmax = 800.076652583
+			text = "ja"
+		intervals [228]:
+			xmin = 800.076652583
+			xmax = 803.190398798
+			text = "(Ich hab' ... + man kann sagen ich hab') Drogen über die Grenze geschmuggelt"
+		intervals [229]:
+			xmin = 803.190398798
+			xmax = 803.956314499
+			text = ""
+		intervals [230]:
+			xmin = 803.956314499
+			xmax = 811.523491393
+			text = "Das ist dann rausgekommen im Nachhinein ... und dafür musste ich ein paar Monate (s- + {F äh} sitzen) und .. bin daher vorbestraft"
+		intervals [231]:
+			xmin = 811.523491393
+			xmax = 813.573788807
+			text = ""
+		intervals [232]:
+			xmin = 813.573788807
+			xmax = 813.856588451
+			text = "ja"
+		intervals [233]:
+			xmin = 813.856588451
+			xmax = 814.886199649
+			text = ""
+		intervals [234]:
+			xmin = 814.886199649
+			xmax = 818.670936225
+			text = "Aber es waren halt wie gesagt nur Medikamente die .. für meine Freundin waren"
+		intervals [235]:
+			xmin = 818.670936225
+			xmax = 841.257575133
+			text = ""
+		intervals [236]:
+			xmin = 841.257575133
+			xmax = 841.543320606
+			text = "ja"
+		intervals [237]:
+			xmin = 841.543320606
+			xmax = 842.52315476
+			text = ""
+		intervals [238]:
+			xmin = 842.52315476
+			xmax = 842.646879604
+			text = "ja"
+		intervals [239]:
+			xmin = 842.646879604
+			xmax = 843.053404091
+			text = "du weißt ja"
+		intervals [240]:
+			xmin = 843.053404091
+			xmax = 844.007852888
+			text = "Ich bin ja verheiratet"
+		intervals [241]:
+			xmin = 844.007852888
+			xmax = 844.443835671
+			text = "{F äh}"
+		intervals [242]:
+			xmin = 844.443835671
+			xmax = 846.247827981
+			text = ""
+		intervals [243]:
+			xmin = 846.247827981
+			xmax = 846.521790135
+			text = "ne"
+		intervals [244]:
+			xmin = 846.521790135
+			xmax = 847.527463103
+			text = "Ich <v='habe'>hab'</v> ja auch schon: -"
+		intervals [245]:
+			xmin = 847.527463103
+			xmax = 848.007633331
+			text = "{F äh}"
+		intervals [246]:
+			xmin = 848.007633331
+			xmax = 848.55850347
+			text = ""
+		intervals [247]:
+			xmin = 848.55850347
+			xmax = 848.702849121
+			text = "ne"
+		intervals [248]:
+			xmin = 848.702849121
+			xmax = 850.443834426
+			text = "Bist ja <laughter>verheiratet mit</laughter> meinem Kind"
+		intervals [249]:
+			xmin = 850.443834426
+			xmax = 852.215423095
+			text = ""
+		intervals [250]:
+			xmin = 852.215423095
+			xmax = 852.931259692
+			text = "{F äh:m:}"
+		intervals [251]:
+			xmin = 852.931259692
+			xmax = 857.546525807
+			text = ""
+		intervals [252]:
+			xmin = 857.546525807
+			xmax = 858.274145723
+			text = "okay {F ähm}"
+		intervals [253]:
+			xmin = 858.274145723
+			xmax = 859.839017683
+			text = ""
+		intervals [254]:
+			xmin = 859.839017683
+			xmax = 861.391469892
+			text = "Ich möchte dass das erstmal unter uns bleibt"
+		intervals [255]:
+			xmin = 861.391469892
+			xmax = 861.744969446
+			text = "ne"
+		intervals [256]:
+			xmin = 861.744969446
+			xmax = 864.296057896
+			text = "Ich ... sag erst mal nichts da meinem -"
+		intervals [257]:
+			xmin = 864.296057896
+			xmax = 864.905844627
+			text = ""
+		intervals [258]:
+			xmin = 864.905844627
+			xmax = 865.96634329
+			text = "So um was -"
+		intervals [259]:
+			xmin = 865.96634329
+			xmax = 867.27429164
+			text = ""
+		intervals [260]:
+			xmin = 867.27429164
+			xmax = 868.570456673
+			text = "Ich <v='habe'>hab'</v> noch ein anderes Kind"
+		intervals [261]:
+			xmin = 868.570456673
+			xmax = 869.253889144
+			text = ""
+		intervals [262]:
+			xmin = 869.253889144
+			xmax = 869.496457045
+			text = "{F äh}"
+		intervals [263]:
+			xmin = 869.496457045
+			xmax = 872.2396502
+			text = "Ich war auch schon ... vorher einmal verheiratet"
+		intervals [264]:
+			xmin = 872.2396502
+			xmax = 873.037749762
+			text = ""
+		intervals [265]:
+			xmin = 873.037749762
+			xmax = 877.350444324
+			text = "Und . bin geschieden und {F ähm} .. ich hab auch schon ein . Kind aus der ersten Ehe"
+		intervals [266]:
+			xmin = 877.350444324
+			xmax = 879.020729718
+			text = ""
+		intervals [267]:
+			xmin = 879.020729718
+			xmax = 879.556870709
+			text = "{F ähm}"
+		intervals [268]:
+			xmin = 879.556870709
+			xmax = 880.776061107
+			text = ""
+		intervals [269]:
+			xmin = 880.776061107
+			xmax = 881.08463676
+			text = "ja"
+		intervals [270]:
+			xmin = 881.08463676
+			xmax = 881.869534956
+			text = ""
+		intervals [271]:
+			xmin = 881.869534956
+			xmax = 882.516144558
+			text = "Ich <v='habe'>hab'</v> <v='nicht'>nich':</v> -"
+		intervals [272]:
+			xmin = 882.516144558
+			xmax = 884.567982371
+			text = ""
+		intervals [273]:
+			xmin = 884.567982371
+			xmax = 887.395978805
+			text = "Das weiß meine Frau nicht das weiß . mein . Sohn nicht"
+		intervals [274]:
+			xmin = 887.395978805
+			xmax = 888.779863275
+			text = ""
+		intervals [275]:
+			xmin = 888.779863275
+			xmax = 890.282236381
+			text = "Ich <v='habe'>hab'</v> das bisher geheim gehalten"
+		intervals [276]:
+			xmin = 890.282236381
+			xmax = 890.435419521
+			text = ""
+		intervals [277]:
+			xmin = 890.435419521
+			xmax = 891.165985267
+			text = "{F ähm:}"
+		intervals [278]:
+			xmin = 891.165985267
+			xmax = 891.61604211
+			text = ""
+		intervals [279]:
+			xmin = 891.61604211
+			xmax = 895.657720347
+			text = "Was nicht besonders einfach ist weil ich dem Kind monatlich Geld zuschicke"
+		intervals [280]:
+			xmin = 895.657720347
+			xmax = 899.125562657
+			text = ""
+		intervals [281]:
+			xmin = 899.125562657
+			xmax = 900.009311542
+			text = "Nee nur finanziell"
+		intervals [282]:
+			xmin = 900.009311542
+			xmax = 900.719409787
+			text = ""
+		intervals [283]:
+			xmin = 900.719409787
+			xmax = 900.930036605
+			text = "also"
+		intervals [284]:
+			xmin = 900.930036605
+			xmax = 904.192389601
+			text = "Wir schreiben uns . vielleicht mal an Weihnachten <v='eine'>'ne</v> Postkarte oder so"
+		intervals [285]:
+			xmin = 904.192389601
+			xmax = 906.192573022
+			text = ""
+		intervals [286]:
+			xmin = 906.192573022
+			xmax = 906.487155984
+			text = "ja"
+		intervals [287]:
+			xmin = 906.487155984
+			xmax = 907.241288366
+			text = ""
+		intervals [288]:
+			xmin = 907.241288366
+			xmax = 911.05649172
+			text = "Aber nur dass du das weißt und ... das behalten wir erstmal nur für uns"
+		intervals [289]:
+			xmin = 911.05649172
+			xmax = 918.201305742
+			text = ""
+		intervals [290]:
+			xmin = 918.201305742
+			xmax = 918.416571702
+			text = "okay"
+		intervals [291]:
+			xmin = 918.416571702
+			xmax = 938.415697686
+			text = ""
+		intervals [292]:
+			xmin = 938.415697686
+			xmax = 939.00486361
+			text = "{F äh}"
+		intervals [293]:
+			xmin = 939.00486361
+			xmax = 941.392278512
+			text = ""
+		intervals [294]:
+			xmin = 941.392278512
+			xmax = 944.526641226
+			text = "ich wa:r in der Zeit schonmal in Niemandsland"
+		intervals [295]:
+			xmin = 944.526641226
+			xmax = 945.801530039
+			text = ""
+		intervals [296]:
+			xmin = 945.801530039
+			xmax = 946.573337399
+			text = "{F ähm} . ja"
+		intervals [297]:
+			xmin = 946.573337399
+			xmax = 953.026995005
+			text = ""
+		intervals [298]:
+			xmin = 953.026995005
+			xmax = 953.822369002
+			text = "j:a:"
+		intervals [299]:
+			xmin = 953.822369002
+			xmax = 961.256232538
+			text = ""
+		intervals [300]:
+			xmin = 961.256232538
+			xmax = 962.682014073
+			text = "ja gut {F äh} ich:"
+		intervals [301]:
+			xmin = 962.682014073
+			xmax = 964.506775518
+			text = ""
+		intervals [302]:
+			xmin = 964.506775518
+			xmax = 967.959287831
+			text = "Ich war <unclear/> offiziell zu Urlaubszwecken {F ähm}"
+		intervals [303]:
+			xmin = 967.959287831
+			xmax = 969.414881661
+			text = ""
+		intervals [304]:
+			xmin = 969.414881661
+			xmax = 970.004047585
+			text = "aber"
+		intervals [305]:
+			xmin = 970.004047585
+			xmax = 970.811558294
+			text = ""
+		intervals [306]:
+			xmin = 970.811558294
+			xmax = 971.117924574
+			text = "<nv type='breathing'/>"
+		intervals [307]:
+			xmin = 971.117924574
+			xmax = 977.516266506
+			text = "Ich <v='habe'>hab'</v> da: auch illegalerweise {muss ich sagen} gearbeitet ... ich hatte keine Arbeitserlaubnis"
+		intervals [308]:
+			xmin = 977.516266506
+			xmax = 979.656817239
+			text = ""
+		intervals [309]:
+			xmin = 979.656817239
+			xmax = 980.375599666
+			text = "<nv type='breathing'/>"
+		intervals [310]:
+			xmin = 980.375599666
+			xmax = 983.097546234
+			text = "Und {F ähm} <v='habe'>hab'</v> da halt schwarz gearbeitet"
+		intervals [311]:
+			xmin = 983.097546234
+			xmax = 985.260138568
+			text = ""
+		intervals [312]:
+			xmin = 985.260138568
+			xmax = 985.62542144
+			text = "{F äh}"
+		intervals [313]:
+			xmin = 985.62542144
+			xmax = 986.850886562
+			text = ""
+		intervals [314]:
+			xmin = 986.850886562
+			xmax = 987.876035269
+			text = "ja <laughter/>"
+		intervals [315]:
+			xmin = 987.876035269
+			xmax = 988.854050702
+			text = ""
+		intervals [316]:
+			xmin = 988.854050702
+			xmax = 997.6636217
+			text = "Ich will nicht dass das jetzt zwischen uns steht aber ... da du das ja fragen ... musst und ich auch ... ehrlich antworten muss {F äh} . <v='wollte'>wollt'</v> ich dir das halt sagen"
+		intervals [317]:
+			xmin = 997.6636217
+			xmax = 1018.68168249
+			text = ""
+		intervals [318]:
+			xmin = 1018.68168249
+			xmax = 1018.98510294
+			text = "ja"
+		intervals [319]:
+			xmin = 1018.98510294
+			xmax = 1032.59005642
+			text = ""
+		intervals [320]:
+			xmin = 1032.59005642
+			xmax = 1033.57985517
+			text = "<nv type='breathing'/>"
+		intervals [321]:
+			xmin = 1033.57985517
+			xmax = 1034.87602021
+			text = ""
+		intervals [322]:
+			xmin = 1034.87602021
+			xmax = 1035.98365214
+			text = "{F ähm} ja also"
+		intervals [323]:
+			xmin = 1035.98365214
+			xmax = 1036.9145343
+			text = ""
+		intervals [324]:
+			xmin = 1036.9145343
+			xmax = 1042.25695845
+			text = "Ich <v='habe'>hab'</v> halt da diese Pilze ... die bei uns im Land wachsen ne"
+		intervals [325]:
+			xmin = 1042.25695845
+			xmax = 1043.89175421
+			text = ""
+		intervals [326]:
+			xmin = 1043.89175421
+			xmax = 1044.21874129
+			text = "{F äh}"
+		intervals [327]:
+			xmin = 1044.21874129
+			xmax = 1044.85724986
+			text = ""
+		intervals [328]:
+			xmin = 1044.85724986
+			xmax = 1045.05167462
+			text = "ja"
+		intervals [329]:
+			xmin = 1045.05167462
+			xmax = 1053.02219532
+			text = "Und (die <v='habe'>hab'</v> ich: + {F äh} die würde ich) halt gern mitnehmen ... ins Niemandsland und {F äh} würd' da halt ... die Pilze weiterzüchten"
+		intervals [330]:
+			xmin = 1053.02219532
+			xmax = 1053.69391368
+			text = ""
+		intervals [331]:
+			xmin = 1053.69391368
+			xmax = 1073.27486192
+			text = "Nur ich <v='habe'>hab'</v> halt im Internet gelesen dass die da nicht wachsen und {F ähm} ... es: soll ja wohl Verordnungen geben dass man {F ähm} ... keine . fremden Pflanzen oder ... Tiere oder was auch immer miteinschleppen darf aber ... {na ja} <nv/> ich <v='finde'>find'</v> die halt so lecker"
+		intervals [332]:
+			xmin = 1073.27486192
+			xmax = 1074.17615492
+			text = "<laughter/>"
+		intervals [333]:
+			xmin = 1074.17615492
+			xmax = 1074.3462102
+			text = ""
+		intervals [334]:
+			xmin = 1074.3462102
+			xmax = 1075.8038269
+			text = "<v='Würde'>Würd'</v> die halt gern . mitnehmen"
+		intervals [335]:
+			xmin = 1075.8038269
+			xmax = 1077.14483427
+			text = ""
+		intervals [336]:
+			xmin = 1077.14483427
+			xmax = 1077.53353205
+			text = "{F äh}"
+		intervals [337]:
+			xmin = 1077.53353205
+			xmax = 1079.18353878
+			text = ""
+		intervals [338]:
+			xmin = 1079.18353878
+			xmax = 1079.97007529
+			text = "und {F ähm}"
+		intervals [339]:
+			xmin = 1079.97007529
+			xmax = 1081.23089037
+			text = ""
+		intervals [340]:
+			xmin = 1081.23089037
+			xmax = 1083.64540635
+			text = "Die haben halt auch (so <v='ein'>'n</v> + <v='eine'>'ne</v>) heilende Wirkung"
+		intervals [341]:
+			xmin = 1083.64540635
+			xmax = 1083.88622792
+			text = "also"
+		intervals [342]:
+			xmin = 1083.88622792
+			xmax = 1089.73560072
+			text = "(Ich <v='habe'>hab'</v> das +) Seit dem ich die esse ... merke ich das halt dass es mir besser geht und {F ähm}"
+		intervals [343]:
+			xmin = 1089.73560072
+			xmax = 1090.20071439
+			text = ""
+		intervals [344]:
+			xmin = 1090.20071439
+			xmax = 1094.02112772
+			text = "Du weißt ja ich hatte diese Probleme mit dem starken Husten und die sind seit dem auch weg und"
+		intervals [345]:
+			xmin = 1094.02112772
+			xmax = 1095.70213197
+			text = ""
+		intervals [346]:
+			xmin = 1095.70213197
+			xmax = 1096.09834605
+			text = "{F äh}"
+		intervals [347]:
+			xmin = 1096.09834605
+			xmax = 1096.48681111
+			text = ""
+		intervals [348]:
+			xmin = 1096.48681111
+			xmax = 1096.86976897
+			text = "ja"
+		intervals [349]:
+			xmin = 1096.86976897
+			xmax = 1113.07961988
+			text = ""
+		intervals [350]:
+			xmin = 1113.07961988
+			xmax = 1113.56273594
+			text = "ja"
+		intervals [351]:
+			xmin = 1113.56273594
+			xmax = 1114.21348373
+			text = ""
+		intervals [352]:
+			xmin = 1114.21348373
+			xmax = 1115.5243779
+			text = "<v='Kannst du'>Kannst'</v> da keine Ausnahme machen"
+		intervals [353]:
+			xmin = 1115.5243779
+			xmax = 1123.67507603
+			text = ""
+		intervals [354]:
+			xmin = 1123.67507603
+			xmax = 1123.99322563
+			text = "ja"
+		intervals [355]:
+			xmin = 1123.99322563
+			xmax = 1163.04473916
+			text = ""
+		intervals [356]:
+			xmin = 1163.04473916
+			xmax = 1164.00507962
+			text = "Ja klar ja ich will-"
+		intervals [357]:
+			xmin = 1164.00507962
+			xmax = 1164.66780732
+			text = ""
+		intervals [358]:
+			xmin = 1164.66780732
+			xmax = 1165.97575567
+			text = "Ich will dich ja nicht in Gefahr bringen"
+		intervals [359]:
+			xmin = 1165.97575567
+			xmax = 1166.15250545
+			text = ""
+		intervals [360]:
+			xmin = 1166.15250545
+			xmax = 1166.77702133
+			text = "Ist schon recht"
+		intervals [361]:
+			xmin = 1166.77702133
+			xmax = 1168.82259752
+			text = ""
+		intervals [362]:
+			xmin = 1168.82259752
+			xmax = 1169.10539716
+			text = "ja"
+		intervals [363]:
+			xmin = 1169.10539716
+			xmax = 1171.04964471
+			text = ""
+		intervals [364]:
+			xmin = 1171.04964471
+			xmax = 1171.8247519
+			text = "Machst ja halt nur deinen Job"
+		intervals [365]:
+			xmin = 1171.8247519
+			xmax = 1171.90134347
+			text = ""
+		intervals [366]:
+			xmin = 1171.90134347
+			xmax = 1172.26662634
+			text = "naja"
+		intervals [367]:
+			xmin = 1172.26662634
+			xmax = 1172.47798962
+			text = ""
+		intervals [368]:
+			xmin = 1172.47798962
+			xmax = 1173.10324195
+			text = "Verstehe ich schon"
+		intervals [369]:
+			xmin = 1173.10324195
+			xmax = 1187.64908978
+			text = ""
+		intervals [370]:
+			xmin = 1187.64908978
+			xmax = 1188.52105535
+			text = "Ja alles klar"
+		intervals [371]:
+			xmin = 1188.52105535
+			xmax = 1190.21792051
+			text = ""
+		intervals [372]:
+			xmin = 1190.21792051
+			xmax = 1191.34911908
+			text = "Dann sind wir hier fertig"
+		intervals [373]:
+			xmin = 1191.34911908
+			xmax = 1192.42434689
+			text = ""
+		intervals [374]:
+			xmin = 1192.42434689
+			xmax = 1192.80141308
+			text = "okay"
+		intervals [375]:
+			xmin = 1192.80141308
+			xmax = 1193.06064609
+			text = ""
+		intervals [376]:
+			xmin = 1193.06064609
+			xmax = 1193.52019551
+			text = "ja"
+		intervals [377]:
+			xmin = 1193.52019551
+			xmax = 1197.97922022
+			text = ""
+		intervals [378]:
+			xmin = 1197.97922022
+			xmax = 1202.55022518
+			text = "Dann {F äh} ... grüß meinen Sohn von mir ne wenn du ihn das nächste Mal siehst"
+		intervals [379]:
+			xmin = 1202.55022518
+			xmax = 1202.79178321
+			text = "<laughter/>"
+		intervals [380]:
+			xmin = 1202.79178321
+			xmax = 1204.60088021
+			text = ""
+		intervals [381]:
+			xmin = 1204.60088021
+			xmax = 1205.13702116
+			text = "ja gut"
+		intervals [382]:
+			xmin = 1205.13702116
+			xmax = 1205.8440202
+			text = ""
+		intervals [383]:
+			xmin = 1205.8440202
+			xmax = 1206.12092817
+			text = "<laughter/>"
+		intervals [384]:
+			xmin = 1206.12092817
+			xmax = 1206.19751973
+			text = ""
+		intervals [385]:
+			xmin = 1206.19751973
+			xmax = 1206.59226086
+			text = "okay"
+		intervals [386]:
+			xmin = 1206.59226086
+			xmax = 1207.23909221
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "Part"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 4
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.0443246935
+			text = ""
+		intervals [2]:
+			xmin = 4.0443246935
+			xmax = 341.054995454
+			text = "film_script"
+		intervals [3]:
+			xmin = 341.054995454
+			xmax = 592.068451648
+			text = ""
+		intervals [4]:
+			xmin = 592.068451648
+			xmax = 1207.23909221
+			text = "border_control"
+	item [6]:
+		class = "IntervalTier"
+		name = "B-laughter"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 71
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.76478918669
+			text = ""
+		intervals [2]:
+			xmin = 4.76478918669
+			xmax = 5.2778322304
+			text = "<laughter/>"
+		intervals [3]:
+			xmin = 5.2778322304
+			xmax = 5.51275193989
+			text = "<laughterOffset/>"
+		intervals [4]:
+			xmin = 5.51275193989
+			xmax = 10.9221220891
+			text = ""
+		intervals [5]:
+			xmin = 10.9221220891
+			xmax = 11.2029456499
+			text = "<laughter/>"
+		intervals [6]:
+			xmin = 11.2029456499
+			xmax = 11.7780939042
+			text = "<laughterOffset/>"
+		intervals [7]:
+			xmin = 11.7780939042
+			xmax = 20.7899121818
+			text = ""
+		intervals [8]:
+			xmin = 20.7899121818
+			xmax = 21.2327493354
+			text = "<laughter/>"
+		intervals [9]:
+			xmin = 21.2327493354
+			xmax = 44.5234824165
+			text = ""
+		intervals [10]:
+			xmin = 44.5234824165
+			xmax = 45.8138601764
+			text = "<laughter/>"
+		intervals [11]:
+			xmin = 45.8138601764
+			xmax = 50.7235750699
+			text = ""
+		intervals [12]:
+			xmin = 50.7235750699
+			xmax = 51.347109146
+			text = "<laughter/>"
+		intervals [13]:
+			xmin = 51.347109146
+			xmax = 69.5612727522
+			text = ""
+		intervals [14]:
+			xmin = 69.5612727522
+			xmax = 69.9017795786
+			text = "<laughter/>"
+		intervals [15]:
+			xmin = 69.9017795786
+			xmax = 99.7452935617
+			text = ""
+		intervals [16]:
+			xmin = 99.7452935617
+			xmax = 100.439789301
+			text = "<laughter/>"
+		intervals [17]:
+			xmin = 100.439789301
+			xmax = 100.976650342
+			text = "<laughterOffset/>"
+		intervals [18]:
+			xmin = 100.976650342
+			xmax = 113.424565106
+			text = ""
+		intervals [19]:
+			xmin = 113.424565106
+			xmax = 113.817288772
+			text = "<laughter/>"
+		intervals [20]:
+			xmin = 113.817288772
+			xmax = 113.923140704
+			text = "<laughter/>"
+		intervals [21]:
+			xmin = 113.923140704
+			xmax = 114.49463165
+			text = "<laughterOffset/>"
+		intervals [22]:
+			xmin = 114.49463165
+			xmax = 117.366160439
+			text = ""
+		intervals [23]:
+			xmin = 117.366160439
+			xmax = 117.684310038
+			text = "<laughter/>"
+		intervals [24]:
+			xmin = 117.684310038
+			xmax = 118.29115094
+			text = "<laughterOffset/>"
+		intervals [25]:
+			xmin = 118.29115094
+			xmax = 122.878074569
+			text = ""
+		intervals [26]:
+			xmin = 122.878074569
+			xmax = 123.10195762
+			text = "<laughter/>"
+		intervals [27]:
+			xmin = 123.10195762
+			xmax = 128.450884668
+			text = ""
+		intervals [28]:
+			xmin = 128.450884668
+			xmax = 129.034158933
+			text = "<laughter/>"
+		intervals [29]:
+			xmin = 129.034158933
+			xmax = 129.835424589
+			text = "<laughterOffset/>"
+		intervals [30]:
+			xmin = 129.835424589
+			xmax = 139.347384143
+			text = ""
+		intervals [31]:
+			xmin = 139.347384143
+			xmax = 139.618400468
+			text = "<laughter/>"
+		intervals [32]:
+			xmin = 139.618400468
+			xmax = 158.883727668
+			text = ""
+		intervals [33]:
+			xmin = 158.883727668
+			xmax = 159.142960675
+			text = "<laughter/>"
+		intervals [34]:
+			xmin = 159.142960675
+			xmax = 196.173391653
+			text = ""
+		intervals [35]:
+			xmin = 196.173391653
+			xmax = 196.425856867
+			text = "<laughter/>"
+		intervals [36]:
+			xmin = 196.425856867
+			xmax = 209.138688535
+			text = ""
+		intervals [37]:
+			xmin = 209.138688535
+			xmax = 209.559463891
+			text = "<laughter/>"
+		intervals [38]:
+			xmin = 209.559463891
+			xmax = 250.938389262
+			text = ""
+		intervals [39]:
+			xmin = 250.938389262
+			xmax = 251.310285017
+			text = "<laughter/>"
+		intervals [40]:
+			xmin = 251.310285017
+			xmax = 260.372856142
+			text = ""
+		intervals [41]:
+			xmin = 260.372856142
+			xmax = 260.87778657
+			text = "<laughter/>"
+		intervals [42]:
+			xmin = 260.87778657
+			xmax = 268.529267104
+			text = ""
+		intervals [43]:
+			xmin = 268.529267104
+			xmax = 268.924406343
+			text = "<laughter/>"
+		intervals [44]:
+			xmin = 268.924406343
+			xmax = 295.228265783
+			text = ""
+		intervals [45]:
+			xmin = 295.228265783
+			xmax = 295.834304059
+			text = "<laughter/>"
+		intervals [46]:
+			xmin = 295.834304059
+			xmax = 327.052037345
+			text = ""
+		intervals [47]:
+			xmin = 327.052037345
+			xmax = 328.183220492
+			text = "<laughter>Kann man machen</laughter>"
+		intervals [48]:
+			xmin = 328.183220492
+			xmax = 328.650651544
+			text = "<laughterOffset/>"
+		intervals [49]:
+			xmin = 328.650651544
+			xmax = 333.607251809
+			text = ""
+		intervals [50]:
+			xmin = 333.607251809
+			xmax = 334.040486523
+			text = "<laughter/>"
+		intervals [51]:
+			xmin = 334.040486523
+			xmax = 592.928633897
+			text = ""
+		intervals [52]:
+			xmin = 592.928633897
+			xmax = 593.777032827
+			text = "<laughter/>"
+		intervals [53]:
+			xmin = 593.777032827
+			xmax = 602.504827938
+			text = ""
+		intervals [54]:
+			xmin = 602.504827938
+			xmax = 602.817085877
+			text = "<laughter/>"
+		intervals [55]:
+			xmin = 602.817085877
+			xmax = 642.522739683
+			text = ""
+		intervals [56]:
+			xmin = 642.522739683
+			xmax = 643.919062922
+			text = "<laughter/>"
+		intervals [57]:
+			xmin = 643.919062922
+			xmax = 696.06485743
+			text = ""
+		intervals [58]:
+			xmin = 696.06485743
+			xmax = 696.359440392
+			text = "<laughter/>"
+		intervals [59]:
+			xmin = 696.359440392
+			xmax = 744.909165105
+			text = ""
+		intervals [60]:
+			xmin = 744.909165105
+			xmax = 745.898963857
+			text = "<laughter/>"
+		intervals [61]:
+			xmin = 745.898963857
+			xmax = 849.620906315
+			text = ""
+		intervals [62]:
+			xmin = 849.620906315
+			xmax = 849.901423219
+			text = "</laughter>"
+		intervals [63]:
+			xmin = 849.901423219
+			xmax = 987.298818695
+			text = ""
+		intervals [64]:
+			xmin = 987.298818695
+			xmax = 987.876035269
+			text = "<laughter/>"
+		intervals [65]:
+			xmin = 987.876035269
+			xmax = 1073.27486192
+			text = ""
+		intervals [66]:
+			xmin = 1073.27486192
+			xmax = 1074.17615492
+			text = "<laughter/>"
+		intervals [67]:
+			xmin = 1074.17615492
+			xmax = 1202.55022518
+			text = ""
+		intervals [68]:
+			xmin = 1202.55022518
+			xmax = 1202.79178321
+			text = "<laughter/>"
+		intervals [69]:
+			xmin = 1202.79178321
+			xmax = 1205.8440202
+			text = ""
+		intervals [70]:
+			xmin = 1205.8440202
+			xmax = 1206.12092817
+			text = "<laughter/>"
+		intervals [71]:
+			xmin = 1206.12092817
+			xmax = 1207.23909221
+			text = ""
+	item [7]:
+		class = "IntervalTier"
+		name = "A-laughter"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 86
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.93490345908
+			text = ""
+		intervals [2]:
+			xmin = 4.93490345908
+			xmax = 5.37313547503
+			text = "<laughter/>"
+		intervals [3]:
+			xmin = 5.37313547503
+			xmax = 5.57504971633
+			text = ""
+		intervals [4]:
+			xmin = 5.57504971633
+			xmax = 5.92695144335
+			text = "<laughterOffset/>"
+		intervals [5]:
+			xmin = 5.92695144335
+			xmax = 50.6869088899
+			text = ""
+		intervals [6]:
+			xmin = 50.6869088899
+			xmax = 52.3243028605
+			text = "<laughter/>"
+		intervals [7]:
+			xmin = 52.3243028605
+			xmax = 53.0477599281
+			text = "<laughter>ganz lustig</laughter>"
+		intervals [8]:
+			xmin = 53.0477599281
+			xmax = 53.7574652082
+			text = ""
+		intervals [9]:
+			xmin = 53.7574652082
+			xmax = 54.1169061986
+			text = "<laughterOffset/>"
+		intervals [10]:
+			xmin = 54.1169061986
+			xmax = 57.2196118837
+			text = ""
+		intervals [11]:
+			xmin = 57.2196118837
+			xmax = 58.8185582384
+			text = "<laughter>Bananenschalen-artiges</laughter>"
+		intervals [12]:
+			xmin = 58.8185582384
+			xmax = 91.016139481
+			text = ""
+		intervals [13]:
+			xmin = 91.016139481
+			xmax = 92.2112516757
+			text = "<laughter/>"
+		intervals [14]:
+			xmin = 92.2112516757
+			xmax = 99.9161516796
+			text = ""
+		intervals [15]:
+			xmin = 99.9161516796
+			xmax = 100.835250521
+			text = "<laughter/>"
+		intervals [16]:
+			xmin = 100.835250521
+			xmax = 113.837056556
+			text = ""
+		intervals [17]:
+			xmin = 113.837056556
+			xmax = 115.598662668
+			text = "<laughter/>"
+		intervals [18]:
+			xmin = 115.598662668
+			xmax = 116.117128681
+			text = "<laughterOffset/>"
+		intervals [19]:
+			xmin = 116.117128681
+			xmax = 127.725305133
+			text = ""
+		intervals [20]:
+			xmin = 127.725305133
+			xmax = 128.470625507
+			text = "<laughter>einbringen</laughter>"
+		intervals [21]:
+			xmin = 128.470625507
+			xmax = 129.148166319
+			text = "<laughter/>"
+		intervals [22]:
+			xmin = 129.148166319
+			xmax = 129.672523991
+			text = "<laughterOffset/>"
+		intervals [23]:
+			xmin = 129.672523991
+			xmax = 158.235645152
+			text = ""
+		intervals [24]:
+			xmin = 158.235645152
+			xmax = 158.706977891
+			text = "<laughter/>"
+		intervals [25]:
+			xmin = 158.706977891
+			xmax = 158.989777535
+			text = ""
+		intervals [26]:
+			xmin = 158.989777535
+			xmax = 159.570337303
+			text = "<laughter>Der sich</laughter>"
+		intervals [27]:
+			xmin = 159.570337303
+			xmax = 178.075067271
+			text = ""
+		intervals [28]:
+			xmin = 178.075067271
+			xmax = 178.617099921
+			text = "<laughter/>"
+		intervals [29]:
+			xmin = 178.617099921
+			xmax = 178.93524952
+			text = ""
+		intervals [30]:
+			xmin = 178.93524952
+			xmax = 179.406582259
+			text = "<laughterOffset/>"
+		intervals [31]:
+			xmin = 179.406582259
+			xmax = 196.669709712
+			text = ""
+		intervals [32]:
+			xmin = 196.669709712
+			xmax = 197.235308999
+			text = "<laughter/>"
+		intervals [33]:
+			xmin = 197.235308999
+			xmax = 225.264202732
+			text = ""
+		intervals [34]:
+			xmin = 225.264202732
+			xmax = 227.368099935
+			text = "<laughter>gestoßen und den Muffin fallen gelassen</laughter>"
+		intervals [35]:
+			xmin = 227.368099935
+			xmax = 260.569235309
+			text = ""
+		intervals [36]:
+			xmin = 260.569235309
+			xmax = 261.181313739
+			text = "<laughter/>"
+		intervals [37]:
+			xmin = 261.181313739
+			xmax = 269.048371595
+			text = ""
+		intervals [38]:
+			xmin = 269.048371595
+			xmax = 272.259484888
+			text = "<laughter>Die Spinne da oben</laughter>"
+		intervals [39]:
+			xmin = 272.259484888
+			xmax = 306.946089256
+			text = ""
+		intervals [40]:
+			xmin = 306.946089256
+			xmax = 308.068156873
+			text = "<laughter>Charakter</laughter>"
+		intervals [41]:
+			xmin = 308.068156873
+			xmax = 308.629190682
+			text = "<laughterOffset/>"
+		intervals [42]:
+			xmin = 308.629190682
+			xmax = 310.592809012
+			text = ""
+		intervals [43]:
+			xmin = 310.592809012
+			xmax = 313.874856793
+			text = "<laughter> über freut jetzt endlich in der Pause</laughter> den Muffin essen zu können</laughter>"
+		intervals [44]:
+			xmin = 313.874856793
+			xmax = 327.725138061
+			text = ""
+		intervals [45]:
+			xmin = 327.725138061
+			xmax = 328.501073607
+			text = "<laughter/>"
+		intervals [46]:
+			xmin = 328.501073607
+			xmax = 333.931490827
+			text = ""
+		intervals [47]:
+			xmin = 333.931490827
+			xmax = 334.143590559
+			text = "<laughter/>"
+		intervals [48]:
+			xmin = 334.143590559
+			xmax = 334.284990381
+			text = ""
+		intervals [49]:
+			xmin = 334.284990381
+			xmax = 334.874156305
+			text = "<laughter>joa</laughter>"
+		intervals [50]:
+			xmin = 334.874156305
+			xmax = 335.455629646
+			text = ""
+		intervals [51]:
+			xmin = 335.455629646
+			xmax = 335.838587496
+			text = "<laughterOffset/>"
+		intervals [52]:
+			xmin = 335.838587496
+			xmax = 338.334850252
+			text = ""
+		intervals [53]:
+			xmin = 338.334850252
+			xmax = 338.962311961
+			text = "<laughter/>"
+		intervals [54]:
+			xmin = 338.962311961
+			xmax = 339.460157166
+			text = ""
+		intervals [55]:
+			xmin = 339.460157166
+			xmax = 339.952110712
+			text = "<laughter/>"
+		intervals [56]:
+			xmin = 339.952110712
+			xmax = 340.013973134
+			text = ""
+		intervals [57]:
+			xmin = 340.013973134
+			xmax = 340.467630896
+			text = "<laughterOffset/>"
+		intervals [58]:
+			xmin = 340.467630896
+			xmax = 609.052751487
+			text = ""
+		intervals [59]:
+			xmin = 609.052751487
+			xmax = 609.41803436
+			text = "<laughter/>"
+		intervals [60]:
+			xmin = 609.41803436
+			xmax = 642.941047488
+			text = ""
+		intervals [61]:
+			xmin = 642.941047488
+			xmax = 643.765879782
+			text = "<laughter/>"
+		intervals [62]:
+			xmin = 643.765879782
+			xmax = 643.989762833
+			text = ""
+		intervals [63]:
+			xmin = 643.989762833
+			xmax = 644.431637275
+			text = "<laughterOffset/>"
+		intervals [64]:
+			xmin = 644.431637275
+			xmax = 647.11834049
+			text = ""
+		intervals [65]:
+			xmin = 647.11834049
+			xmax = 647.721473266
+			text = "<laughter>benutzt</laughter>"
+		intervals [66]:
+			xmin = 647.721473266
+			xmax = 706.634494102
+			text = ""
+		intervals [67]:
+			xmin = 706.634494102
+			xmax = 707.141176796
+			text = "<laughter/>"
+		intervals [68]:
+			xmin = 707.141176796
+			xmax = 745.486515658
+			text = ""
+		intervals [69]:
+			xmin = 745.486515658
+			xmax = 746.468324823
+			text = "<laughter>du</laughter> <laughterOffset/>"
+		intervals [70]:
+			xmin = 746.468324823
+			xmax = 851.431832417
+			text = ""
+		intervals [71]:
+			xmin = 851.431832417
+			xmax = 851.776494482
+			text = "<laughter/>"
+		intervals [72]:
+			xmin = 851.776494482
+			xmax = 1074.32798959
+			text = ""
+		intervals [73]:
+			xmin = 1074.32798959
+			xmax = 1074.6778176
+			text = "<laughter/>"
+		intervals [74]:
+			xmin = 1074.6778176
+			xmax = 1130.60543214
+			text = ""
+		intervals [75]:
+			xmin = 1130.60543214
+			xmax = 1131.20690666
+			text = "<laughter>lebt</laughter>"
+		intervals [76]:
+			xmin = 1131.20690666
+			xmax = 1195.33386522
+			text = ""
+		intervals [77]:
+			xmin = 1195.33386522
+			xmax = 1196.95407151
+			text = "<laughter/>"
+		intervals [78]:
+			xmin = 1196.95407151
+			xmax = 1197.31935438
+			text = "<laughterOffset/>"
+		intervals [79]:
+			xmin = 1197.31935438
+			xmax = 1201.78930789
+			text = ""
+		intervals [80]:
+			xmin = 1201.78930789
+			xmax = 1203.42129735
+			text = "<laughter/>"
+		intervals [81]:
+			xmin = 1203.42129735
+			xmax = 1203.7571219
+			text = ""
+		intervals [82]:
+			xmin = 1203.7571219
+			xmax = 1204.18132133
+			text = "<laughterOffset/>"
+		intervals [83]:
+			xmin = 1204.18132133
+			xmax = 1204.61266353
+			text = ""
+		intervals [84]:
+			xmin = 1204.61266353
+			xmax = 1205.65548713
+			text = "<laughter>alles klar</laughter>"
+		intervals [85]:
+			xmin = 1205.65548713
+			xmax = 1206.80310946
+			text = ""
+		intervals [86]:
+			xmin = 1206.80310946
+			xmax = 1207.23909221
+			text = "<laughter/>"
+	item [8]:
+		class = "IntervalTier"
+		name = "A-utts"
+		xmin = 0.0
+		xmax = 1207.23909221
+		intervals: size = 318
+		intervals [1]:
+			xmin = 0.0
+			xmax = 4.1739355677
+			text = ""
+		intervals [2]:
+			xmin = 4.1739355677
+			xmax = 4.3273659604
+			text = "<unclear/>"
+		intervals [3]:
+			xmin = 4.3273659604
+			xmax = 4.93490345908
+			text = ""
+		intervals [4]:
+			xmin = 4.93490345908
+			xmax = 5.37313547503
+			text = "<laughter/>"
+		intervals [5]:
+			xmin = 5.37313547503
+			xmax = 5.57504971633
+			text = ""
+		intervals [6]:
+			xmin = 5.57504971633
+			xmax = 5.92695144335
+			text = "<laughterOffset/>"
+		intervals [7]:
+			xmin = 5.92695144335
+			xmax = 6.7520179352
+			text = ""
+		intervals [8]:
+			xmin = 6.7520179352
+			xmax = 7.25155984618
+			text = "<unclear/>"
+		intervals [9]:
+			xmin = 7.25155984618
+			xmax = 20.6819025156
+			text = ""
+		intervals [10]:
+			xmin = 20.6819025156
+			xmax = 20.8240204393
+			text = "ja"
+		intervals [11]:
+			xmin = 20.8240204393
+			xmax = 25.4792110043
+			text = "Es muss ja auf jeden Fall <v='etwas'>'was</v> sein: . wo etwas lustiges aber auch unangenehmes oder peinliches passiert"
+		intervals [12]:
+			xmin = 25.4792110043
+			xmax = 27.4396719365
+			text = ""
+		intervals [13]:
+			xmin = 27.4396719365
+			xmax = 29.0814096764
+			text = "Hattest du da . <v='eine'>'ne</v> Idee"
+		intervals [14]:
+			xmin = 29.0814096764
+			xmax = 50.6869088899
+			text = ""
+		intervals [15]:
+			xmin = 50.6869088899
+			xmax = 52.3243028605
+			text = "<laughter/>"
+		intervals [16]:
+			xmin = 52.3243028605
+			xmax = 53.0477599281
+			text = "<laughter>ganz lustig</laughter>"
+		intervals [17]:
+			xmin = 53.0477599281
+			xmax = 53.7574652082
+			text = ""
+		intervals [18]:
+			xmin = 53.7574652082
+			xmax = 54.1169061986
+			text = "<laughterOffset/>"
+		intervals [19]:
+			xmin = 54.1169061986
+			xmax = 54.575137148
+			text = ""
+		intervals [20]:
+			xmin = 54.575137148
+			xmax = 63.6689422033
+			text = "Aber dann {F äh} .. eher sowas <laughter>Bananenschalen-artiges</laughter> . oder eher <v='etwas'>'was</v> man nicht so unbedingt <m='vorhersehen'>hervorsehen</m> kann oder soll das eher tollpatschig aussehen"
+		intervals [21]:
+			xmin = 63.6689422033
+			xmax = 70.0187399731
+			text = ""
+		intervals [22]:
+			xmin = 70.0187399731
+			xmax = 70.7665196704
+			text = "ja also"
+		intervals [23]:
+			xmin = 70.7665196704
+			xmax = 71.2872948167
+			text = ""
+		intervals [24]:
+			xmin = 71.2872948167
+			xmax = 87.1267789419
+			text = "(Jetzt nicht <v='etwas'>'was</v> was durch den anderen Charakter + {also Haupt und Nebencharakter gibt's ja} nich was durch jemand anders) (her- + (ungef- + unbedingt)) {F äh} verursacht wurde sondern einfach weil die Bananenschalen da irgendwie liegt oder man so blöd war und die Schale selber hat fallen lassen und direkt drüber rutscht"
+		intervals [25]:
+			xmin = 87.1267789419
+			xmax = 87.9415631365
+			text = ""
+		intervals [26]:
+			xmin = 87.9415631365
+			xmax = 88.221980523
+			text = "okay"
+		intervals [27]:
+			xmin = 88.221980523
+			xmax = 89.8377187974
+			text = ""
+		intervals [28]:
+			xmin = 89.8377187974
+			xmax = 91.016139481
+			text = "Das hört sich doch lustig an"
+		intervals [29]:
+			xmin = 91.016139481
+			xmax = 92.2112516757
+			text = "<laughter/>"
+		intervals [30]:
+			xmin = 92.2112516757
+			xmax = 99.9161516796
+			text = ""
+		intervals [31]:
+			xmin = 99.9161516796
+			xmax = 100.835250521
+			text = "<laughter/>"
+		intervals [32]:
+			xmin = 100.835250521
+			xmax = 113.837056556
+			text = ""
+		intervals [33]:
+			xmin = 113.837056556
+			xmax = 115.598662668
+			text = "<laughter/>"
+		intervals [34]:
+			xmin = 115.598662668
+			xmax = 116.117128681
+			text = "<laughterOffset/>"
+		intervals [35]:
+			xmin = 116.117128681
+			xmax = 118.473792376
+			text = ""
+		intervals [36]:
+			xmin = 118.473792376
+			xmax = 118.956908433
+			text = "okay"
+		intervals [37]:
+			xmin = 118.956908433
+			xmax = 122.94288282
+			text = ""
+		intervals [38]:
+			xmin = 122.94288282
+			xmax = 123.355298967
+			text = "okay"
+		intervals [39]:
+			xmin = 123.355298967
+			xmax = 124.046913839
+			text = ""
+		intervals [40]:
+			xmin = 124.046913839
+			xmax = 128.470625507
+			text = "Ja das hört sich schonmal witzig an <nv type='breathing'/> aber wie sollen wir den anderen Charakter da noch mit <laughter>einbringen</laughter>"
+		intervals [41]:
+			xmin = 128.470625507
+			xmax = 129.148166319
+			text = "<laughter/>"
+		intervals [42]:
+			xmin = 129.148166319
+			xmax = 129.672523991
+			text = "<laughterOffset/>"
+		intervals [43]:
+			xmin = 129.672523991
+			xmax = 136.293213917
+			text = ""
+		intervals [44]:
+			xmin = 136.293213917
+			xmax = 136.629038493
+			text = "mhm"
+		intervals [45]:
+			xmin = 136.629038493
+			xmax = 140.737815723
+			text = ""
+		intervals [46]:
+			xmin = 140.737815723
+			xmax = 143.353712424
+			text = "Wenn der ihm mal sagt <v='guck mal'>kumma</v> ich <v='habe'>hab'</v> <v='einen'>'nen</v> viel tolleren Muffin"
+		intervals [47]:
+			xmin = 143.353712424
+			xmax = 145.683208564
+			text = ""
+		intervals [48]:
+			xmin = 145.683208564
+			xmax = 147.863122482
+			text = "Oder er erschreckt ihn und dann lässt er ihn fallen"
+		intervals [49]:
+			xmin = 147.863122482
+			xmax = 148.334455221
+			text = ""
+		intervals [50]:
+			xmin = 148.334455221
+			xmax = 150.473127524
+			text = "Was ja dann <v='ein'>'n</v> bisschen reflexartiger <v='wäre'>wär'</v>"
+		intervals [51]:
+			xmin = 150.473127524
+			xmax = 158.235645152
+			text = ""
+		intervals [52]:
+			xmin = 158.235645152
+			xmax = 158.706977891
+			text = "<laughter/>"
+		intervals [53]:
+			xmin = 158.706977891
+			xmax = 158.989777535
+			text = ""
+		intervals [54]:
+			xmin = 158.989777535
+			xmax = 160.827975217
+			text = "<laughter>Der sich</laughter> von hinten anschleicht"
+		intervals [55]:
+			xmin = 160.827975217
+			xmax = 162.395156574
+			text = ""
+		intervals [56]:
+			xmin = 162.395156574
+			xmax = 162.89005595
+			text = "und"
+		intervals [57]:
+			xmin = 162.89005595
+			xmax = 164.952136683
+			text = ""
+		intervals [58]:
+			xmin = 164.952136683
+			xmax = 169.471568913
+			text = "Entweder ganz klischeehaft buh sagt oder .. ihm irgendwas zeigen möchte"
+		intervals [59]:
+			xmin = 169.471568913
+			xmax = 171.617808747
+			text = ""
+		intervals [60]:
+			xmin = 171.617808747
+			xmax = 178.075067271
+			text = "Dass er das halt nicht erwartet weil der andere Charakter also der mit dem Muffin kann ja sein dass der sich so auf seinen Muffin freut dass der den gar nicht kommen sieht"
+		intervals [61]:
+			xmin = 178.075067271
+			xmax = 178.617099921
+			text = "<laughter/>"
+		intervals [62]:
+			xmin = 178.617099921
+			xmax = 178.93524952
+			text = ""
+		intervals [63]:
+			xmin = 178.93524952
+			xmax = 179.406582259
+			text = "<laughterOffset/>"
+		intervals [64]:
+			xmin = 179.406582259
+			xmax = 196.669709712
+			text = ""
+		intervals [65]:
+			xmin = 196.669709712
+			xmax = 197.235308999
+			text = "<laughter/>"
+		intervals [66]:
+			xmin = 197.235308999
+			xmax = 198.767140401
+			text = ""
+		intervals [67]:
+			xmin = 198.767140401
+			xmax = 201.053104185
+			text = "Und in dem Moment schmeißt er sich hinterher"
+		intervals [68]:
+			xmin = 201.053104185
+			xmax = 214.120316882
+			text = ""
+		intervals [69]:
+			xmin = 214.120316882
+			xmax = 216.021691401
+			text = "Okay und wie endet die Szene dann"
+		intervals [70]:
+			xmin = 216.021691401
+			xmax = 220.096972673
+			text = ""
+		intervals [71]:
+			xmin = 220.096972673
+			xmax = 229.959849887
+			text = "Indem .. der Charakter der den Muffin hat fallen lassen sagt jetzt habe ich mir die Stirn <laughter>gestoßen und den Muffin fallen gelassen</laughter> oder indem er wütend ist auf den anderen weil der ihn erschreckt hat"
+		intervals [72]:
+			xmin = 229.959849887
+			xmax = 241.473366353
+			text = ""
+		intervals [73]:
+			xmin = 241.473366353
+			xmax = 243.193384218
+			text = "Also regt sich eher innerlich auf"
+		intervals [74]:
+			xmin = 243.193384218
+			xmax = 244.154114917
+			text = ""
+		intervals [75]:
+			xmin = 244.154114917
+			xmax = 245.612619062
+			text = "Und . bis auf das Fluchen"
+		intervals [76]:
+			xmin = 245.612619062
+			xmax = 248.618776411
+			text = ""
+		intervals [77]:
+			xmin = 248.618776411
+			xmax = 248.990672166
+			text = "mhm"
+		intervals [78]:
+			xmin = 248.990672166
+			xmax = 260.569235309
+			text = ""
+		intervals [79]:
+			xmin = 260.569235309
+			xmax = 261.181313739
+			text = "<laughter/>"
+		intervals [80]:
+			xmin = 261.181313739
+			xmax = 269.048371595
+			text = ""
+		intervals [81]:
+			xmin = 269.048371595
+			xmax = 275.497978989
+			text = "<laughter>Die Spinne da oben</laughter> ... runter gleiten lässt an <v='so einem'>sonnem</v> Faden"
+		intervals [82]:
+			xmin = 275.497978989
+			xmax = 276.241368396
+			text = ""
+		intervals [83]:
+			xmin = 276.241368396
+			xmax = 276.721733746
+			text = "genau"
+		intervals [84]:
+			xmin = 276.721733746
+			xmax = 277.411692559
+			text = ""
+		intervals [85]:
+			xmin = 277.411692559
+			xmax = 277.876562252
+			text = "und dann"
+		intervals [86]:
+			xmin = 277.876562252
+			xmax = 278.519631994
+			text = ""
+		intervals [87]:
+			xmin = 278.519631994
+			xmax = 282.993140486
+			text = "Also so ein bisschen geplanter schon . und nicht so oh ich habe <v='eine'>'ne</v> Spinne gefunden mal gucken wer sich erschreckt"
+		intervals [88]:
+			xmin = 282.993140486
+			xmax = 284.45748002
+			text = ""
+		intervals [89]:
+			xmin = 284.45748002
+			xmax = 285.418210719
+			text = "oder dass der die so-"
+		intervals [90]:
+			xmin = 285.418210719
+			xmax = 286.254976167
+			text = ""
+		intervals [91]:
+			xmin = 286.254976167
+			xmax = 286.541645811
+			text = "runter"
+		intervals [92]:
+			xmin = 286.541645811
+			xmax = 295.772321434
+			text = ""
+		intervals [93]:
+			xmin = 295.772321434
+			xmax = 296.144217188
+			text = "mhm"
+		intervals [94]:
+			xmin = 296.144217188
+			xmax = 297.591680437
+			text = ""
+		intervals [95]:
+			xmin = 297.591680437
+			xmax = 298.393324692
+			text = "und dann {F ähm}"
+		intervals [96]:
+			xmin = 298.393324692
+			xmax = 300.219811529
+			text = ""
+		intervals [97]:
+			xmin = 300.219811529
+			xmax = 300.801242574
+			text = "könnte man"
+		intervals [98]:
+			xmin = 300.801242574
+			xmax = 301.137792932
+			text = ""
+		intervals [99]:
+			xmin = 301.137792932
+			xmax = 313.837427496
+			text = "Oder also <v='eine'>'ne</v> andere (<unclear/> + Möglichkeit) wäre noch {F ähm} dass man ... so zeigt (wie der <laughter>Charakter</laughter><laughterOffset/> + wie der Charakter) sich so den ganzen Tag<laughter> über freut jetzt endlich in der Pause</laughter> den Muffin essen zu können</laughter>"
+		intervals [100]:
+			xmin = 313.837427496
+			xmax = 314.175382324
+			text = ""
+		intervals [101]:
+			xmin = 314.175382324
+			xmax = 321.081191872
+			text = "Also nicht unbedingt dass die da alle lagen und dass das der letzte war sondern .. dass er sich den ganzen Tag über gefreut hat jetzt irgendwie so <v='ein'>'n</v> Käffchen und <v='einen'>'n</v> Muffin"
+		intervals [102]:
+			xmin = 321.081191872
+			xmax = 322.734435633
+			text = ""
+		intervals [103]:
+			xmin = 322.734435633
+			xmax = 323.15512358
+			text = "und dann"
+		intervals [104]:
+			xmin = 323.15512358
+			xmax = 327.725138061
+			text = ""
+		intervals [105]:
+			xmin = 327.725138061
+			xmax = 328.501073607
+			text = "<laughter/>"
+		intervals [106]:
+			xmin = 328.501073607
+			xmax = 333.931490827
+			text = ""
+		intervals [107]:
+			xmin = 333.931490827
+			xmax = 334.143590559
+			text = "<laughter/>"
+		intervals [108]:
+			xmin = 334.143590559
+			xmax = 334.284990381
+			text = ""
+		intervals [109]:
+			xmin = 334.284990381
+			xmax = 334.874156305
+			text = "<laughter>joa</laughter>"
+		intervals [110]:
+			xmin = 334.874156305
+			xmax = 335.455629646
+			text = ""
+		intervals [111]:
+			xmin = 335.455629646
+			xmax = 335.838587496
+			text = "<laughterOffset/>"
+		intervals [112]:
+			xmin = 335.838587496
+			xmax = 338.334850252
+			text = ""
+		intervals [113]:
+			xmin = 338.334850252
+			xmax = 338.962311961
+			text = "<laughter/>"
+		intervals [114]:
+			xmin = 338.962311961
+			xmax = 339.460157166
+			text = ""
+		intervals [115]:
+			xmin = 339.460157166
+			xmax = 339.952110712
+			text = "<laughter/>"
+		intervals [116]:
+			xmin = 339.952110712
+			xmax = 340.013973134
+			text = ""
+		intervals [117]:
+			xmin = 340.013973134
+			xmax = 340.467630896
+			text = "<laughterOffset/>"
+		intervals [118]:
+			xmin = 340.467630896
+			xmax = 593.187866903
+			text = ""
+		intervals [119]:
+			xmin = 593.187866903
+			xmax = 593.576716413
+			text = "hallo"
+		intervals [120]:
+			xmin = 593.576716413
+			xmax = 594.725882821
+			text = ""
+		intervals [121]:
+			xmin = 594.725882821
+			xmax = 596.157220198
+			text = "<v='Ach ich'>A'i'</v> <v='sehe'>seh'</v> hier gerade {F äh} der Name {F ähm} -"
+		intervals [122]:
+			xmin = 596.157220198
+			xmax = 596.581419663
+			text = ""
+		intervals [123]:
+			xmin = 596.581419663
+			xmax = 597.930609628
+			text = "Der Name {F ähm} -"
+		intervals [124]:
+			xmin = 597.930609628
+			xmax = 598.504391316
+			text = ""
+		intervals [125]:
+			xmin = 598.504391316
+			xmax = 599.723964778
+			text = "Sind Sie mit: -"
+		intervals [126]:
+			xmin = 599.723964778
+			xmax = 604.18984248
+			text = ""
+		intervals [127]:
+			xmin = 604.18984248
+			xmax = 604.57280033
+			text = "okay"
+		intervals [128]:
+			xmin = 604.57280033
+			xmax = 605.429381056
+			text = ""
+		intervals [129]:
+			xmin = 605.429381056
+			xmax = 605.971413706
+			text = "{F ähm}"
+		intervals [130]:
+			xmin = 605.971413706
+			xmax = 607.261687079
+			text = ""
+		intervals [131]:
+			xmin = 607.261687079
+			xmax = 607.511847299
+			text = "ja"
+		intervals [132]:
+			xmin = 607.511847299
+			xmax = 608.899568347
+			text = "Sie sind ja mein Schwiegervater"
+		intervals [133]:
+			xmin = 608.899568347
+			xmax = 609.052751487
+			text = ""
+		intervals [134]:
+			xmin = 609.052751487
+			xmax = 609.41803436
+			text = "<laughter/>"
+		intervals [135]:
+			xmin = 609.41803436
+			xmax = 610.386557216
+			text = ""
+		intervals [136]:
+			xmin = 610.386557216
+			xmax = 611.12890628
+			text = "{F ähm}"
+		intervals [137]:
+			xmin = 611.12890628
+			xmax = 612.638643959
+			text = ""
+		intervals [138]:
+			xmin = 612.638643959
+			xmax = 616.189841565
+			text = "Und wollen {F äh} . ins Niemandsland einreisen"
+		intervals [139]:
+			xmin = 616.189841565
+			xmax = 617.152472157
+			text = ""
+		intervals [140]:
+			xmin = 617.152472157
+			xmax = 617.700396466
+			text = "{F ähm}"
+		intervals [141]:
+			xmin = 617.700396466
+			xmax = 618.301345708
+			text = ""
+		intervals [142]:
+			xmin = 618.301345708
+			xmax = 624.261024731
+			text = "Das ist jetzt halt nichts persönliches aber ich muss ... nach meinem Beruf her halt bestimmte Fragen abarbeiten"
+		intervals [143]:
+			xmin = 624.261024731
+			xmax = 626.684786814
+			text = ""
+		intervals [144]:
+			xmin = 626.684786814
+			xmax = 627.008828072
+			text = "genau"
+		intervals [145]:
+			xmin = 627.008828072
+			xmax = 629.232601426
+			text = "Also ich darf ja halt nicht so subjektiv sein ne"
+		intervals [146]:
+			xmin = 629.232601426
+			xmax = 629.34192513
+			text = ""
+		intervals [147]:
+			xmin = 629.34192513
+			xmax = 633.010300065
+			text = "Ich muss da halt schon .. so die Vermerkungen {F ähm} . machen"
+		intervals [148]:
+			xmin = 633.010300065
+			xmax = 633.932344736
+			text = ""
+		intervals [149]:
+			xmin = 633.932344736
+			xmax = 634.662910481
+			text = "{F ähm}"
+		intervals [150]:
+			xmin = 634.662910481
+			xmax = 636.222399418
+			text = ""
+		intervals [151]:
+			xmin = 636.222399418
+			xmax = 636.652490542
+			text = "genau"
+		intervals [152]:
+			xmin = 636.652490542
+			xmax = 636.829240319
+			text = ""
+		intervals [153]:
+			xmin = 636.829240319
+			xmax = 637.674692816
+			text = "also {F ähm}"
+		intervals [154]:
+			xmin = 637.674692816
+			xmax = 637.688653226
+			text = ""
+		intervals [155]:
+			xmin = 637.688653226
+			xmax = 641.703799049
+			text = "Auf dem Personalausweis steht ja der Name haben Sie schonmal <v='einen'>'n</v> anderen Namen benutzt"
+		intervals [156]:
+			xmin = 641.703799049
+			xmax = 642.717164437
+			text = ""
+		intervals [157]:
+			xmin = 642.717164437
+			xmax = 642.941047488
+			text = "ach so"
+		intervals [158]:
+			xmin = 642.941047488
+			xmax = 643.765879782
+			text = "<laughter/>"
+		intervals [159]:
+			xmin = 643.765879782
+			xmax = 643.989762833
+			text = ""
+		intervals [160]:
+			xmin = 643.989762833
+			xmax = 644.431637275
+			text = "<laughterOffset/>"
+		intervals [161]:
+			xmin = 644.431637275
+			xmax = 644.581218893
+			text = ""
+		intervals [162]:
+			xmin = 644.581218893
+			xmax = 644.99363504
+			text = "{F ähm}"
+		intervals [163]:
+			xmin = 644.99363504
+			xmax = 645.600475941
+			text = ""
+		intervals [164]:
+			xmin = 645.600475941
+			xmax = 647.721473266
+			text = "Hast du einen anderen Namen <laughter>benutzt</laughter>"
+		intervals [165]:
+			xmin = 647.721473266
+			xmax = 650.307605144
+			text = ""
+		intervals [166]:
+			xmin = 650.307605144
+			xmax = 651.662686768
+			text = "Vorher irgendwann mal oder -"
+		intervals [167]:
+			xmin = 651.662686768
+			xmax = 652.371090255
+			text = ""
+		intervals [168]:
+			xmin = 652.371090255
+			xmax = 653.10754766
+			text = "Warst du immer -"
+		intervals [169]:
+			xmin = 653.10754766
+			xmax = 653.885246679
+			text = ""
+		intervals [170]:
+			xmin = 653.885246679
+			xmax = 654.168365022
+			text = "also"
+		intervals [171]:
+			xmin = 654.168365022
+			xmax = 658.129532044
+			text = "Kann ja auch sein dass der Nachname mal anders war oder der Vorname oder so"
+		intervals [172]:
+			xmin = 658.129532044
+			xmax = 659.201814025
+			text = "Das muss ich halt fragen"
+		intervals [173]:
+			xmin = 659.201814025
+			xmax = 667.53131001
+			text = ""
+		intervals [174]:
+			xmin = 667.53131001
+			xmax = 667.827160477
+			text = "ja"
+		intervals [175]:
+			xmin = 667.827160477
+			xmax = 668.274926579
+			text = "also"
+		intervals [176]:
+			xmin = 668.274926579
+			xmax = 669.911540342
+			text = "Wie gesagt ich muss das halt fragen"
+		intervals [177]:
+			xmin = 669.911540342
+			xmax = 670.270931555
+			text = ""
+		intervals [178]:
+			xmin = 670.270931555
+			xmax = 671.744471922
+			text = "Das ist ja nichts Persönliches"
+		intervals [179]:
+			xmin = 671.744471922
+			xmax = 680.430361174
+			text = "Das sind einfach die Vorgaben um {F ähm} ... (einen + {F ähm} ... eine) Person aus einem anderen Land halt .. einwandern lassen zu können"
+		intervals [180]:
+			xmin = 680.430361174
+			xmax = 680.921781822
+			text = ""
+		intervals [181]:
+			xmin = 680.921781822
+			xmax = 685.792873835
+			text = "Das muss ich halt dokumentieren {F äh} ich bin hier nur so Vertreter sozusagen für den Staat"
+		intervals [182]:
+			xmin = 685.792873835
+			xmax = 697.667388743
+			text = ""
+		intervals [183]:
+			xmin = 697.667388743
+			xmax = 698.798587316
+			text = "Nur der Nachname oder -"
+		intervals [184]:
+			xmin = 698.798587316
+			xmax = 702.262882948
+			text = ""
+		intervals [185]:
+			xmin = 702.262882948
+			xmax = 702.545682591
+			text = "mhm"
+		intervals [186]:
+			xmin = 702.545682591
+			xmax = 706.634494102
+			text = ""
+		intervals [187]:
+			xmin = 706.634494102
+			xmax = 707.141176796
+			text = "<laughter/>"
+		intervals [188]:
+			xmin = 707.141176796
+			xmax = 734.028581275
+			text = ""
+		intervals [189]:
+			xmin = 734.028581275
+			xmax = 734.346730874
+			text = "mhm"
+		intervals [190]:
+			xmin = 734.346730874
+			xmax = 734.800388635
+			text = ""
+		intervals [191]:
+			xmin = 734.800388635
+			xmax = 736.349895015
+			text = "Ja ist ja kein Problem {also}"
+		intervals [192]:
+			xmin = 736.349895015
+			xmax = 737.153451412
+			text = ""
+		intervals [193]:
+			xmin = 737.153451412
+			xmax = 737.430359396
+			text = "{F äh}"
+		intervals [194]:
+			xmin = 737.430359396
+			xmax = 740.712013592
+			text = "Wie gesagt ich muss das einfach nur festhalten aus welchen Gründen das passiert ist"
+		intervals [195]:
+			xmin = 740.712013592
+			xmax = 741.737162299
+			text = ""
+		intervals [196]:
+			xmin = 741.737162299
+			xmax = 742.279194949
+			text = "{F ähm}"
+		intervals [197]:
+			xmin = 742.279194949
+			xmax = 742.693901232
+			text = ""
+		intervals [198]:
+			xmin = 742.693901232
+			xmax = 749.754895666
+			text = "Ich <v='nehme'>nehm'</v> auch an dass (Sie + {F äh} ... <laughter>du</laughter> <laughterOffset/>) nichts {F äh} illegales .. mal gemacht <m='hast'>hat</m>"
+		intervals [199]:
+			xmin = 749.754895666
+			xmax = 749.778462302
+			text = ""
+		intervals [200]:
+			xmin = 749.778462302
+			xmax = 753.04990251
+			text = "Irgendwas ... Kriminelles"
+		intervals [201]:
+			xmin = 753.04990251
+			xmax = 754.354249942
+			text = ""
+		intervals [202]:
+			xmin = 754.354249942
+			xmax = 758.183828446
+			text = "Das muss wie gesagt auch nur verfasst werden damit . der Staat weiß worauf er sich einlässt"
+		intervals [203]:
+			xmin = 758.183828446
+			xmax = 820.643986657
+			text = ""
+		intervals [204]:
+			xmin = 820.643986657
+			xmax = 820.920894641
+			text = "ja"
+		intervals [205]:
+			xmin = 820.920894641
+			xmax = 821.09720304
+			text = ""
+		intervals [206]:
+			xmin = 821.09720304
+			xmax = 831.566501501
+			text = "Wie gesagt . wenn das irgendwie {F äh} im Strafverfahren oder so festgehalten wurde .. aus welchen Gründen Sie das gemacht haben denke ich mal wird das auch nicht (Probleme haben + {F ähm} Probleme geben)"
+		intervals [207]:
+			xmin = 831.566501501
+			xmax = 833.463615775
+			text = "Ich muss das halt wie gesagt nur kommentieren"
+		intervals [208]:
+			xmin = 833.463615775
+			xmax = 834.403971856
+			text = ""
+		intervals [209]:
+			xmin = 834.403971856
+			xmax = 834.835062201
+			text = "{F ähm}"
+		intervals [210]:
+			xmin = 834.835062201
+			xmax = 834.954762016
+			text = ""
+		intervals [211]:
+			xmin = 834.954762016
+			xmax = 839.597057949
+			text = "(Sind (<p='Sie'>S-</p> + <p>s-</p>) + bist du) verheiratet oder warst du <v='es'>'s</v> vorher auch schonmal"
+		intervals [212]:
+			xmin = 839.597057949
+			xmax = 850.93987887
+			text = ""
+		intervals [213]:
+			xmin = 850.93987887
+			xmax = 851.146086944
+			text = "ja"
+		intervals [214]:
+			xmin = 851.146086944
+			xmax = 851.431832417
+			text = ""
+		intervals [215]:
+			xmin = 851.431832417
+			xmax = 851.776494482
+			text = "<laughter/>"
+		intervals [216]:
+			xmin = 851.776494482
+			xmax = 853.598162255
+			text = ""
+		intervals [217]:
+			xmin = 853.598162255
+			xmax = 854.723469169
+			text = "Hattest du davor auch Ehen"
+		intervals [218]:
+			xmin = 854.723469169
+			xmax = 882.091276119
+			text = ""
+		intervals [219]:
+			xmin = 882.091276119
+			xmax = 882.139882308
+			text = "hm:"
+		intervals [220]:
+			xmin = 882.139882308
+			xmax = 883.575974247
+			text = "Das weiß deine jetzige Frau <v='nicht'>nich'</v>"
+		intervals [221]:
+			xmin = 883.575974247
+			xmax = 884.600386497
+			text = ""
+		intervals [222]:
+			xmin = 884.600386497
+			xmax = 885.110015021
+			text = "Oder wie"
+		intervals [223]:
+			xmin = 885.110015021
+			xmax = 887.778281205
+			text = ""
+		intervals [224]:
+			xmin = 887.778281205
+			xmax = 887.960922641
+			text = "hm:"
+		intervals [225]:
+			xmin = 887.960922641
+			xmax = 896.543542996
+			text = ""
+		intervals [226]:
+			xmin = 896.543542996
+			xmax = 898.632136196
+			text = "So besteht auch Kontakt oder nur finanziell"
+		intervals [227]:
+			xmin = 898.632136196
+			xmax = 900.427772655
+			text = ""
+		intervals [228]:
+			xmin = 900.427772655
+			xmax = 900.628089069
+			text = "mhm"
+		intervals [229]:
+			xmin = 900.628089069
+			xmax = 904.684308257
+			text = ""
+		intervals [230]:
+			xmin = 904.684308257
+			xmax = 904.919974627
+			text = "mhm"
+		intervals [231]:
+			xmin = 904.919974627
+			xmax = 911.418828764
+			text = ""
+		intervals [232]:
+			xmin = 911.418828764
+			xmax = 917.779582302
+			text = "Ja ich <v='werde'>werd'</v> mich da auch nicht einmischen .. wie gesagt das ist jetzt nur (meine + mein) Beruf .. der die Fragen hier erfordert"
+		intervals [233]:
+			xmin = 917.779582302
+			xmax = 918.920385652
+			text = ""
+		intervals [234]:
+			xmin = 918.920385652
+			xmax = 919.497481631
+			text = "{F ähm}"
+		intervals [235]:
+			xmin = 919.497481631
+			xmax = 920.326968196
+			text = ""
+		intervals [236]:
+			xmin = 920.326968196
+			xmax = 926.259869048
+			text = "Genau also jetzt ist ja auch klar dass du . noch andere Kinder hast ... {F äh} damit <v='wäre'>wär'</v> die Frage halt auch (<p>g-</p> + ge:klärt)"
+		intervals [237]:
+			xmin = 926.259869048
+			xmax = 927.46193273
+			text = ""
+		intervals [238]:
+			xmin = 927.46193273
+			xmax = 927.887623082
+			text = "{F ähm}"
+		intervals [239]:
+			xmin = 927.887623082
+			xmax = 928.017239585
+			text = ""
+		intervals [240]:
+			xmin = 928.017239585
+			xmax = 936.723621051
+			text = "dann muss ich noch fragen was du in dem Zeitraum {F ähm} von neunzehnhundertachtundneunzig bis zweitausenddrei gemacht hast weil {F äh} in dem Zeitraum {F ähm} kein Wohnsitz registriert war"
+		intervals [241]:
+			xmin = 936.723621051
+			xmax = 945.71315515
+			text = ""
+		intervals [242]:
+			xmin = 945.71315515
+			xmax = 946.054871386
+			text = "mhm"
+		intervals [243]:
+			xmin = 946.054871386
+			xmax = 949.430792129
+			text = ""
+		intervals [244]:
+			xmin = 949.430792129
+			xmax = 951.310231426
+			text = "also dann doch illegal oder"
+		intervals [245]:
+			xmin = 951.310231426
+			xmax = 953.13893653
+			text = ""
+		intervals [246]:
+			xmin = 953.13893653
+			xmax = 955.931583009
+			text = "wie bist du über die Grenze gekommen oder nur als <p>Urlaubs:-</p>"
+		intervals [247]:
+			xmin = 955.931583009
+			xmax = 956.787711487
+			text = ""
+		intervals [248]:
+			xmin = 956.787711487
+			xmax = 956.973298753
+			text = "ja"
+		intervals [249]:
+			xmin = 956.973298753
+			xmax = 957.45022067
+			text = ""
+		intervals [250]:
+			xmin = 957.45022067
+			xmax = 959.07631862
+			text = "das ist ja <v='ein'>'n</v> Zeitraum von fünf Jahren"
+		intervals [251]:
+			xmin = 959.07631862
+			xmax = 984.169828215
+			text = ""
+		intervals [252]:
+			xmin = 984.169828215
+			xmax = 984.429061221
+			text = "hm"
+		intervals [253]:
+			xmin = 984.429061221
+			xmax = 998.266504326
+			text = ""
+		intervals [254]:
+			xmin = 998.266504326
+			xmax = 998.531628992
+			text = "ja"
+		intervals [255]:
+			xmin = 998.531628992
+			xmax = 998.646516347
+			text = ""
+		intervals [256]:
+			xmin = 998.646516347
+			xmax = 998.917532672
+			text = "also"
+		intervals [257]:
+			xmin = 998.917532672
+			xmax = 1009.44869356
+			text = "Ist auf jeden Fall wichtig ... mir hier keine Lügen aufzutischen weil {F ähm} das ja auch deinen Aufenthalt im Niemandsland gefährden könnte wenn das später mal rauskommt"
+		intervals [258]:
+			xmin = 1009.44869356
+			xmax = 1010.33485427
+			text = ""
+		intervals [259]:
+			xmin = 1010.33485427
+			xmax = 1010.72906144
+			text = "{F ähm}"
+		intervals [260]:
+			xmin = 1010.72906144
+			xmax = 1010.84955741
+			text = ""
+		intervals [261]:
+			xmin = 1010.84955741
+			xmax = 1016.82817014
+			text = "das heißt . bei dem . Punkt illegale Sachen sind nicht nur die Medikamente sondern auch der Aufenthalt dann gewesen"
+		intervals [262]:
+			xmin = 1016.82817014
+			xmax = 1017.54459226
+			text = ""
+		intervals [263]:
+			xmin = 1017.54459226
+			xmax = 1018.42539531
+			text = "muss man korrigieren"
+		intervals [264]:
+			xmin = 1018.42539531
+			xmax = 1019.96459129
+			text = ""
+		intervals [265]:
+			xmin = 1019.96459129
+			xmax = 1020.23560761
+			text = "okay"
+		intervals [266]:
+			xmin = 1020.23560761
+			xmax = 1021.39266264
+			text = ""
+		intervals [267]:
+			xmin = 1021.39266264
+			xmax = 1021.8463204
+			text = "{F ähm}"
+		intervals [268]:
+			xmin = 1021.8463204
+			xmax = 1022.20376788
+			text = ""
+		intervals [269]:
+			xmin = 1022.20376788
+			xmax = 1030.32245095
+			text = "Hast du irgendwas:{F ähm} ... biologisches .. bei dir . irgendwelche Tiere oder Drogen oder sonstiges jetzt gerade"
+		intervals [270]:
+			xmin = 1030.32245095
+			xmax = 1033.55186979
+			text = ""
+		intervals [271]:
+			xmin = 1033.55186979
+			xmax = 1034.27359805
+			text = "<nv type='breathing'/>"
+		intervals [272]:
+			xmin = 1034.27359805
+			xmax = 1074.32798959
+			text = ""
+		intervals [273]:
+			xmin = 1074.32798959
+			xmax = 1074.6778176
+			text = "<laughter/>"
+		intervals [274]:
+			xmin = 1074.6778176
+			xmax = 1094.20818774
+			text = ""
+		intervals [275]:
+			xmin = 1094.20818774
+			xmax = 1094.45858326
+			text = "mhm"
+		intervals [276]:
+			xmin = 1094.45858326
+			xmax = 1098.63194731
+			text = ""
+		intervals [277]:
+			xmin = 1098.63194731
+			xmax = 1098.91432327
+			text = "ja  also"
+		intervals [278]:
+			xmin = 1098.91432327
+			xmax = 1111.94105674
+			text = "Ich muss das wie gesagt auf jeden Fall halt melden und den Unterlagen beifügen und das kann sein dass die .. Pilze halt erstmal beschlagnahmt werden müssen um die genauer zu untersuchen ob das jetzt irgendwie .. was Richtung Drogen oder so ist"
+		intervals [279]:
+			xmin = 1111.94105674
+			xmax = 1116.25471213
+			text = ""
+		intervals [280]:
+			xmin = 1116.25471213
+			xmax = 1117.47428559
+			text = "Nee wie gesagt also"
+		intervals [281]:
+			xmin = 1117.47428559
+			xmax = 1118.2669962
+			text = ""
+		intervals [282]:
+			xmin = 1118.2669962
+			xmax = 1121.27616114
+			text = "Es ist halt nichts persönliches ich (<p='muss'>mu-</p> + bin) ja halt hier nur der Vermittler"
+		intervals [283]:
+			xmin = 1121.27616114
+			xmax = 1122.44418258
+			text = "Ich muss auch meinen Job machen"
+		intervals [284]:
+			xmin = 1122.44418258
+			xmax = 1125.02426629
+			text = ""
+		intervals [285]:
+			xmin = 1125.02426629
+			xmax = 1127.48108818
+			text = "Da geht es ja auch um deine . Schwiegertochter"
+		intervals [286]:
+			xmin = 1127.48108818
+			xmax = 1128.22572711
+			text = ""
+		intervals [287]:
+			xmin = 1128.22572711
+			xmax = 1131.20690666
+			text = "Die ... von meinem Geld auch <laughter>lebt</laughter>"
+		intervals [288]:
+			xmin = 1131.20690666
+			xmax = 1133.1216959
+			text = ""
+		intervals [289]:
+			xmin = 1133.1216959
+			xmax = 1133.8427685
+			text = "also wie gesagt"
+		intervals [290]:
+			xmin = 1133.8427685
+			xmax = 1141.01520732
+			text = "Ich: ... <v='möchte'>möcht'</v> mich da mehr oder weniger raushalten und die .. Behörden das untersuchen lassen"
+		intervals [291]:
+			xmin = 1141.01520732
+			xmax = 1141.78701467
+			text = ""
+		intervals [292]:
+			xmin = 1141.78701467
+			xmax = 1144.54431118
+			text = "Weil es ja natürlich verständlich ist dass ich neutraler bleiben muss"
+		intervals [293]:
+			xmin = 1144.54431118
+			xmax = 1145.88690868
+			text = ""
+		intervals [294]:
+			xmin = 1145.88690868
+			xmax = 1154.31541615
+			text = "Aber ich <v='werde'>werd'</v> da jetzt nichts {F äh} ... unternehmen was deinen Aufenthalt oder die Möglichkeiten hier einzuwandern großartig gefährden wird"
+		intervals [295]:
+			xmin = 1154.31541615
+			xmax = 1164.68849837
+			text = "Ich <v='werde'>werd'</v> halt ... nur nicht unbedingt ... nochwas ... illegales dazu beisteuern <v='sage'>sag'</v> ich mal dass ich da sozusagen ... auch noch was <v='riskiere'>riskier'</v>"
+		intervals [296]:
+			xmin = 1164.68849837
+			xmax = 1166.36460518
+			text = ""
+		intervals [297]:
+			xmin = 1166.36460518
+			xmax = 1166.67097146
+			text = "ja"
+		intervals [298]:
+			xmin = 1166.67097146
+			xmax = 1174.30049017
+			text = ""
+		intervals [299]:
+			xmin = 1174.30049017
+			xmax = 1174.47429412
+			text = "ja"
+		intervals [300]:
+			xmin = 1174.47429412
+			xmax = 1178.03615613
+			text = ""
+		intervals [301]:
+			xmin = 1178.03615613
+			xmax = 1178.3719807
+			text = "mhm"
+		intervals [302]:
+			xmin = 1178.3719807
+			xmax = 1178.9782876
+			text = ""
+		intervals [303]:
+			xmin = 1178.9782876
+			xmax = 1185.76134639
+			text = "Also ich <v='werde'>werd'</v> dann wie gesagt die Dokumente jetzt was ich mir auch hier notiert <v='habe'>hab'</v> weiterreichen und dann ... gucken wir mal ... was dabei rauskommt"
+		intervals [304]:
+			xmin = 1185.76134639
+			xmax = 1191.58478545
+			text = ""
+		intervals [305]:
+			xmin = 1191.58478545
+			xmax = 1191.76742689
+			text = "ja"
+		intervals [306]:
+			xmin = 1191.76742689
+			xmax = 1193.17847927
+			text = ""
+		intervals [307]:
+			xmin = 1193.17847927
+			xmax = 1195.13944046
+			text = "Dann melden wir uns (bei Ihnen + ... bei dir)"
+		intervals [308]:
+			xmin = 1195.13944046
+			xmax = 1195.33386522
+			text = ""
+		intervals [309]:
+			xmin = 1195.33386522
+			xmax = 1196.95407151
+			text = "<laughter/>"
+		intervals [310]:
+			xmin = 1196.95407151
+			xmax = 1197.31935438
+			text = "<laughterOffset/>"
+		intervals [311]:
+			xmin = 1197.31935438
+			xmax = 1201.78930789
+			text = ""
+		intervals [312]:
+			xmin = 1201.78930789
+			xmax = 1203.42129735
+			text = "<laughter/>"
+		intervals [313]:
+			xmin = 1203.42129735
+			xmax = 1203.7571219
+			text = ""
+		intervals [314]:
+			xmin = 1203.7571219
+			xmax = 1204.18132133
+			text = "<laughterOffset/>"
+		intervals [315]:
+			xmin = 1204.18132133
+			xmax = 1204.61266353
+			text = ""
+		intervals [316]:
+			xmin = 1204.61266353
+			xmax = 1205.65548713
+			text = "<laughter>alles klar</laughter>"
+		intervals [317]:
+			xmin = 1205.65548713
+			xmax = 1206.80310946
+			text = ""
+		intervals [318]:
+			xmin = 1206.80310946
+			xmax = 1207.23909221
+			text = "<laughter/>"
