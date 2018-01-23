@@ -1,0 +1,6020 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1337.64
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "B-turns"
+		xmin = 0.0
+		xmax = 1337.64
+		intervals: size = 256
+		intervals [1]:
+			xmin = 0.0
+			xmax = 25.3205203241
+			text = ""
+		intervals [2]:
+			xmin = 25.3205203241
+			xmax = 31.4750851483
+			text = "B"
+		intervals [3]:
+			xmin = 31.4750851483
+			xmax = 47.2294281007
+			text = ""
+		intervals [4]:
+			xmin = 47.2294281007
+			xmax = 47.7228320318
+			text = "B"
+		intervals [5]:
+			xmin = 47.7228320318
+			xmax = 51.4895316847
+			text = ""
+		intervals [6]:
+			xmin = 51.4895316847
+			xmax = 62.0587632605
+			text = "B"
+		intervals [7]:
+			xmin = 62.0587632605
+			xmax = 87.3065126289
+			text = ""
+		intervals [8]:
+			xmin = 87.3065126289
+			xmax = 98.1094618563
+			text = "B"
+		intervals [9]:
+			xmin = 98.1094618563
+			xmax = 99.2298586586
+			text = ""
+		intervals [10]:
+			xmin = 99.2298586586
+			xmax = 101.722846942
+			text = "B"
+		intervals [11]:
+			xmin = 101.722846942
+			xmax = 110.4841997
+			text = ""
+		intervals [12]:
+			xmin = 110.4841997
+			xmax = 111.834568353
+			text = "B"
+		intervals [13]:
+			xmin = 111.834568353
+			xmax = 114.119807613
+			text = ""
+		intervals [14]:
+			xmin = 114.119807613
+			xmax = 116.612795896
+			text = "B"
+		intervals [15]:
+			xmin = 116.612795896
+			xmax = 117.547666502
+			text = ""
+		intervals [16]:
+			xmin = 117.547666502
+			xmax = 122.066207766
+			text = "B"
+		intervals [17]:
+			xmin = 122.066207766
+			xmax = 122.819297976
+			text = ""
+		intervals [18]:
+			xmin = 122.819297976
+			xmax = 125.597941167
+			text = "B"
+		intervals [19]:
+			xmin = 125.597941167
+			xmax = 129.014688643
+			text = ""
+		intervals [20]:
+			xmin = 129.014688643
+			xmax = 130.650712204
+			text = "B"
+		intervals [21]:
+			xmin = 130.650712204
+			xmax = 132.858045579
+			text = ""
+		intervals [22]:
+			xmin = 132.858045579
+			xmax = 137.350618215
+			text = "B"
+		intervals [23]:
+			xmin = 137.350618215
+			xmax = 139.298265311
+			text = ""
+		intervals [24]:
+			xmin = 139.298265311
+			xmax = 145.245081112
+			text = "B"
+		intervals [25]:
+			xmin = 145.245081112
+			xmax = 151.191959906
+			text = ""
+		intervals [26]:
+			xmin = 151.191959906
+			xmax = 151.919081489
+			text = "B"
+		intervals [27]:
+			xmin = 151.919081489
+			xmax = 154.334163888
+			text = ""
+		intervals [28]:
+			xmin = 154.334163888
+			xmax = 155.502752146
+			text = "B"
+		intervals [29]:
+			xmin = 155.502752146
+			xmax = 159.553858106
+			text = ""
+		intervals [30]:
+			xmin = 159.553858106
+			xmax = 162.176689529
+			text = "B"
+		intervals [31]:
+			xmin = 162.176689529
+			xmax = 163.994493486
+			text = ""
+		intervals [32]:
+			xmin = 163.994493486
+			xmax = 166.513450397
+			text = "B"
+		intervals [33]:
+			xmin = 166.513450397
+			xmax = 170.782231188
+			text = ""
+		intervals [34]:
+			xmin = 170.782231188
+			xmax = 179.196066644
+			text = "B"
+		intervals [35]:
+			xmin = 179.196066644
+			xmax = 183.113645989
+			text = ""
+		intervals [36]:
+			xmin = 183.113645989
+			xmax = 186.671348018
+			text = "B"
+		intervals [37]:
+			xmin = 186.671348018
+			xmax = 187.112814694
+			text = ""
+		intervals [38]:
+			xmin = 187.112814694
+			xmax = 190.930203002
+			text = "B"
+		intervals [39]:
+			xmin = 190.930203002
+			xmax = 191.137952026
+			text = ""
+		intervals [40]:
+			xmin = 191.137952026
+			xmax = 193.579003053
+			text = "B"
+		intervals [41]:
+			xmin = 193.579003053
+			xmax = 194.38403052
+			text = ""
+		intervals [42]:
+			xmin = 194.38403052
+			xmax = 200.746344367
+			text = "B"
+		intervals [43]:
+			xmin = 200.746344367
+			xmax = 201.057967903
+			text = ""
+		intervals [44]:
+			xmin = 201.057967903
+			xmax = 202.304462044
+			text = "B"
+		intervals [45]:
+			xmin = 202.304462044
+			xmax = 203.534913366
+			text = ""
+		intervals [46]:
+			xmin = 203.534913366
+			xmax = 204.080254552
+			text = "B"
+		intervals [47]:
+			xmin = 204.080254552
+			xmax = 229.363835362
+			text = ""
+		intervals [48]:
+			xmin = 229.363835362
+			xmax = 231.077764807
+			text = "B"
+		intervals [49]:
+			xmin = 231.077764807
+			xmax = 232.164764374
+			text = ""
+		intervals [50]:
+			xmin = 232.164764374
+			xmax = 232.60623105
+			text = "B"
+		intervals [51]:
+			xmin = 232.60623105
+			xmax = 237.306552709
+			text = ""
+		intervals [52]:
+			xmin = 237.306552709
+			xmax = 238.371266455
+			text = "B"
+		intervals [53]:
+			xmin = 238.371266455
+			xmax = 246.655258771
+			text = ""
+		intervals [54]:
+			xmin = 246.655258771
+			xmax = 247.356411725
+			text = "B"
+		intervals [55]:
+			xmin = 247.356411725
+			xmax = 271.060900631
+			text = ""
+		intervals [56]:
+			xmin = 271.060900631
+			xmax = 272.021739865
+			text = "B"
+		intervals [57]:
+			xmin = 272.021739865
+			xmax = 272.59304968
+			text = ""
+		intervals [58]:
+			xmin = 272.59304968
+			xmax = 273.450014402
+			text = "B"
+		intervals [59]:
+			xmin = 273.450014402
+			xmax = 273.813575194
+			text = ""
+		intervals [60]:
+			xmin = 273.813575194
+			xmax = 275.787190918
+			text = "B"
+		intervals [61]:
+			xmin = 275.787190918
+			xmax = 278.461959597
+			text = ""
+		intervals [62]:
+			xmin = 278.461959597
+			xmax = 280.253794925
+			text = "B"
+		intervals [63]:
+			xmin = 280.253794925
+			xmax = 281.162696904
+			text = ""
+		intervals [64]:
+			xmin = 281.162696904
+			xmax = 282.409191045
+			text = "B"
+		intervals [65]:
+			xmin = 282.409191045
+			xmax = 309.782685099
+			text = ""
+		intervals [66]:
+			xmin = 309.782685099
+			xmax = 320.585634326
+			text = "B"
+		intervals [67]:
+			xmin = 320.585634326
+			xmax = 321.93600298
+			text = ""
+		intervals [68]:
+			xmin = 321.93600298
+			xmax = 327.752975641
+			text = "B"
+		intervals [69]:
+			xmin = 327.752975641
+			xmax = 340.723743996
+			text = ""
+		intervals [70]:
+			xmin = 340.723743996
+			xmax = 355.915391346
+			text = "B"
+		intervals [71]:
+			xmin = 355.915391346
+			xmax = 357.080296129
+			text = ""
+		intervals [72]:
+			xmin = 357.080296129
+			xmax = 362.663551138
+			text = "B"
+		intervals [73]:
+			xmin = 362.663551138
+			xmax = 364.92282177
+			text = ""
+		intervals [74]:
+			xmin = 364.92282177
+			xmax = 367.987119868
+			text = "B"
+		intervals [75]:
+			xmin = 367.987119868
+			xmax = 372.137825467
+			text = ""
+		intervals [76]:
+			xmin = 372.137825467
+			xmax = 373.072696073
+			text = "B"
+		intervals [77]:
+			xmin = 373.072696073
+			xmax = 376.240868683
+			text = ""
+		intervals [78]:
+			xmin = 376.240868683
+			xmax = 377.435425568
+			text = "B"
+		intervals [79]:
+			xmin = 377.435425568
+			xmax = 380.57762955
+			text = ""
+		intervals [80]:
+			xmin = 380.57762955
+			xmax = 381.902029576
+			text = "B"
+		intervals [81]:
+			xmin = 381.902029576
+			xmax = 382.525276647
+			text = ""
+		intervals [82]:
+			xmin = 382.525276647
+			xmax = 383.667896276
+			text = "B"
+		intervals [83]:
+			xmin = 383.667896276
+			xmax = 385.611860566
+			text = ""
+		intervals [84]:
+			xmin = 385.611860566
+			xmax = 386.287044893
+			text = "B"
+		intervals [85]:
+			xmin = 386.287044893
+			xmax = 386.806417452
+			text = ""
+		intervals [86]:
+			xmin = 386.806417452
+			xmax = 387.97500571
+			text = "B"
+		intervals [87]:
+			xmin = 387.97500571
+			xmax = 388.416472385
+			text = ""
+		intervals [88]:
+			xmin = 388.416472385
+			xmax = 390.467993993
+			text = "B"
+		intervals [89]:
+			xmin = 390.467993993
+			xmax = 392.845996351
+			text = ""
+		intervals [90]:
+			xmin = 392.845996351
+			xmax = 397.831972917
+			text = "B"
+		intervals [91]:
+			xmin = 397.831972917
+			xmax = 399.545902362
+			text = ""
+		intervals [92]:
+			xmin = 399.545902362
+			xmax = 401.026114155
+			text = "B"
+		intervals [93]:
+			xmin = 401.026114155
+			xmax = 402.61020046
+			text = ""
+		intervals [94]:
+			xmin = 402.61020046
+			xmax = 403.856694601
+			text = "B"
+		intervals [95]:
+			xmin = 403.856694601
+			xmax = 404.37606716
+			text = ""
+		intervals [96]:
+			xmin = 404.37606716
+			xmax = 405.830310326
+			text = "B"
+		intervals [97]:
+			xmin = 405.830310326
+			xmax = 406.209976931
+			text = ""
+		intervals [98]:
+			xmin = 406.209976931
+			xmax = 415.792400645
+			text = "B"
+		intervals [99]:
+			xmin = 415.792400645
+			xmax = 417.09826065
+			text = ""
+		intervals [100]:
+			xmin = 417.09826065
+			xmax = 421.201303866
+			text = "B"
+		intervals [101]:
+			xmin = 421.201303866
+			xmax = 421.486958773
+			text = ""
+		intervals [102]:
+			xmin = 421.486958773
+			xmax = 426.420998084
+			text = "B"
+		intervals [103]:
+			xmin = 426.420998084
+			xmax = 427.745398109
+			text = ""
+		intervals [104]:
+			xmin = 427.745398109
+			xmax = 430.498072672
+			text = "B"
+		intervals [105]:
+			xmin = 430.498072672
+			xmax = 433.177835751
+			text = ""
+		intervals [106]:
+			xmin = 433.177835751
+			xmax = 434.372392637
+			text = "B"
+		intervals [107]:
+			xmin = 434.372392637
+			xmax = 438.709153505
+			text = ""
+		intervals [108]:
+			xmin = 438.709153505
+			xmax = 445.071467353
+			text = "B"
+		intervals [109]:
+			xmin = 445.071467353
+			xmax = 445.715751645
+			text = ""
+		intervals [110]:
+			xmin = 445.715751645
+			xmax = 446.261092832
+			text = "B"
+		intervals [111]:
+			xmin = 446.261092832
+			xmax = 446.468841855
+			text = ""
+		intervals [112]:
+			xmin = 446.468841855
+			xmax = 447.403712461
+			text = "B"
+		intervals [113]:
+			xmin = 447.403712461
+			xmax = 449.247485046
+			text = ""
+		intervals [114]:
+			xmin = 449.247485046
+			xmax = 458.258598945
+			text = "B"
+		intervals [115]:
+			xmin = 458.258598945
+			xmax = 458.492316596
+			text = ""
+		intervals [116]:
+			xmin = 458.492316596
+			xmax = 463.088763743
+			text = "B"
+		intervals [117]:
+			xmin = 463.088763743
+			xmax = 464.204229139
+			text = ""
+		intervals [118]:
+			xmin = 464.204229139
+			xmax = 465.554597792
+			text = "B"
+		intervals [119]:
+			xmin = 465.554597792
+			xmax = 468.125491959
+			text = ""
+		intervals [120]:
+			xmin = 468.125491959
+			xmax = 490.354637485
+			text = "B"
+		intervals [121]:
+			xmin = 490.354637485
+			xmax = 490.625498172
+			text = ""
+		intervals [122]:
+			xmin = 490.625498172
+			xmax = 492.261521733
+			text = "B"
+		intervals [123]:
+			xmin = 492.261521733
+			xmax = 492.625082524
+			text = ""
+		intervals [124]:
+			xmin = 492.625082524
+			xmax = 493.300266851
+			text = "B"
+		intervals [125]:
+			xmin = 493.300266851
+			xmax = 493.611890386
+			text = ""
+		intervals [126]:
+			xmin = 493.611890386
+			xmax = 503.921435683
+			text = "B"
+		intervals [127]:
+			xmin = 503.921435683
+			xmax = 504.177525335
+			text = ""
+		intervals [128]:
+			xmin = 504.177525335
+			xmax = 509.215439157
+			text = "B"
+		intervals [129]:
+			xmin = 509.215439157
+			xmax = 509.561707859
+			text = ""
+		intervals [130]:
+			xmin = 509.561707859
+			xmax = 521.507276716
+			text = "B"
+		intervals [131]:
+			xmin = 521.507276716
+			xmax = 521.836253997
+			text = ""
+		intervals [132]:
+			xmin = 521.836253997
+			xmax = 533.548105203
+			text = "B"
+		intervals [133]:
+			xmin = 533.548105203
+			xmax = 534.062546355
+			text = ""
+		intervals [134]:
+			xmin = 534.062546355
+			xmax = 551.902993757
+			text = "B"
+		intervals [135]:
+			xmin = 551.902993757
+			xmax = 552.309877591
+			text = ""
+		intervals [136]:
+			xmin = 552.309877591
+			xmax = 558.282662019
+			text = "B"
+		intervals [137]:
+			xmin = 558.282662019
+			xmax = 558.802034578
+			text = ""
+		intervals [138]:
+			xmin = 558.802034578
+			xmax = 561.243085606
+			text = "B"
+		intervals [139]:
+			xmin = 561.243085606
+			xmax = 561.424866001
+			text = ""
+		intervals [140]:
+			xmin = 561.424866001
+			xmax = 570.254199504
+			text = "B"
+		intervals [141]:
+			xmin = 570.254199504
+			xmax = 570.672194752
+			text = ""
+		intervals [142]:
+			xmin = 570.672194752
+			xmax = 573.113245779
+			text = "B"
+		intervals [143]:
+			xmin = 573.113245779
+			xmax = 575.217953243
+			text = ""
+		intervals [144]:
+			xmin = 575.217953243
+			xmax = 577.477223875
+			text = "B"
+		intervals [145]:
+			xmin = 577.477223875
+			xmax = 577.788847411
+			text = ""
+		intervals [146]:
+			xmin = 577.788847411
+			xmax = 579.295027832
+			text = "B"
+		intervals [147]:
+			xmin = 579.295027832
+			xmax = 580.33377295
+			text = ""
+		intervals [148]:
+			xmin = 580.33377295
+			xmax = 584.332941654
+			text = "B"
+		intervals [149]:
+			xmin = 584.332941654
+			xmax = 585.763713392
+			text = ""
+		intervals [150]:
+			xmin = 585.763713392
+			xmax = 586.257117323
+			text = "B"
+		intervals [151]:
+			xmin = 586.257117323
+			xmax = 586.750521254
+			text = ""
+		intervals [152]:
+			xmin = 586.750521254
+			xmax = 596.696505759
+			text = "B"
+		intervals [153]:
+			xmin = 596.696505759
+			xmax = 600.743928912
+			text = ""
+		intervals [154]:
+			xmin = 600.743928912
+			xmax = 602.769481892
+			text = "B"
+		intervals [155]:
+			xmin = 602.769481892
+			xmax = 603.913350122
+			text = ""
+		intervals [156]:
+			xmin = 603.913350122
+			xmax = 604.614503077
+			text = "B"
+		intervals [157]:
+			xmin = 604.614503077
+			xmax = 649.424057899
+			text = ""
+		intervals [158]:
+			xmin = 649.424057899
+			xmax = 650.93023832
+			text = "B"
+		intervals [159]:
+			xmin = 650.93023832
+			xmax = 660.381633288
+			text = ""
+		intervals [160]:
+			xmin = 660.381633288
+			xmax = 665.809076529
+			text = "B"
+		intervals [161]:
+			xmin = 665.809076529
+			xmax = 668.873374628
+			text = ""
+		intervals [162]:
+			xmin = 668.873374628
+			xmax = 670.950864864
+			text = "B"
+		intervals [163]:
+			xmin = 670.950864864
+			xmax = 682.510650102
+			text = ""
+		intervals [164]:
+			xmin = 682.510650102
+			xmax = 689.080712973
+			text = "B"
+		intervals [165]:
+			xmin = 689.080712973
+			xmax = 695.005305278
+			text = ""
+		intervals [166]:
+			xmin = 695.005305278
+			xmax = 701.783117173
+			text = "B"
+		intervals [167]:
+			xmin = 701.783117173
+			xmax = 702.250552476
+			text = ""
+		intervals [168]:
+			xmin = 702.250552476
+			xmax = 721.571211671
+			text = "B"
+		intervals [169]:
+			xmin = 721.571211671
+			xmax = 721.75055786
+			text = ""
+		intervals [170]:
+			xmin = 721.75055786
+			xmax = 728.476432499
+			text = "B"
+		intervals [171]:
+			xmin = 728.476432499
+			xmax = 741.355686356
+			text = ""
+		intervals [172]:
+			xmin = 741.355686356
+			xmax = 745.588572712
+			text = "B"
+		intervals [173]:
+			xmin = 745.588572712
+			xmax = 745.900196248
+			text = ""
+		intervals [174]:
+			xmin = 745.900196248
+			xmax = 750.652455163
+			text = "B"
+		intervals [175]:
+			xmin = 750.652455163
+			xmax = 751.076630417
+			text = ""
+		intervals [176]:
+			xmin = 751.076630417
+			xmax = 766.865556211
+			text = "B"
+		intervals [177]:
+			xmin = 766.865556211
+			xmax = 767.147528312
+			text = ""
+		intervals [178]:
+			xmin = 767.147528312
+			xmax = 786.67593653
+			text = "B"
+		intervals [179]:
+			xmin = 786.67593653
+			xmax = 787.758004022
+			text = ""
+		intervals [180]:
+			xmin = 787.758004022
+			xmax = 788.822717768
+			text = "B"
+		intervals [181]:
+			xmin = 788.822717768
+			xmax = 789.653713863
+			text = ""
+		intervals [182]:
+			xmin = 789.653713863
+			xmax = 790.095180538
+			text = "B"
+		intervals [183]:
+			xmin = 790.095180538
+			xmax = 793.055604124
+			text = ""
+		intervals [184]:
+			xmin = 793.055604124
+			xmax = 793.964506102
+			text = "B"
+		intervals [185]:
+			xmin = 793.964506102
+			xmax = 794.899376709
+			text = ""
+		intervals [186]:
+			xmin = 794.899376709
+			xmax = 796.587337525
+			text = "B"
+		intervals [187]:
+			xmin = 796.587337525
+			xmax = 799.205237541
+			text = ""
+		intervals [188]:
+			xmin = 799.205237541
+			xmax = 800.24398266
+			text = "B"
+		intervals [189]:
+			xmin = 800.24398266
+			xmax = 815.575398958
+			text = ""
+		intervals [190]:
+			xmin = 815.575398958
+			xmax = 818.769540195
+			text = "B"
+		intervals [191]:
+			xmin = 818.769540195
+			xmax = 819.34085001
+			text = ""
+		intervals [192]:
+			xmin = 819.34085001
+			xmax = 826.144630533
+			text = "B"
+		intervals [193]:
+			xmin = 826.144630533
+			xmax = 828.392824983
+			text = ""
+		intervals [194]:
+			xmin = 828.392824983
+			xmax = 846.908456711
+			text = "B"
+		intervals [195]:
+			xmin = 846.908456711
+			xmax = 847.112522928
+			text = ""
+		intervals [196]:
+			xmin = 847.112522928
+			xmax = 849.709385723
+			text = "B"
+		intervals [197]:
+			xmin = 849.709385723
+			xmax = 850.150852398
+			text = ""
+		intervals [198]:
+			xmin = 850.150852398
+			xmax = 850.955879865
+			text = "B"
+		intervals [199]:
+			xmin = 850.955879865
+			xmax = 851.942687727
+			text = ""
+		intervals [200]:
+			xmin = 851.942687727
+			xmax = 855.604264268
+			text = "B"
+		intervals [201]:
+			xmin = 855.604264268
+			xmax = 857.45546546
+			text = ""
+		intervals [202]:
+			xmin = 857.45546546
+			xmax = 860.441857674
+			text = "B"
+		intervals [203]:
+			xmin = 860.441857674
+			xmax = 860.910541577
+			text = ""
+		intervals [204]:
+			xmin = 860.910541577
+			xmax = 870.025529988
+			text = "B"
+		intervals [205]:
+			xmin = 870.025529988
+			xmax = 870.282782061
+			text = ""
+		intervals [206]:
+			xmin = 870.282782061
+			xmax = 877.683841027
+			text = "B"
+		intervals [207]:
+			xmin = 877.683841027
+			xmax = 880.514421473
+			text = ""
+		intervals [208]:
+			xmin = 880.514421473
+			xmax = 891.654962864
+			text = "B"
+		intervals [209]:
+			xmin = 891.654962864
+			xmax = 954.760103371
+			text = ""
+		intervals [210]:
+			xmin = 954.760103371
+			xmax = 956.006597512
+			text = "B"
+		intervals [211]:
+			xmin = 956.006597512
+			xmax = 956.482710023
+			text = ""
+		intervals [212]:
+			xmin = 956.482710023
+			xmax = 958.066796328
+			text = "B"
+		intervals [213]:
+			xmin = 958.066796328
+			xmax = 959.780725773
+			text = ""
+		intervals [214]:
+			xmin = 959.780725773
+			xmax = 960.741565007
+			text = "B"
+		intervals [215]:
+			xmin = 960.741565007
+			xmax = 962.377588568
+			text = ""
+		intervals [216]:
+			xmin = 962.377588568
+			xmax = 964.325235664
+			text = "B"
+		intervals [217]:
+			xmin = 964.325235664
+			xmax = 967.28565925
+			text = ""
+		intervals [218]:
+			xmin = 967.28565925
+			xmax = 968.038749461
+			text = "B"
+		intervals [219]:
+			xmin = 968.038749461
+			xmax = 969.44105537
+			text = ""
+		intervals [220]:
+			xmin = 969.44105537
+			xmax = 970.973204419
+			text = "B"
+		intervals [221]:
+			xmin = 970.973204419
+			xmax = 971.258859327
+			text = ""
+		intervals [222]:
+			xmin = 971.258859327
+			xmax = 974.323157425
+			text = "B"
+		intervals [223]:
+			xmin = 974.323157425
+			xmax = 977.094435002
+			text = ""
+		intervals [224]:
+			xmin = 977.094435002
+			xmax = 978.444803656
+			text = "B"
+		intervals [225]:
+			xmin = 978.444803656
+			xmax = 978.678521307
+			text = ""
+		intervals [226]:
+			xmin = 978.678521307
+			xmax = 980.002921333
+			text = "B"
+		intervals [227]:
+			xmin = 980.002921333
+			xmax = 983.508686106
+			text = ""
+		intervals [228]:
+			xmin = 983.508686106
+			xmax = 986.183454785
+			text = "B"
+		intervals [229]:
+			xmin = 986.183454785
+			xmax = 991.377180375
+			text = ""
+		intervals [230]:
+			xmin = 991.377180375
+			xmax = 999.253102582
+			text = "B"
+		intervals [231]:
+			xmin = 999.253102582
+			xmax = 1008.59444303
+			text = ""
+		intervals [232]:
+			xmin = 1008.59444303
+			xmax = 1009.42543913
+			text = "B"
+		intervals [233]:
+			xmin = 1009.42543913
+			xmax = 1026.43120763
+			text = ""
+		intervals [234]:
+			xmin = 1026.43120763
+			xmax = 1028.11916844
+			text = "B"
+		intervals [235]:
+			xmin = 1028.11916844
+			xmax = 1033.70242345
+			text = ""
+		intervals [236]:
+			xmin = 1033.70242345
+			xmax = 1034.61132543
+			text = "B"
+		intervals [237]:
+			xmin = 1034.61132543
+			xmax = 1037.04126438
+			text = ""
+		intervals [238]:
+			xmin = 1037.04126438
+			xmax = 1042.46870762
+			text = "B"
+		intervals [239]:
+			xmin = 1042.46870762
+			xmax = 1043.89329935
+			text = ""
+		intervals [240]:
+			xmin = 1043.89329935
+			xmax = 1050.61917399
+			text = "B"
+		intervals [241]:
+			xmin = 1050.61917399
+			xmax = 1051.45017008
+			text = ""
+		intervals [242]:
+			xmin = 1051.45017008
+			xmax = 1053.86525248
+			text = "B"
+		intervals [243]:
+			xmin = 1053.86525248
+			xmax = 1054.87802897
+			text = ""
+		intervals [244]:
+			xmin = 1054.87802897
+			xmax = 1058.77332316
+			text = "B"
+		intervals [245]:
+			xmin = 1058.77332316
+			xmax = 1169.67690791
+			text = ""
+		intervals [246]:
+			xmin = 1169.67690791
+			xmax = 1170.87146479
+			text = "B"
+		intervals [247]:
+			xmin = 1170.87146479
+			xmax = 1171.28696284
+			text = ""
+		intervals [248]:
+			xmin = 1171.28696284
+			xmax = 1171.70246089
+			text = "B"
+		intervals [249]:
+			xmin = 1171.70246089
+			xmax = 1172.74120601
+			text = ""
+		intervals [250]:
+			xmin = 1172.74120601
+			xmax = 1174.84466487
+			text = "B"
+		intervals [251]:
+			xmin = 1174.84466487
+			xmax = 1175.96131587
+			text = ""
+		intervals [252]:
+			xmin = 1175.96131587
+			xmax = 1177.20781001
+			text = "B"
+		intervals [253]:
+			xmin = 1177.20781001
+			xmax = 1236.26802457
+			text = ""
+		intervals [254]:
+			xmin = 1236.26802457
+			xmax = 1236.96917752
+			text = "B"
+		intervals [255]:
+			xmin = 1236.96917752
+			xmax = 1331.5870971
+			text = ""
+		intervals [256]:
+			xmin = 1331.5870971
+			xmax = 1337.64
+			text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "A-turns"
+		xmin = 0.0
+		xmax = 1337.64
+		intervals: size = 295
+		intervals [1]:
+			xmin = 0.0
+			xmax = 31.7034464728
+			text = ""
+		intervals [2]:
+			xmin = 31.7034464728
+			xmax = 52.2186625535
+			text = "A"
+		intervals [3]:
+			xmin = 52.2186625535
+			xmax = 54.1255468014
+			text = ""
+		intervals [4]:
+			xmin = 54.1255468014
+			xmax = 56.2809429213
+			text = "A"
+		intervals [5]:
+			xmin = 56.2809429213
+			xmax = 61.0591704641
+			text = ""
+		intervals [6]:
+			xmin = 61.0591704641
+			xmax = 64.4610607256
+			text = "A"
+		intervals [7]:
+			xmin = 64.4610607256
+			xmax = 64.6428411213
+			text = ""
+		intervals [8]:
+			xmin = 64.6428411213
+			xmax = 76.1469433032
+			text = "A"
+		intervals [9]:
+			xmin = 76.1469433032
+			xmax = 76.3844067553
+			text = ""
+		intervals [10]:
+			xmin = 76.3844067553
+			xmax = 77.5529950131
+			text = "A"
+		intervals [11]:
+			xmin = 77.5529950131
+			xmax = 80.4874499714
+			text = ""
+		intervals [12]:
+			xmin = 80.4874499714
+			xmax = 83.3959363019
+			text = "A"
+		intervals [13]:
+			xmin = 83.3959363019
+			xmax = 83.863371605
+			text = ""
+		intervals [14]:
+			xmin = 83.863371605
+			xmax = 86.2005481205
+			text = "A"
+		intervals [15]:
+			xmin = 86.2005481205
+			xmax = 90.2615798882
+			text = ""
+		intervals [16]:
+			xmin = 90.2615798882
+			xmax = 91.37823089
+			text = "A"
+		intervals [17]:
+			xmin = 91.37823089
+			xmax = 98.156042785
+			text = ""
+		intervals [18]:
+			xmin = 98.156042785
+			xmax = 107.530717475
+			text = "A"
+		intervals [19]:
+			xmin = 107.530717475
+			xmax = 107.97218415
+			text = ""
+		intervals [20]:
+			xmin = 107.97218415
+			xmax = 110.101611642
+			text = "A"
+		intervals [21]:
+			xmin = 110.101611642
+			xmax = 110.574040677
+			text = ""
+		intervals [22]:
+			xmin = 110.574040677
+			xmax = 113.898025055
+			text = "A"
+		intervals [23]:
+			xmin = 113.898025055
+			xmax = 115.923578035
+			text = ""
+		intervals [24]:
+			xmin = 115.923578035
+			xmax = 117.663476108
+			text = "A"
+		intervals [25]:
+			xmin = 117.663476108
+			xmax = 121.68861344
+			text = ""
+		intervals [26]:
+			xmin = 121.68861344
+			xmax = 123.428511513
+			text = "A"
+		intervals [27]:
+			xmin = 123.428511513
+			xmax = 125.168409585
+			text = ""
+		intervals [28]:
+			xmin = 125.168409585
+			xmax = 129.193546918
+			text = "A"
+		intervals [29]:
+			xmin = 129.193546918
+			xmax = 130.222429222
+			text = ""
+		intervals [30]:
+			xmin = 130.222429222
+			xmax = 132.27395083
+			text = "A"
+		intervals [31]:
+			xmin = 132.27395083
+			xmax = 132.507668482
+			text = ""
+		intervals [32]:
+			xmin = 132.507668482
+			xmax = 133.41657046
+			text = "A"
+		intervals [33]:
+			xmin = 133.41657046
+			xmax = 136.32505679
+			text = ""
+		intervals [34]:
+			xmin = 136.32505679
+			xmax = 138.662233306
+			text = "A"
+		intervals [35]:
+			xmin = 138.662233306
+			xmax = 144.240556908
+			text = ""
+		intervals [36]:
+			xmin = 144.240556908
+			xmax = 154.238478669
+			text = "A"
+		intervals [37]:
+			xmin = 154.238478669
+			xmax = 155.054680543
+			text = ""
+		intervals [38]:
+			xmin = 155.054680543
+			xmax = 159.417410039
+			text = "A"
+		intervals [39]:
+			xmin = 159.417410039
+			xmax = 159.677096319
+			text = ""
+		intervals [40]:
+			xmin = 159.677096319
+			xmax = 160.560029669
+			text = "A"
+		intervals [41]:
+			xmin = 160.560029669
+			xmax = 161.650712043
+			text = ""
+		intervals [42]:
+			xmin = 161.650712043
+			xmax = 164.35144935
+			text = "A"
+		intervals [43]:
+			xmin = 164.35144935
+			xmax = 165.2343827
+			text = ""
+		intervals [44]:
+			xmin = 165.2343827
+			xmax = 168.947896497
+			text = "A"
+		intervals [45]:
+			xmin = 168.947896497
+			xmax = 169.311457288
+			text = ""
+		intervals [46]:
+			xmin = 169.311457288
+			xmax = 170.791669081
+			text = "A"
+		intervals [47]:
+			xmin = 170.791669081
+			xmax = 173.752092668
+			text = ""
+		intervals [48]:
+			xmin = 173.752092668
+			xmax = 174.868743669
+			text = "A"
+		intervals [49]:
+			xmin = 174.868743669
+			xmax = 175.881520159
+			text = ""
+		intervals [50]:
+			xmin = 175.881520159
+			xmax = 179.257441793
+			text = "A"
+		intervals [51]:
+			xmin = 179.257441793
+			xmax = 179.507265259
+			text = ""
+		intervals [52]:
+			xmin = 179.507265259
+			xmax = 182.02622217
+			text = "A"
+		intervals [53]:
+			xmin = 182.02622217
+			xmax = 186.260357126
+			text = ""
+		intervals [54]:
+			xmin = 186.260357126
+			xmax = 188.415753246
+			text = "A"
+		intervals [55]:
+			xmin = 188.415753246
+			xmax = 192.060037698
+			text = ""
+		intervals [56]:
+			xmin = 192.060037698
+			xmax = 194.864649516
+			text = "A"
+		intervals [57]:
+			xmin = 194.864649516
+			xmax = 202.454917485
+			text = ""
+		intervals [58]:
+			xmin = 202.454917485
+			xmax = 206.298274422
+			text = "A"
+		intervals [59]:
+			xmin = 206.298274422
+			xmax = 206.531992073
+			text = ""
+		intervals [60]:
+			xmin = 206.531992073
+			xmax = 230.153580694
+			text = "A"
+		intervals [61]:
+			xmin = 230.153580694
+			xmax = 231.325914753
+			text = ""
+		intervals [62]:
+			xmin = 231.325914753
+			xmax = 237.116918786
+			text = "A"
+		intervals [63]:
+			xmin = 237.116918786
+			xmax = 237.350636437
+			text = ""
+		intervals [64]:
+			xmin = 237.350636437
+			xmax = 238.129695276
+			text = "A"
+		intervals [65]:
+			xmin = 238.129695276
+			xmax = 238.389381555
+			text = ""
+		intervals [66]:
+			xmin = 238.389381555
+			xmax = 241.349805141
+			text = "A"
+		intervals [67]:
+			xmin = 241.349805141
+			xmax = 241.687397305
+			text = ""
+		intervals [68]:
+			xmin = 241.687397305
+			xmax = 250.672542576
+			text = "A"
+		intervals [69]:
+			xmin = 250.672542576
+			xmax = 251.001520526
+			text = ""
+		intervals [70]:
+			xmin = 251.001520526
+			xmax = 263.726148221
+			text = "A"
+		intervals [71]:
+			xmin = 263.726148221
+			xmax = 264.037771757
+			text = ""
+		intervals [72]:
+			xmin = 264.037771757
+			xmax = 269.802807161
+			text = "A"
+		intervals [73]:
+			xmin = 269.802807161
+			xmax = 270.359322756
+			text = ""
+		intervals [74]:
+			xmin = 270.359322756
+			xmax = 271.917440433
+			text = "A"
+		intervals [75]:
+			xmin = 271.917440433
+			xmax = 272.229063968
+			text = ""
+		intervals [76]:
+			xmin = 272.229063968
+			xmax = 272.644562016
+			text = "A"
+		intervals [77]:
+			xmin = 272.644562016
+			xmax = 275.449173834
+			text = ""
+		intervals [78]:
+			xmin = 275.449173834
+			xmax = 279.110750375
+			text = "A"
+		intervals [79]:
+			xmin = 279.110750375
+			xmax = 279.448342539
+			text = ""
+		intervals [80]:
+			xmin = 279.448342539
+			xmax = 280.69483668
+			text = "A"
+		intervals [81]:
+			xmin = 280.69483668
+			xmax = 281.110334727
+			text = ""
+		intervals [82]:
+			xmin = 281.110334727
+			xmax = 283.10991908
+			text = "A"
+		intervals [83]:
+			xmin = 283.10991908
+			xmax = 283.286768068
+			text = ""
+		intervals [84]:
+			xmin = 283.286768068
+			xmax = 286.117348515
+			text = "A"
+		intervals [85]:
+			xmin = 286.117348515
+			xmax = 286.313986125
+			text = ""
+		intervals [86]:
+			xmin = 286.313986125
+			xmax = 305.193178645
+			text = "A"
+		intervals [87]:
+			xmin = 305.193178645
+			xmax = 307.501952326
+			text = ""
+		intervals [88]:
+			xmin = 307.501952326
+			xmax = 308.514728816
+			text = "A"
+		intervals [89]:
+			xmin = 308.514728816
+			xmax = 320.512234929
+			text = ""
+		intervals [90]:
+			xmin = 320.512234929
+			xmax = 321.784697699
+			text = "A"
+		intervals [91]:
+			xmin = 321.784697699
+			xmax = 326.884474584
+			text = ""
+		intervals [92]:
+			xmin = 326.884474584
+			xmax = 334.986686505
+			text = "A"
+		intervals [93]:
+			xmin = 334.986686505
+			xmax = 335.713808087
+			text = ""
+		intervals [94]:
+			xmin = 335.713808087
+			xmax = 342.543557238
+			text = "A"
+		intervals [95]:
+			xmin = 342.543557238
+			xmax = 355.065430311
+			text = ""
+		intervals [96]:
+			xmin = 355.065430311
+			xmax = 357.87004213
+			text = "A"
+		intervals [97]:
+			xmin = 357.87004213
+			xmax = 358.353582578
+			text = ""
+		intervals [98]:
+			xmin = 358.353582578
+			xmax = 359.366359069
+			text = "A"
+		intervals [99]:
+			xmin = 359.366359069
+			xmax = 361.88531598
+			text = ""
+		intervals [100]:
+			xmin = 361.88531598
+			xmax = 365.520923893
+			text = "A"
+		intervals [101]:
+			xmin = 365.520923893
+			xmax = 367.416633733
+			text = ""
+		intervals [102]:
+			xmin = 367.416633733
+			xmax = 369.520092597
+			text = "A"
+		intervals [103]:
+			xmin = 369.520092597
+			xmax = 370.039465156
+			text = ""
+		intervals [104]:
+			xmin = 370.039465156
+			xmax = 372.01308088
+			text = "A"
+		intervals [105]:
+			xmin = 372.01308088
+			xmax = 372.947951486
+			text = ""
+		intervals [106]:
+			xmin = 372.947951486
+			xmax = 375.259159374
+			text = "A"
+		intervals [107]:
+			xmin = 375.259159374
+			xmax = 375.778531933
+			text = ""
+		intervals [108]:
+			xmin = 375.778531933
+			xmax = 377.258743726
+			text = "A"
+		intervals [109]:
+			xmin = 377.258743726
+			xmax = 377.792973499
+			text = ""
+		intervals [110]:
+			xmin = 377.792973499
+			xmax = 380.156118643
+			text = "A"
+		intervals [111]:
+			xmin = 380.156118643
+			xmax = 381.610361808
+			text = ""
+		intervals [112]:
+			xmin = 381.610361808
+			xmax = 384.648691278
+			text = "A"
+		intervals [113]:
+			xmin = 384.648691278
+			xmax = 385.739373652
+			text = ""
+		intervals [114]:
+			xmin = 385.739373652
+			xmax = 387.946707028
+			text = "A"
+		intervals [115]:
+			xmin = 387.946707028
+			xmax = 390.663550149
+			text = ""
+		intervals [116]:
+			xmin = 390.663550149
+			xmax = 392.195699198
+			text = "A"
+		intervals [117]:
+			xmin = 392.195699198
+			xmax = 392.948789409
+			text = ""
+		intervals [118]:
+			xmin = 392.948789409
+			xmax = 393.623973736
+			text = "A"
+		intervals [119]:
+			xmin = 393.623973736
+			xmax = 397.442610644
+			text = ""
+		intervals [120]:
+			xmin = 397.442610644
+			xmax = 403.856861748
+			text = "A"
+		intervals [121]:
+			xmin = 403.856861748
+			xmax = 404.999481378
+			text = ""
+		intervals [122]:
+			xmin = 404.999481378
+			xmax = 405.804508844
+			text = "A"
+		intervals [123]:
+			xmin = 405.804508844
+			xmax = 406.401787287
+			text = ""
+		intervals [124]:
+			xmin = 406.401787287
+			xmax = 407.856030452
+			text = "A"
+		intervals [125]:
+			xmin = 407.856030452
+			xmax = 415.060514134
+			text = ""
+		intervals [126]:
+			xmin = 415.060514134
+			xmax = 418.488373023
+			text = "A"
+		intervals [127]:
+			xmin = 418.488373023
+			xmax = 424.631826434
+			text = ""
+		intervals [128]:
+			xmin = 424.631826434
+			xmax = 428.890681417
+			text = "A"
+		intervals [129]:
+			xmin = 428.890681417
+			xmax = 429.929426535
+			text = ""
+		intervals [130]:
+			xmin = 429.929426535
+			xmax = 432.967756006
+			text = "A"
+		intervals [131]:
+			xmin = 432.967756006
+			xmax = 433.357285425
+			text = ""
+		intervals [132]:
+			xmin = 433.357285425
+			xmax = 435.616556057
+			text = "A"
+		intervals [133]:
+			xmin = 435.616556057
+			xmax = 435.772367824
+			text = ""
+		intervals [134]:
+			xmin = 435.772367824
+			xmax = 438.057607084
+			text = "A"
+		intervals [135]:
+			xmin = 438.057607084
+			xmax = 438.793405874
+			text = ""
+		intervals [136]:
+			xmin = 438.793405874
+			xmax = 440.533303946
+			text = "A"
+		intervals [137]:
+			xmin = 440.533303946
+			xmax = 443.104198114
+			text = ""
+		intervals [138]:
+			xmin = 443.104198114
+			xmax = 444.013100092
+			text = "A"
+		intervals [139]:
+			xmin = 444.013100092
+			xmax = 444.298754999
+			text = ""
+		intervals [140]:
+			xmin = 444.298754999
+			xmax = 445.545249141
+			text = "A"
+		intervals [141]:
+			xmin = 445.545249141
+			xmax = 446.506088375
+			text = ""
+		intervals [142]:
+			xmin = 446.506088375
+			xmax = 449.128919798
+			text = "A"
+		intervals [143]:
+			xmin = 449.128919798
+			xmax = 450.266608021
+			text = ""
+		intervals [144]:
+			xmin = 450.266608021
+			xmax = 450.760011952
+			text = "A"
+		intervals [145]:
+			xmin = 450.760011952
+			xmax = 456.631419069
+			text = ""
+		intervals [146]:
+			xmin = 456.631419069
+			xmax = 459.617811283
+			text = "A"
+		intervals [147]:
+			xmin = 459.617811283
+			xmax = 461.3057721
+			text = ""
+		intervals [148]:
+			xmin = 461.3057721
+			xmax = 463.954572151
+			text = "A"
+		intervals [149]:
+			xmin = 463.954572151
+			xmax = 464.956237227
+			text = ""
+		intervals [150]:
+			xmin = 464.956237227
+			xmax = 466.410480393
+			text = "A"
+		intervals [151]:
+			xmin = 466.410480393
+			xmax = 466.722103928
+			text = ""
+		intervals [152]:
+			xmin = 466.722103928
+			xmax = 469.007343188
+			text = "A"
+		intervals [153]:
+			xmin = 469.007343188
+			xmax = 476.538245293
+			text = ""
+		intervals [154]:
+			xmin = 476.538245293
+			xmax = 477.187460992
+			text = "A"
+		intervals [155]:
+			xmin = 477.187460992
+			xmax = 492.457077221
+			text = ""
+		intervals [156]:
+			xmin = 492.457077221
+			xmax = 493.054355664
+			text = "A"
+		intervals [157]:
+			xmin = 493.054355664
+			xmax = 572.586526249
+			text = ""
+		intervals [158]:
+			xmin = 572.586526249
+			xmax = 576.897318489
+			text = "A"
+		intervals [159]:
+			xmin = 576.897318489
+			xmax = 578.143812631
+			text = ""
+		intervals [160]:
+			xmin = 578.143812631
+			xmax = 581.675546032
+			text = "A"
+		intervals [161]:
+			xmin = 581.675546032
+			xmax = 583.934816664
+			text = ""
+		intervals [162]:
+			xmin = 583.934816664
+			xmax = 584.947593154
+			text = "A"
+		intervals [163]:
+			xmin = 584.947593154
+			xmax = 585.729149192
+			text = ""
+		intervals [164]:
+			xmin = 585.729149192
+			xmax = 587.105486474
+			text = "A"
+		intervals [165]:
+			xmin = 587.105486474
+			xmax = 589.105070826
+			text = ""
+		intervals [166]:
+			xmin = 589.105070826
+			xmax = 590.247690456
+			text = "A"
+		intervals [167]:
+			xmin = 590.247690456
+			xmax = 590.455439479
+			text = ""
+		intervals [168]:
+			xmin = 590.455439479
+			xmax = 591.286435574
+			text = "A"
+		intervals [169]:
+			xmin = 591.286435574
+			xmax = 595.155761138
+			text = ""
+		intervals [170]:
+			xmin = 595.155761138
+			xmax = 601.751792638
+			text = "A"
+		intervals [171]:
+			xmin = 601.751792638
+			xmax = 602.372605502
+			text = ""
+		intervals [172]:
+			xmin = 602.372605502
+			xmax = 607.254707557
+			text = "A"
+		intervals [173]:
+			xmin = 607.254707557
+			xmax = 607.644236976
+			text = ""
+		intervals [174]:
+			xmin = 607.644236976
+			xmax = 609.358166421
+			text = "A"
+		intervals [175]:
+			xmin = 609.358166421
+			xmax = 609.6178527
+			text = ""
+		intervals [176]:
+			xmin = 609.6178527
+			xmax = 622.368449024
+			text = "A"
+		intervals [177]:
+			xmin = 622.368449024
+			xmax = 622.769152851
+			text = ""
+		intervals [178]:
+			xmin = 622.769152851
+			xmax = 649.672651407
+			text = "A"
+		intervals [179]:
+			xmin = 649.672651407
+			xmax = 650.210626981
+			text = ""
+		intervals [180]:
+			xmin = 650.210626981
+			xmax = 660.909701696
+			text = "A"
+		intervals [181]:
+			xmin = 660.909701696
+			xmax = 662.779442909
+			text = ""
+		intervals [182]:
+			xmin = 662.779442909
+			xmax = 664.103842934
+			text = "A"
+		intervals [183]:
+			xmin = 664.103842934
+			xmax = 664.753058633
+			text = ""
+		intervals [184]:
+			xmin = 664.753058633
+			xmax = 668.310760662
+			text = "A"
+		intervals [185]:
+			xmin = 668.310760662
+			xmax = 668.801730387
+			text = ""
+		intervals [186]:
+			xmin = 668.801730387
+			xmax = 669.684663737
+			text = "A"
+		intervals [187]:
+			xmin = 669.684663737
+			xmax = 671.372624554
+			text = ""
+		intervals [188]:
+			xmin = 671.372624554
+			xmax = 682.435260061
+			text = "A"
+		intervals [189]:
+			xmin = 682.435260061
+			xmax = 683.741120065
+			text = ""
+		intervals [190]:
+			xmin = 683.741120065
+			xmax = 684.260492624
+			text = "A"
+		intervals [191]:
+			xmin = 684.260492624
+			xmax = 685.558924022
+			text = ""
+		intervals [192]:
+			xmin = 685.558924022
+			xmax = 686.130233837
+			text = "A"
+		intervals [193]:
+			xmin = 686.130233837
+			xmax = 686.363951488
+			text = ""
+		intervals [194]:
+			xmin = 686.363951488
+			xmax = 686.753480908
+			text = "A"
+		intervals [195]:
+			xmin = 686.753480908
+			xmax = 687.324790722
+			text = ""
+		intervals [196]:
+			xmin = 687.324790722
+			xmax = 695.582814411
+			text = "A"
+		intervals [197]:
+			xmin = 695.582814411
+			xmax = 721.792651613
+			text = ""
+		intervals [198]:
+			xmin = 721.792651613
+			xmax = 722.363961428
+			text = "A"
+		intervals [199]:
+			xmin = 722.363961428
+			xmax = 727.027203046
+			text = ""
+		intervals [200]:
+			xmin = 727.027203046
+			xmax = 732.324803148
+			text = "A"
+		intervals [201]:
+			xmin = 732.324803148
+			xmax = 732.871392935
+			text = ""
+		intervals [202]:
+			xmin = 732.871392935
+			xmax = 742.921251951
+			text = "A"
+		intervals [203]:
+			xmin = 742.921251951
+			xmax = 783.481877597
+			text = ""
+		intervals [204]:
+			xmin = 783.481877597
+			xmax = 784.157061924
+			text = "A"
+		intervals [205]:
+			xmin = 784.157061924
+			xmax = 788.989723923
+			text = ""
+		intervals [206]:
+			xmin = 788.989723923
+			xmax = 789.898625901
+			text = "A"
+		intervals [207]:
+			xmin = 789.898625901
+			xmax = 790.184280809
+			text = ""
+		intervals [208]:
+			xmin = 790.184280809
+			xmax = 793.897794605
+			text = "A"
+		intervals [209]:
+			xmin = 793.897794605
+			xmax = 794.157480885
+			text = ""
+		intervals [210]:
+			xmin = 794.157480885
+			xmax = 795.689629934
+			text = "A"
+		intervals [211]:
+			xmin = 795.689629934
+			xmax = 796.105127981
+			text = ""
+		intervals [212]:
+			xmin = 796.105127981
+			xmax = 811.764210635
+			text = "A"
+		intervals [213]:
+			xmin = 811.764210635
+			xmax = 812.501258025
+			text = ""
+		intervals [214]:
+			xmin = 812.501258025
+			xmax = 816.630269869
+			text = "A"
+		intervals [215]:
+			xmin = 816.630269869
+			xmax = 826.267128039
+			text = ""
+		intervals [216]:
+			xmin = 826.267128039
+			xmax = 829.279488881
+			text = "A"
+		intervals [217]:
+			xmin = 829.279488881
+			xmax = 849.830599398
+			text = ""
+		intervals [218]:
+			xmin = 849.830599398
+			xmax = 851.96002689
+			text = "A"
+		intervals [219]:
+			xmin = 851.96002689
+			xmax = 853.751862218
+			text = ""
+		intervals [220]:
+			xmin = 853.751862218
+			xmax = 855.154168127
+			text = "A"
+		intervals [221]:
+			xmin = 855.154168127
+			xmax = 855.725477942
+			text = ""
+		intervals [222]:
+			xmin = 855.725477942
+			xmax = 857.90684269
+			text = "A"
+		intervals [223]:
+			xmin = 857.90684269
+			xmax = 876.453436779
+			text = ""
+		intervals [224]:
+			xmin = 876.453436779
+			xmax = 879.959201552
+			text = "A"
+		intervals [225]:
+			xmin = 879.959201552
+			xmax = 881.470376374
+			text = ""
+		intervals [226]:
+			xmin = 881.470376374
+			xmax = 882.846713655
+			text = "A"
+		intervals [227]:
+			xmin = 882.846713655
+			xmax = 892.184307635
+			text = ""
+		intervals [228]:
+			xmin = 892.184307635
+			xmax = 892.859491962
+			text = "A"
+		intervals [229]:
+			xmin = 892.859491962
+			xmax = 956.955123137
+			text = ""
+		intervals [230]:
+			xmin = 956.955123137
+			xmax = 957.838056488
+			text = "A"
+		intervals [231]:
+			xmin = 957.838056488
+			xmax = 968.713980192
+			text = ""
+		intervals [232]:
+			xmin = 968.713980192
+			xmax = 971.232937103
+			text = "A"
+		intervals [233]:
+			xmin = 971.232937103
+			xmax = 972.401525361
+			text = ""
+		intervals [234]:
+			xmin = 972.401525361
+			xmax = 974.401109713
+			text = "A"
+		intervals [235]:
+			xmin = 974.401109713
+			xmax = 1003.03963793
+			text = ""
+		intervals [236]:
+			xmin = 1003.03963793
+			xmax = 1004.05241442
+			text = "A"
+		intervals [237]:
+			xmin = 1004.05241442
+			xmax = 1006.88299487
+			text = ""
+		intervals [238]:
+			xmin = 1006.88299487
+			xmax = 1007.79189684
+			text = "A"
+		intervals [239]:
+			xmin = 1007.79189684
+			xmax = 1025.9353529
+			text = ""
+		intervals [240]:
+			xmin = 1025.9353529
+			xmax = 1027.38959606
+			text = "A"
+		intervals [241]:
+			xmin = 1027.38959606
+			xmax = 1028.29849804
+			text = ""
+		intervals [242]:
+			xmin = 1028.29849804
+			xmax = 1029.20740002
+			text = "A"
+		intervals [243]:
+			xmin = 1029.20740002
+			xmax = 1158.175287
+			text = ""
+		intervals [244]:
+			xmin = 1158.175287
+			xmax = 1165.44650283
+			text = "A"
+		intervals [245]:
+			xmin = 1165.44650283
+			xmax = 1168.40449221
+			text = ""
+		intervals [246]:
+			xmin = 1168.40449221
+			xmax = 1170.81957461
+			text = "A"
+		intervals [247]:
+			xmin = 1170.81957461
+			xmax = 1171.6505707
+			text = ""
+		intervals [248]:
+			xmin = 1171.6505707
+			xmax = 1173.72806094
+			text = "A"
+		intervals [249]:
+			xmin = 1173.72806094
+			xmax = 1174.63696292
+			text = ""
+		intervals [250]:
+			xmin = 1174.63696292
+			xmax = 1177.44157474
+			text = "A"
+		intervals [251]:
+			xmin = 1177.44157474
+			xmax = 1178.58051089
+			text = ""
+		intervals [252]:
+			xmin = 1178.58051089
+			xmax = 1179.93087955
+			text = "A"
+		intervals [253]:
+			xmin = 1179.93087955
+			xmax = 1180.19056582
+			text = ""
+		intervals [254]:
+			xmin = 1180.19056582
+			xmax = 1182.3978992
+			text = "A"
+		intervals [255]:
+			xmin = 1182.3978992
+			xmax = 1184.93171333
+			text = ""
+		intervals [256]:
+			xmin = 1184.93171333
+			xmax = 1186.23014472
+			text = "A"
+		intervals [257]:
+			xmin = 1186.23014472
+			xmax = 1194.59204292
+			text = ""
+		intervals [258]:
+			xmin = 1194.59204292
+			xmax = 1195.44900765
+			text = "A"
+		intervals [259]:
+			xmin = 1195.44900765
+			xmax = 1230.05164308
+			text = ""
+		intervals [260]:
+			xmin = 1230.05164308
+			xmax = 1235.37521181
+			text = "A"
+		intervals [261]:
+			xmin = 1235.37521181
+			xmax = 1247.49519478
+			text = ""
+		intervals [262]:
+			xmin = 1247.49519478
+			xmax = 1255.02609689
+			text = "A"
+		intervals [263]:
+			xmin = 1255.02609689
+			xmax = 1255.5974067
+			text = ""
+		intervals [264]:
+			xmin = 1255.5974067
+			xmax = 1258.16830087
+			text = "A"
+		intervals [265]:
+			xmin = 1258.16830087
+			xmax = 1259.45562086
+			text = ""
+		intervals [266]:
+			xmin = 1259.45562086
+			xmax = 1261.66295423
+			text = "A"
+		intervals [267]:
+			xmin = 1261.66295423
+			xmax = 1261.97457777
+			text = ""
+		intervals [268]:
+			xmin = 1261.97457777
+			xmax = 1263.35091505
+			text = "A"
+		intervals [269]:
+			xmin = 1263.35091505
+			xmax = 1263.7664131
+			text = ""
+		intervals [270]:
+			xmin = 1263.7664131
+			xmax = 1265.01290724
+			text = "A"
+		intervals [271]:
+			xmin = 1265.01290724
+			xmax = 1265.14275038
+			text = ""
+		intervals [272]:
+			xmin = 1265.14275038
+			xmax = 1271.32328383
+			text = "A"
+		intervals [273]:
+			xmin = 1271.32328383
+			xmax = 1272.35959407
+			text = ""
+		intervals [274]:
+			xmin = 1272.35959407
+			xmax = 1273.39833919
+			text = "A"
+		intervals [275]:
+			xmin = 1273.39833919
+			xmax = 1275.32001766
+			text = ""
+		intervals [276]:
+			xmin = 1275.32001766
+			xmax = 1276.85216671
+			text = "A"
+		intervals [277]:
+			xmin = 1276.85216671
+			xmax = 1277.70913143
+			text = ""
+		intervals [278]:
+			xmin = 1277.70913143
+			xmax = 1278.85175106
+			text = "A"
+		intervals [279]:
+			xmin = 1278.85175106
+			xmax = 1295.73510436
+			text = ""
+		intervals [280]:
+			xmin = 1295.73510436
+			xmax = 1298.90327697
+			text = "A"
+		intervals [281]:
+			xmin = 1298.90327697
+			xmax = 1304.37154605
+			text = ""
+		intervals [282]:
+			xmin = 1304.37154605
+			xmax = 1305.98160099
+			text = "A"
+		intervals [283]:
+			xmin = 1305.98160099
+			xmax = 1307.43584415
+			text = ""
+		intervals [284]:
+			xmin = 1307.43584415
+			xmax = 1309.30558536
+			text = "A"
+		intervals [285]:
+			xmin = 1309.30558536
+			xmax = 1309.72108341
+			text = ""
+		intervals [286]:
+			xmin = 1309.72108341
+			xmax = 1310.42223637
+			text = "A"
+		intervals [287]:
+			xmin = 1310.42223637
+			xmax = 1310.9156403
+			text = ""
+		intervals [288]:
+			xmin = 1310.9156403
+			xmax = 1311.46098148
+			text = "A"
+		intervals [289]:
+			xmin = 1311.46098148
+			xmax = 1311.82497149
+			text = ""
+		intervals [290]:
+			xmin = 1311.82497149
+			xmax = 1312.26643816
+			text = "A"
+		intervals [291]:
+			xmin = 1312.26643816
+			xmax = 1313.1493715
+			text = ""
+		intervals [292]:
+			xmin = 1313.1493715
+			xmax = 1323.82247744
+			text = "A"
+		intervals [293]:
+			xmin = 1323.82247744
+			xmax = 1328.28908139
+			text = ""
+		intervals [294]:
+			xmin = 1328.28908139
+			xmax = 1331.5870971
+			text = "A"
+		intervals [295]:
+			xmin = 1331.5870971
+			xmax = 1337.64
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "B-utts"
+		xmin = 0.0
+		xmax = 1337.64
+		intervals: size = 473
+		intervals [1]:
+			xmin = 0.0
+			xmax = 25.3205203241
+			text = ""
+		intervals [2]:
+			xmin = 25.3205203241
+			xmax = 27.5538223278
+			text = "{F ei : } ..."
+		intervals [3]:
+			xmin = 27.5538223278
+			xmax = 29.3975949123
+			text = "房子 怎么 设计 呀 ?"
+		intervals [4]:
+			xmin = 29.3975949123
+			xmax = 31.4750851483
+			text = "想 了 半 天 想 死 掉 了"
+		intervals [5]:
+			xmin = 31.4750851483
+			xmax = 47.2294281007
+			text = ""
+		intervals [6]:
+			xmin = 47.2294281007
+			xmax = 47.7228320318
+			text = "{BC em }"
+		intervals [7]:
+			xmin = 47.7228320318
+			xmax = 51.4895316847
+			text = ""
+		intervals [8]:
+			xmin = 51.4895316847
+			xmax = 52.4503709189
+			text = "{ e } 等 一下 .."
+		intervals [9]:
+			xmin = 52.4503709189
+			xmax = 54.0863944797
+			text = "你 拿 个 菱 形 的 架子"
+		intervals [10]:
+			xmin = 54.0863944797
+			xmax = 55.7743552965
+			text = "( 统一 + ) <unclear/>"
+		intervals [11]:
+			xmin = 55.7743552965
+			xmax = 56.8390690425
+			text = "你  那个 酱油 瓶"
+		intervals [12]:
+			xmin = 56.8390690425
+			xmax = 60.4227396996
+			text = "你 那 个 还 有 . 什么 . 味精 瓶 那 不 是 一样 的 尺寸 啊"
+		intervals [13]:
+			xmin = 60.4227396996
+			xmax = 62.0587632605
+			text = "你 怎么 塞 进去 呢 ?"
+		intervals [14]:
+			xmin = 62.0587632605
+			xmax = 87.3065126289
+			text = ""
+		intervals [15]:
+			xmin = 87.3065126289
+			xmax = 88.5010695147
+			text = "上面 要 放 壁橱 { lo }"
+		intervals [16]:
+			xmin = 88.5010695147
+			xmax = 89.4878773768
+			text = "壁橱 好 一 点 { fa }"
+		intervals [17]:
+			xmin = 89.4878773768
+			xmax = 90.8382460302
+			text = "要 放 壁橱 { a } .."
+		intervals [18]:
+			xmin = 90.8382460302
+			xmax = 93.9285127563
+			text = "壁橱 里面 可以 放 一些 .. {F 呃: } ( 干 + 干货 ) 呀"
+		intervals [19]:
+			xmin = 93.9285127563
+			xmax = 95.5125990612
+			text = "平常 吃 的 东西 { ya } .."
+		intervals [20]:
+			xmin = 95.5125990612
+			xmax = 96.655218691
+			text = "可以 放 在 里面 ."
+		intervals [21]:
+			xmin = 96.655218691
+			xmax = 97.6679951811
+			text = "存储 的 东西 知道 吗 ?"
+		intervals [22]:
+			xmin = 97.6679951811
+			xmax = 98.1094618563
+			text = "壁橱"
+		intervals [23]:
+			xmin = 98.1094618563
+			xmax = 99.2298586586
+			text = ""
+		intervals [24]:
+			xmin = 99.2298586586
+			xmax = 99.6972939617
+			text = "对 对 对"
+		intervals [25]:
+			xmin = 99.6972939617
+			xmax = 101.021693987
+			text = "壁橱 就 放 在 墙 上"
+		intervals [26]:
+			xmin = 101.021693987
+			xmax = 101.722846942
+			text = "放 一下"
+		intervals [27]:
+			xmin = 101.722846942
+			xmax = 110.4841997
+			text = ""
+		intervals [28]:
+			xmin = 110.4841997
+			xmax = 111.834568353
+			text = "{BC em : }"
+		intervals [29]:
+			xmin = 111.834568353
+			xmax = 114.119807613
+			text = ""
+		intervals [30]:
+			xmin = 114.119807613
+			xmax = 115.574050778
+			text = "还 要 放 冰箱 { a }"
+		intervals [31]:
+			xmin = 115.574050778
+			xmax = 116.612795896
+			text = "要 有 冰箱 { o }"
+		intervals [32]:
+			xmin = 116.612795896
+			xmax = 117.547666502
+			text = ""
+		intervals [33]:
+			xmin = 117.547666502
+			xmax = 118.144944945
+			text = "冰箱"
+		intervals [34]:
+			xmin = 118.144944945
+			xmax = 119.780968506
+			text = "( 那 你 然后 那 个 + ) {F 呃: }"
+		intervals [35]:
+			xmin = 119.780968506
+			xmax = 122.066207766
+			text = "你 吃饭 是 在 客厅 吃 还是 在 厨房 吃 ?"
+		intervals [36]:
+			xmin = 122.066207766
+			xmax = 122.819297976
+			text = ""
+		intervals [37]:
+			xmin = 122.819297976
+			xmax = 123.935948978
+			text = "那 你 厨房 吃"
+		intervals [38]:
+			xmin = 123.935948978
+			xmax = 124.896788212
+			text = "你 说 就 有 个 冰箱"
+		intervals [39]:
+			xmin = 124.896788212
+			xmax = 125.597941167
+			text = "怎么 可以 呢 ?"
+		intervals [40]:
+			xmin = 125.597941167
+			xmax = 129.014688643
+			text = ""
+		intervals [41]:
+			xmin = 129.014688643
+			xmax = 129.923590621
+			text = "那 太 麻烦 了"
+		intervals [42]:
+			xmin = 129.923590621
+			xmax = 130.650712204
+			text = "( 你 就 放 在 + )"
+		intervals [43]:
+			xmin = 130.650712204
+			xmax = 132.858045579
+			text = ""
+		intervals [44]:
+			xmin = 132.858045579
+			xmax = 134.260351489
+			text = "厨房 要 那么 大"
+		intervals [45]:
+			xmin = 134.260351489
+			xmax = 134.909567187
+			text = "无所谓 啦"
+		intervals [46]:
+			xmin = 134.909567187
+			xmax = 136.285904469
+			text = "你 只要 能 烧 饭 就 可以 了"
+		intervals [47]:
+			xmin = 136.285904469
+			xmax = 137.350618215
+			text = "你 也 说 能 烧 饭"
+		intervals [48]:
+			xmin = 137.350618215
+			xmax = 139.298265311
+			text = ""
+		intervals [49]:
+			xmin = 139.298265311
+			xmax = 143.271465387
+			text = "( ( 那 你 桌子 + { ni : } 如果 你 桌子 ) + ) 如果 有 很 多 人 吃 饭 你 桌子 必须 得 大"
+		intervals [50]:
+			xmin = 143.271465387
+			xmax = 145.245081112
+			text = "你 大 的话 你 墙壁 怎么 放 进去 呢 ?"
+		intervals [51]:
+			xmin = 145.245081112
+			xmax = 151.191959906
+			text = ""
+		intervals [52]:
+			xmin = 151.191959906
+			xmax = 151.919081489
+			text = "{BC em }"
+		intervals [53]:
+			xmin = 151.919081489
+			xmax = 154.334163888
+			text = ""
+		intervals [54]:
+			xmin = 154.334163888
+			xmax = 155.502752146
+			text = "长 条 形 地 做 ?"
+		intervals [55]:
+			xmin = 155.502752146
+			xmax = 159.553858106
+			text = ""
+		intervals [56]:
+			xmin = 159.553858106
+			xmax = 159.891450269
+			text = "不 是"
+		intervals [57]:
+			xmin = 159.891450269
+			xmax = 162.176689529
+			text = "你 的 桌子 你 刚才 不 是 说 放 在 墙壁 里边 不 是 吧 ?"
+		intervals [58]:
+			xmin = 162.176689529
+			xmax = 163.994493486
+			text = ""
+		intervals [59]:
+			xmin = 163.994493486
+			xmax = 165.215018999
+			text = "不 是 放 在 墙壁 里面"
+		intervals [60]:
+			xmin = 165.215018999
+			xmax = 166.513450397
+			text = "就 是 放 在 中间 { lao }"
+		intervals [61]:
+			xmin = 166.513450397
+			xmax = 170.791669081
+			text = ""
+		intervals [62]:
+			xmin = 170.791669081
+			xmax = 171.405478259
+			text = "不 是"
+		intervals [63]:
+			xmin = 171.405478259
+			xmax = 174.651556753
+			text = "你 桌子 是 放 到 那 个 . 厨房 ( 中 + )"
+		intervals [64]:
+			xmin = 174.651556753
+			xmax = 176.755015617
+			text = "你 就 靠 在 ( 墙 边 + 墙 边 就 是 ) { lao }"
+		intervals [65]:
+			xmin = 176.755015617
+			xmax = 179.196066644
+			text = "( 就 ... + ) 那 你 说 靠 在 墙 边 就 是 { lao }"
+		intervals [66]:
+			xmin = 179.196066644
+			xmax = 183.113645989
+			text = ""
+		intervals [67]:
+			xmin = 183.113645989
+			xmax = 184.152391107
+			text = "椅子 折 叠 的 椅子 干什么 ?"
+		intervals [68]:
+			xmin = 184.152391107
+			xmax = 184.671763666
+			text = "不 要"
+		intervals [69]:
+			xmin = 184.671763666
+			xmax = 186.671348018
+			text = "椅子 我 不 反对 ( jian + 折 叠 的 椅子)"
+		intervals [70]:
+			xmin = 186.671348018
+			xmax = 187.112814694
+			text = ""
+		intervals [71]:
+			xmin = 187.112814694
+			xmax = 189.839520628
+			text = "( 椅子 就 是 那 个 + )那 你 如果 椅子 是 这 个 椅子"
+		intervals [72]:
+			xmin = 189.839520628
+			xmax = 190.930203002
+			text = "跟 那 个 桌子 也 不 搭 呀"
+		intervals [73]:
+			xmin = 190.930203002
+			xmax = 191.137952026
+			text = ""
+		intervals [74]:
+			xmin = 191.137952026
+			xmax = 191.994916748
+			text = "椅子 折 叠 的 椅子"
+		intervals [75]:
+			xmin = 191.994916748
+			xmax = 192.696069703
+			text = "又 不 是 折 叠 床"
+		intervals [76]:
+			xmin = 192.696069703
+			xmax = 193.579003053
+			text = "折 叠 的 椅子"
+		intervals [77]:
+			xmin = 193.579003053
+			xmax = 194.38403052
+			text = ""
+		intervals [78]:
+			xmin = 194.38403052
+			xmax = 195.111152102
+			text = "可以 的"
+		intervals [79]:
+			xmin = 195.111152102
+			xmax = 197.682046269
+			text = "如果 ( 按 + 按 200 平方 米 ) 厨房 不 会 小 的"
+		intervals [80]:
+			xmin = 197.682046269
+			xmax = 199.006446295
+			text = "椅子 不 要 搞 折 叠 的 椅子"
+		intervals [81]:
+			xmin = 199.006446295
+			xmax = 200.746344367
+			text = "现在 谁 家 吃 饭 还 用 折 叠 的 椅子 啊 ?"
+		intervals [82]:
+			xmin = 200.746344367
+			xmax = 201.057967903
+			text = ""
+		intervals [83]:
+			xmin = 201.057967903
+			xmax = 202.304462044
+			text = "那 还 有 个 卫生间 呢 ?"
+		intervals [84]:
+			xmin = 202.304462044
+			xmax = 203.534913366
+			text = ""
+		intervals [85]:
+			xmin = 203.534913366
+			xmax = 204.080254552
+			text = "{BC em }"
+		intervals [86]:
+			xmin = 204.080254552
+			xmax = 229.363835362
+			text = ""
+		intervals [87]:
+			xmin = 229.363835362
+			xmax = 231.077764807
+			text = "那 要 放 香薰 和 精油 { o } ?"
+		intervals [88]:
+			xmin = 231.077764807
+			xmax = 232.164764374
+			text = ""
+		intervals [89]:
+			xmin = 232.164764374
+			xmax = 232.60623105
+			text = "{BC em }"
+		intervals [90]:
+			xmin = 232.60623105
+			xmax = 237.306552709
+			text = ""
+		intervals [91]:
+			xmin = 237.306552709
+			xmax = 238.371266455
+			text = "什么 是 <unknownLanguage> sakuzin </unknownLanguage> ?"
+		intervals [92]:
+			xmin = 238.371266455
+			xmax = 246.655258771
+			text = ""
+		intervals [93]:
+			xmin = 246.655258771
+			xmax = 247.356411725
+			text = "{BC em }"
+		intervals [94]:
+			xmin = 247.356411725
+			xmax = 271.060900631
+			text = ""
+		intervals [95]:
+			xmin = 271.060900631
+			xmax = 272.021739865
+			text = "太 花里胡哨 了 吧 ?"
+		intervals [96]:
+			xmin = 272.021739865
+			xmax = 272.59304968
+			text = ""
+		intervals [97]:
+			xmin = 272.59304968
+			xmax = 273.450014402
+			text = "太 花里胡哨 了"
+		intervals [98]:
+			xmin = 273.450014402
+			xmax = 273.813575194
+			text = ""
+		intervals [99]:
+			xmin = 273.813575194
+			xmax = 274.670539916
+			text = "那 你 在 哪 刷 牙 呢 ?"
+		intervals [100]:
+			xmin = 274.670539916
+			xmax = 275.787190918
+			text = "你 在 哪 刷 牙 洗 脸 呢 ?"
+		intervals [101]:
+			xmin = 275.787190918
+			xmax = 278.461959597
+			text = ""
+		intervals [102]:
+			xmin = 278.461959597
+			xmax = 278.851489016
+			text = "什么 ?"
+		intervals [103]:
+			xmin = 278.851489016
+			xmax = 280.253794925
+			text = "( <french> labo </french> + <french> lavabo </french> )"
+		intervals [104]:
+			xmin = 280.253794925
+			xmax = 281.162696904
+			text = ""
+		intervals [105]:
+			xmin = 281.162696904
+			xmax = 282.409191045
+			text = "{BC em : }"
+		intervals [106]:
+			xmin = 282.409191045
+			xmax = 309.782685099
+			text = ""
+		intervals [107]:
+			xmin = 309.782685099
+			xmax = 310.198183146
+			text = "不 是"
+		intervals [108]:
+			xmin = 310.198183146
+			xmax = 311.678394939
+			text = "你"
+		intervals [109]:
+			xmin = 311.678394939
+			xmax = 317.079869553
+			text = "你 旁边 我 : 觉得 要 放 就 是 有 一 个 {F 呃 : } { tze } ( 就 是 挂 钩 + { o } + 不 是 挂 钩 )"
+		intervals [110]:
+			xmin = 317.079869553
+			xmax = 317.832959764
+			text = "( 就是 : + )"
+		intervals [111]:
+			xmin = 317.832959764
+			xmax = 318.352332323
+			text = "对 ."
+		intervals [112]:
+			xmin = 318.352332323
+			xmax = 320.585634326
+			text = "你 洗 脸 的 毛巾 啊 什么 东西 都 放 哪里 呀 ?"
+		intervals [113]:
+			xmin = 320.585634326
+			xmax = 321.93600298
+			text = ""
+		intervals [114]:
+			xmin = 321.93600298
+			xmax = 323.234434377
+			text = "不 能 跟 洗澡 的 放 到 一起"
+		intervals [115]:
+			xmin = 323.234434377
+			xmax = 325.208050102
+			text = "就 是 洗浴 的 那 块 归 洗浴 的 那 块 ."
+		intervals [116]:
+			xmin = 325.208050102
+			xmax = 327.752975641
+			text = "( 你 洗漱 台 的 话 .. 放 那 个 {F 呃 } + )"
+		intervals [117]:
+			xmin = 327.752975641
+			xmax = 340.723743996
+			text = ""
+		intervals [118]:
+			xmin = 340.723743996
+			xmax = 345.657783306
+			text = "我 是 说 ( 洗漱 台 + 洗漱 台 旁边 ) 放 一 个 小 架子 之类 的"
+		intervals [119]:
+			xmin = 345.657783306
+			xmax = 348.77401866
+			text = "然后 因为 你 可能 我们 ( 不 是 住 + 不 是 一 个 人 住 嘛 )"
+		intervals [120]:
+			xmin = 348.77401866
+			xmax = 350.721665756
+			text = "两 个 人 或者 三 个 人 住 .."
+		intervals [121]:
+			xmin = 350.721665756
+			xmax = 355.188269764
+			text = "那 你 那 个 旁边 架 上面 可以 放 各自 的 那 个 ( 牙 + 牙 刷 啊 牙 缸 啊 ) 这样"
+		intervals [122]:
+			xmin = 355.188269764
+			xmax = 355.915391346
+			text = "挺 好 的"
+		intervals [123]:
+			xmin = 355.915391346
+			xmax = 357.080296129
+			text = ""
+		intervals [124]:
+			xmin = 357.080296129
+			xmax = 358.274853015
+			text = "( 这 个 + ) 可以 吗 ?"
+		intervals [125]:
+			xmin = 358.274853015
+			xmax = 361.365119741
+			text = "{F 呃} 就 是 {F 呃} 这 个 可以 放 旁边 放 在 小 架子 里面 ."
+		intervals [126]:
+			xmin = 361.365119741
+			xmax = 362.663551138
+			text = "{F ei : }"
+		intervals [127]:
+			xmin = 362.663551138
+			xmax = 364.92282177
+			text = ""
+		intervals [128]:
+			xmin = 364.92282177
+			xmax = 365.498470925
+			text = "不 是 不 是"
+		intervals [129]:
+			xmin = 365.498470925
+			xmax = 367.987119868
+			text = "你 那 个 牙 刷 牙 膏 要 放 在 架子 里面 啊 ?"
+		intervals [130]:
+			xmin = 367.987119868
+			xmax = 372.137825467
+			text = ""
+		intervals [131]:
+			xmin = 372.137825467
+			xmax = 373.072696073
+			text = "厨房 里面 啊 ?"
+		intervals [132]:
+			xmin = 373.072696073
+			xmax = 376.240868683
+			text = ""
+		intervals [133]:
+			xmin = 376.240868683
+			xmax = 377.435425568
+			text = "洗浴 间 里面 啊 ?"
+		intervals [134]:
+			xmin = 377.435425568
+			xmax = 380.57762955
+			text = ""
+		intervals [135]:
+			xmin = 380.57762955
+			xmax = 381.902029576
+			text = "( ( 洗浴 + 洗浴 ) + ) ( 就是 + )"
+		intervals [136]:
+			xmin = 381.902029576
+			xmax = 382.525276647
+			text = ""
+		intervals [137]:
+			xmin = 382.525276647
+			xmax = 383.667896276
+			text = "抽 水 马桶 { o } ?"
+		intervals [138]:
+			xmin = 383.667896276
+			xmax = 385.611860566
+			text = ""
+		intervals [139]:
+			xmin = 385.611860566
+			xmax = 386.287044893
+			text = "可以 啊"
+		intervals [140]:
+			xmin = 386.287044893
+			xmax = 386.806417452
+			text = ""
+		intervals [141]:
+			xmin = 386.806417452
+			xmax = 387.97500571
+			text = "那 如果 万一 没 电 呢 ?"
+		intervals [142]:
+			xmin = 387.97500571
+			xmax = 388.416472385
+			text = ""
+		intervals [143]:
+			xmin = 388.416472385
+			xmax = 389.429248875
+			text = "没 电 的 时候 怎么办 ? .."
+		intervals [144]:
+			xmin = 389.429248875
+			xmax = 390.467993993
+			text = "就 一般 东西 就 好 了"
+		intervals [145]:
+			xmin = 390.467993993
+			xmax = 392.845996351
+			text = ""
+		intervals [146]:
+			xmin = 392.845996351
+			xmax = 394.793643447
+			text = "( 没 电 的 时候 怎么 + 没 电 的 时候 很 麻烦 的 )"
+		intervals [147]:
+			xmin = 394.793643447
+			xmax = 395.962231705
+			text = "全部 溢 出来 了"
+		intervals [148]:
+			xmin = 395.962231705
+			xmax = 396.481604264
+			text = "很 脏 的"
+		intervals [149]:
+			xmin = 396.481604264
+			xmax = 397.831972917
+			text = "就 一般 的 就 <english> ok </english> 了"
+		intervals [150]:
+			xmin = 397.831972917
+			xmax = 399.545902362
+			text = ""
+		intervals [151]:
+			xmin = 399.545902362
+			xmax = 401.026114155
+			text = "没 有 电 的 时候 怎么办 ?"
+		intervals [152]:
+			xmin = 401.026114155
+			xmax = 402.61020046
+			text = ""
+		intervals [153]:
+			xmin = 402.61020046
+			xmax = 403.856694601
+			text = "不 是 你 听 不 懂 我 的 话"
+		intervals [154]:
+			xmin = 403.856694601
+			xmax = 404.37606716
+			text = ""
+		intervals [155]:
+			xmin = 404.37606716
+			xmax = 405.830310326
+			text = "没 有 电 的 时候 怎么办 ?"
+		intervals [156]:
+			xmin = 405.830310326
+			xmax = 406.209976931
+			text = ""
+		intervals [157]:
+			xmin = 406.209976931
+			xmax = 406.677412234
+			text = "对 不 对"
+		intervals [158]:
+			xmin = 406.677412234
+			xmax = 408.962651494
+			text = "( ( 我 + 我 用 过 ) + 我 用 过 ) 有 充电 马桶"
+		intervals [159]:
+			xmin = 408.962651494
+			xmax = 410.606103662
+			text = "就 是 充 电 的 那 个 电 水 马桶"
+		intervals [160]:
+			xmin = 410.606103662
+			xmax = 411.047570337
+			text = "电 马桶"
+		intervals [161]:
+			xmin = 411.047570337
+			xmax = 412.709562526
+			text = "没 有 电 的 时候 特别 麻烦"
+		intervals [162]:
+			xmin = 412.709562526
+			xmax = 413.748307644
+			text = "冲 都 冲 不 下 去 ."
+		intervals [163]:
+			xmin = 413.748307644
+			xmax = 414.475429227
+			text = "还 沥 出 来"
+		intervals [164]:
+			xmin = 414.475429227
+			xmax = 414.916895902
+			text = "很 脏"
+		intervals [165]:
+			xmin = 414.916895902
+			xmax = 415.792400645
+			text = "臭 死 了"
+		intervals [166]:
+			xmin = 415.792400645
+			xmax = 417.09826065
+			text = ""
+		intervals [167]:
+			xmin = 417.09826065
+			xmax = 419.747060701
+			text = "( ( 就 是 那 个 + 就 是 ) + 就 是 一般 的 ) 就 <english> ok </english> 了 嘛"
+		intervals [168]:
+			xmin = 419.747060701
+			xmax = 421.201303866
+			text = "好 实用 型 就 行 了"
+		intervals [169]:
+			xmin = 421.201303866
+			xmax = 421.486958773
+			text = ""
+		intervals [170]:
+			xmin = 421.486958773
+			xmax = 423.486543125
+			text = "因为 电 水 马桶 它 现实 冲 得 是 快"
+		intervals [171]:
+			xmin = 423.486543125
+			xmax = 424.784974523
+			text = "但是 限制 比较 多 ."
+		intervals [172]:
+			xmin = 424.784974523
+			xmax = 426.420998084
+			text = "必须 要 有 电 的 时候 才 行"
+		intervals [173]:
+			xmin = 426.420998084
+			xmax = 427.745398109
+			text = ""
+		intervals [174]:
+			xmin = 427.745398109
+			xmax = 430.498072672
+			text = "( 马 + 电 马桶 ) 和 一般 的 马桶 都 一样 的 面积 嘛"
+		intervals [175]:
+			xmin = 430.498072672
+			xmax = 433.177835751
+			text = ""
+		intervals [176]:
+			xmin = 433.177835751
+			xmax = 434.372392637
+			text = "什么 ?"
+		intervals [177]:
+			xmin = 434.372392637
+			xmax = 438.709153505
+			text = ""
+		intervals [178]:
+			xmin = 438.709153505
+			xmax = 440.937524102
+			text = "( 垃圾 + ) ( ( 你 + 你 ) + 你 ) 就 是 有 电 力"
+		intervals [179]:
+			xmin = 440.937524102
+			xmax = 443.638261409
+			text = "你 说 老实 话 有 些 女 孩子 用 的 东西 也 不 能 扔 的 ."
+		intervals [180]:
+			xmin = 443.638261409
+			xmax = 444.547163387
+			text = "卫生巾 可以 扔 吗 ?"
+		intervals [181]:
+			xmin = 444.547163387
+			xmax = 445.071467353
+			text = "不 可以 扔"
+		intervals [182]:
+			xmin = 445.071467353
+			xmax = 445.715751645
+			text = ""
+		intervals [183]:
+			xmin = 445.715751645
+			xmax = 446.261092832
+			text = "不 可以 扔"
+		intervals [184]:
+			xmin = 446.261092832
+			xmax = 446.468841855
+			text = ""
+		intervals [185]:
+			xmin = 446.468841855
+			xmax = 447.403712461
+			text = "( 而且 <unclear/> + )"
+		intervals [186]:
+			xmin = 447.403712461
+			xmax = 449.247485046
+			text = ""
+		intervals [187]:
+			xmin = 449.247485046
+			xmax = 453.584245914
+			text = "你 那 个 我 是 说 ( 洗漱 干 + {F 呃 : } + 洗漱 台 ) 的 话 旁边 那 个 架子 上面"
+		intervals [188]:
+			xmin = 453.584245914
+			xmax = 456.388857732
+			text = "我 是 说 ( 放 两 个 人 的 .. + {F 呃} + 放 两 个 或者 是 别人 的 )"
+		intervals [189]:
+			xmin = 456.388857732
+			xmax = 458.258598945
+			text = "就 是 那 个 是 专门 放 牙刷 牙膏 的"
+		intervals [190]:
+			xmin = 458.258598945
+			xmax = 458.492316596
+			text = ""
+		intervals [191]:
+			xmin = 458.492316596
+			xmax = 461.270959787
+			text = "( 你 牙刷 牙膏 + ) { ei } 那 你 每天 早上 刷 牙 你 还 跑 到 吊 篮 上面"
+		intervals [192]:
+			xmin = 461.270959787
+			xmax = 463.088763743
+			text = "<laughter> 篮 上面 去 拿 那 个 啊 </laughter>"
+		intervals [193]:
+			xmin = 463.088763743
+			xmax = 464.204229139
+			text = ""
+		intervals [194]:
+			xmin = 464.204229139
+			xmax = 465.554597792
+			text = "<laughter/>"
+		intervals [195]:
+			xmin = 465.554597792
+			xmax = 468.125491959
+			text = ""
+		intervals [196]:
+			xmin = 468.125491959
+			xmax = 472.150629292
+			text = "客厅 我 就是 : ... ( 沙发 + 沙发 ) 要 有"
+		intervals [197]:
+			xmin = 472.150629292
+			xmax = 474.280056784
+			text = "就是 而且 ( 一 .. + 一 个 ) 长 沙发"
+		intervals [198]:
+			xmin = 474.280056784
+			xmax = 476.591264671
+			text = "有时候 雇 人 啊 休息 啊 或者 是 来 人 啊 .."
+		intervals [199]:
+			xmin = 476.591264671
+			xmax = 478.279225488
+			text = "然后 或者 是 几 个 短 沙发"
+		intervals [200]:
+			xmin = 478.279225488
+			xmax = 482.590017728
+			text = "就是 几 个 ( 带 靠 椅 的 + 就是 . + 带 那 个 ... 放 手 的 )"
+		intervals [201]:
+			xmin = 482.590017728
+			xmax = 484.174104033
+			text = "就 是 那 种 靠 背 沙发 ."
+		intervals [202]:
+			xmin = 484.174104033
+			xmax = 484.797351104
+			text = "放 两 个"
+		intervals [203]:
+			xmin = 484.797351104
+			xmax = 486.121751129
+			text = "反正 颜色 一定 要 用 白 色"
+		intervals [204]:
+			xmin = 486.121751129
+			xmax = 487.394213899
+			text = "家具 沙发 一定 要 白 色"
+		intervals [205]:
+			xmin = 487.394213899
+			xmax = 489.237986483
+			text = "这样 显 得 比较 .. 光线 好"
+		intervals [206]:
+			xmin = 489.237986483
+			xmax = 490.354637485
+			text = "也 显 得 比较 干净"
+		intervals [207]:
+			xmin = 490.354637485
+			xmax = 490.625498172
+			text = ""
+		intervals [208]:
+			xmin = 490.625498172
+			xmax = 492.261521733
+			text = "然后 沙发 上 放 几 个 靠 垫"
+		intervals [209]:
+			xmin = 492.261521733
+			xmax = 492.625082524
+			text = ""
+		intervals [210]:
+			xmin = 492.625082524
+			xmax = 493.300266851
+			text = "靠 着"
+		intervals [211]:
+			xmin = 493.300266851
+			xmax = 493.611890386
+			text = ""
+		intervals [212]:
+			xmin = 493.611890386
+			xmax = 497.455247323
+			text = "{F 呃: } 然后 呢 那 个 : 靠 墙 那 面 呢 放 大 电视机"
+		intervals [213]:
+			xmin = 497.455247323
+			xmax = 500.389702281
+			text = "但 电视机 呢 . 不 要 放 在 . 空间 ."
+		intervals [214]:
+			xmin = 500.389702281
+			xmax = 501.766039563
+			text = "就 是 镶 在 墙 上 .."
+		intervals [215]:
+			xmin = 501.766039563
+			xmax = 503.921435683
+			text = "电视机 镶 在 墙 上 很 漂亮 的 很 清楚"
+		intervals [216]:
+			xmin = 503.921435683
+			xmax = 504.177525335
+			text = ""
+		intervals [217]:
+			xmin = 504.177525335
+			xmax = 506.938876436
+			text = "然后 呢 在 : {F 嗯  } 靠近 门 那 个 地方 呢"
+		intervals [218]:
+			xmin = 506.938876436
+			xmax = 508.393119601
+			text = "因为 我 想 风水 好 一点 嘛 .."
+		intervals [219]:
+			xmin = 508.393119601
+			xmax = 509.215439157
+			text = "放 个 鱼 缸"
+		intervals [220]:
+			xmin = 509.215439157
+			xmax = 509.561707859
+			text = ""
+		intervals [221]:
+			xmin = 509.561707859
+			xmax = 513.696899041
+			text = "鱼 缸 的 鱼 还有 房 点 花 草 ( 水 + 沙子 啊 ) 什么 之类 的"
+		intervals [222]:
+			xmin = 513.696899041
+			xmax = 514.164334345
+			text = "鱼 那么 游"
+		intervals [223]:
+			xmin = 514.164334345
+			xmax = 516.917008907
+			text = "然后 呢 鱼 食 . 有 空 嘛 就 喂 一点 什么 之类 的"
+		intervals [224]:
+			xmin = 516.917008907
+			xmax = 519.695652098
+			text = "反正 .. 下班 回 家 之后 看 到 鱼 缸 .."
+		intervals [225]:
+			xmin = 519.695652098
+			xmax = 520.578585448
+			text = "喂 一 把 鱼 食"
+		intervals [226]:
+			xmin = 520.578585448
+			xmax = 521.507276716
+			text = "心情 也 不错"
+		intervals [227]:
+			xmin = 521.507276716
+			xmax = 521.836253997
+			text = ""
+		intervals [228]:
+			xmin = 521.836253997
+			xmax = 524.277305025
+			text = "{F ei : } 然后 看 一下 哦"
+		intervals [229]:
+			xmin = 524.277305025
+			xmax = 527.081916843
+			text = "{F 呃 : } ( 然 ... + ) {F 呃 } ( 看 + ) .."
+		intervals [230]:
+			xmin = 527.081916843
+			xmax = 528.8997208
+			text = "{F 嗯  } { o } . 还 有 些 椅子"
+		intervals [231]:
+			xmin = 528.8997208
+			xmax = 532.327579689
+			text = "{F 嗯 } 还有 就是 ( 门 + 靠近 门 口 的 地方 . ) 有 榻榻米"
+		intervals [232]:
+			xmin = 532.327579689
+			xmax = 533.548105203
+			text = "( 有 + 还 有 ) 鞋 架"
+		intervals [233]:
+			xmin = 533.548105203
+			xmax = 534.062546355
+			text = ""
+		intervals [234]:
+			xmin = 534.062546355
+			xmax = 535.023385589
+			text = "放 各自 鞋子"
+		intervals [235]:
+			xmin = 535.023385589
+			xmax = 536.347785615
+			text = "反倒 我 买 个 大 的 鞋 架"
+		intervals [236]:
+			xmin = 536.347785615
+			xmax = 538.191558199
+			text = "估计 我们 鞋子 可以 放 得 下 去"
+		intervals [237]:
+			xmin = 538.191558199
+			xmax = 540.632609227
+			text = "但是 . {F 呃} ( 不 行 + ) 或者 ( 不 + 不 ) 用 鞋 架"
+		intervals [238]:
+			xmin = 540.632609227
+			xmax = 542.969785742
+			text = "或者 是 .. 门 口 那 个 地方 .."
+		intervals [239]:
+			xmin = 542.969785742
+			xmax = 544.060468116
+			text = "入 玄关 那 个 地方"
+		intervals [240]:
+			xmin = 544.060468116
+			xmax = 547.929793681
+			text = "可以 把 那 个 开 一 个 就 是 ( 鞋 + 靠 在 墙 上 的 那 个 鞋 橱 ) .."
+		intervals [241]:
+			xmin = 547.929793681
+			xmax = 549.513879986
+			text = "一 打 开 鞋子 放 进 去"
+		intervals [242]:
+			xmin = 549.513879986
+			xmax = 551.902993757
+			text = "这 样子 又 美观 ( 又 + 气味 又 不 { F 那个 } 影响 )"
+		intervals [243]:
+			xmin = 551.902993757
+			xmax = 552.309877591
+			text = ""
+		intervals [244]:
+			xmin = 552.309877591
+			xmax = 555.529987457
+			text = "然后 客厅 和 阳台 的 地方 我 想 打 通 ..."
+		intervals [245]:
+			xmin = 555.529987457
+			xmax = 556.360983551
+			text = "就 是 连 起来"
+		intervals [246]:
+			xmin = 556.360983551
+			xmax = 558.282662019
+			text = "就 是 客厅 直接 可以 走 到 阳台 上面"
+		intervals [247]:
+			xmin = 558.282662019
+			xmax = 558.802034578
+			text = ""
+		intervals [248]:
+			xmin = 558.802034578
+			xmax = 561.243085606
+			text = "阳台 上面 ( 养 养 + 养 一点 ) 花 花 草 草 啊"
+		intervals [249]:
+			xmin = 561.243085606
+			xmax = 561.424866001
+			text = ""
+		intervals [250]:
+			xmin = 561.424866001
+			xmax = 562.437642491
+			text = "( 这样 + 这 样子 )"
+		intervals [251]:
+			xmin = 562.437642491
+			xmax = 564.021728796
+			text = "然后 放 一 个 小 桌子"
+		intervals [252]:
+			xmin = 564.021728796
+			xmax = 564.774819007
+			text = "放 两 个 椅子"
+		intervals [253]:
+			xmin = 564.774819007
+			xmax = 566.51471708
+			text = "( 有时候 可以 .. + ) {F 呃 } 靠 椅"
+		intervals [254]:
+			xmin = 566.51471708
+			xmax = 568.722050455
+			text = "可以 坐 在 那 边 ( 靠 靠 + 靠 在 那 边 ) 喝 喝 茶 呀"
+		intervals [255]:
+			xmin = 568.722050455
+			xmax = 570.254199504
+			text = "下午 喝 喝 咖啡 啊 什么 之类 的"
+		intervals [256]:
+			xmin = 570.254199504
+			xmax = 570.672194752
+			text = ""
+		intervals [257]:
+			xmin = 570.672194752
+			xmax = 572.230312429
+			text = "然后 . 你 看 你 还 有 什么 要 补充"
+		intervals [258]:
+			xmin = 572.230312429
+			xmax = 573.113245779
+			text = "你 觉得 怎么样 ?"
+		intervals [259]:
+			xmin = 573.113245779
+			xmax = 575.217953243
+			text = ""
+		intervals [260]:
+			xmin = 575.217953243
+			xmax = 575.945074826
+			text = "已经 够 了"
+		intervals [261]:
+			xmin = 575.945074826
+			xmax = 577.477223875
+			text = "还有 我们 要 装修 各自 的 房间"
+		intervals [262]:
+			xmin = 577.477223875
+			xmax = 577.788847411
+			text = ""
+		intervals [263]:
+			xmin = 577.788847411
+			xmax = 579.295027832
+			text = "已经 花 了 差 不 多 了"
+		intervals [264]:
+			xmin = 579.295027832
+			xmax = 580.33377295
+			text = ""
+		intervals [265]:
+			xmin = 580.33377295
+			xmax = 581.34654944
+			text = "你 要 看 怎么 装潢"
+		intervals [266]:
+			xmin = 581.34654944
+			xmax = 584.332941654
+			text = "像 你 ( 水 + 卫生间 ) 那么 装潢 就 . 肯定 那 个 了"
+		intervals [267]:
+			xmin = 584.332941654
+			xmax = 585.763713392
+			text = ""
+		intervals [268]:
+			xmin = 585.763713392
+			xmax = 586.257117323
+			text = "{BC en } ?"
+		intervals [269]:
+			xmin = 586.257117323
+			xmax = 586.750521254
+			text = ""
+		intervals [270]:
+			xmin = 586.750521254
+			xmax = 587.036176161
+			text = "不 是"
+		intervals [271]:
+			xmin = 587.036176161
+			xmax = 589.607070328
+			text = "你 还 有 别 的 装修 还 有 人 工 费 之类 的"
+		intervals [272]:
+			xmin = 589.607070328
+			xmax = 591.73649782
+			text = "现在 不 是 说 你 那 个 钱 怎么 用 完 ."
+		intervals [273]:
+			xmin = 591.73649782
+			xmax = 593.632207661
+			text = "你 现在 再 想 一点 如果 你 有 什么 主意"
+		intervals [274]:
+			xmin = 593.632207661
+			xmax = 595.155761138
+			text = "你 客厅 加 点 什么 东西 ."
+		intervals [275]:
+			xmin = 595.155761138
+			xmax = 595.16435671
+			text = ""
+		intervals [276]:
+			xmin = 595.16435671
+			xmax = 596.696505759
+			text = "你 不 是 想 的 钱 的 问题"
+		intervals [277]:
+			xmin = 596.696505759
+			xmax = 600.743928912
+			text = ""
+		intervals [278]:
+			xmin = 600.743928912
+			xmax = 601.751792638
+			text = "你 的 房间 怎么 设计 ?"
+		intervals [279]:
+			xmin = 601.751792638
+			xmax = 601.756705402
+			text = ""
+		intervals [280]:
+			xmin = 601.756705402
+			xmax = 602.769481892
+			text = "你 的 房间 怎么 设计 ?"
+		intervals [281]:
+			xmin = 602.769481892
+			xmax = 603.913350122
+			text = ""
+		intervals [282]:
+			xmin = 603.913350122
+			xmax = 604.614503077
+			text = "{BC em }"
+		intervals [283]:
+			xmin = 604.614503077
+			xmax = 649.424057899
+			text = ""
+		intervals [284]:
+			xmin = 649.424057899
+			xmax = 650.93023832
+			text = "椰子 树 椰子 树 { o }"
+		intervals [285]:
+			xmin = 650.93023832
+			xmax = 660.381633288
+			text = ""
+		intervals [286]:
+			xmin = 660.381633288
+			xmax = 662.874621571
+			text = "你 真的 海 蓝 色 怎么 海 那 个 蓝 色 那 个 背景 怎么 搞"
+		intervals [287]:
+			xmin = 662.874621571
+			xmax = 663.679649038
+			text = "搞 墙 纸 啊 ?"
+		intervals [288]:
+			xmin = 663.679649038
+			xmax = 664.770331411
+			text = "不 是 搞 墙 纸 啊 ? ."
+		intervals [289]:
+			xmin = 664.770331411
+			xmax = 665.809076529
+			text = "用 什么 效果 搞 出来 ?"
+		intervals [290]:
+			xmin = 665.809076529
+			xmax = 668.873374628
+			text = ""
+		intervals [291]:
+			xmin = 668.873374628
+			xmax = 670.275680537
+			text = "( 你 没 + ) 你 房间 不 搞 书 架 的 吗 ?"
+		intervals [292]:
+			xmin = 670.275680537
+			xmax = 670.950864864
+			text = "你 不 读 书 的 吗 ?"
+		intervals [293]:
+			xmin = 670.950864864
+			xmax = 682.510650102
+			text = ""
+		intervals [294]:
+			xmin = 682.510650102
+			xmax = 683.783112872
+			text = "客厅 我 不 要 搞 浅 绿 色"
+		intervals [295]:
+			xmin = 683.783112872
+			xmax = 685.471073688
+			text = "( 客厅 + 谁 家 客厅 搞 浅 绿 色 ) ? ."
+		intervals [296]:
+			xmin = 685.471073688
+			xmax = 687.366783529
+			text = "你 自己 房间 搞 浅 绿 色 罢 了"
+		intervals [297]:
+			xmin = 687.366783529
+			xmax = 689.080712973
+			text = "客厅 哪 家 客厅 会 搞 浅 绿 色 呢 ?"
+		intervals [298]:
+			xmin = 689.080712973
+			xmax = 695.005305278
+			text = ""
+		intervals [299]:
+			xmin = 695.005305278
+			xmax = 697.212638654
+			text = "当然 你 房间 你 怎么 弄 没关系 ."
+		intervals [300]:
+			xmin = 697.212638654
+			xmax = 699.186254378
+			text = "反正 客厅 以 米 色 和 白 色 为 主"
+		intervals [301]:
+			xmin = 699.186254378
+			xmax = 700.095156356
+			text = "简洁 大方"
+		intervals [302]:
+			xmin = 700.095156356
+			xmax = 701.783117173
+			text = "客厅 搞 那么 五颜六色 干什么 ?"
+		intervals [303]:
+			xmin = 701.783117173
+			xmax = 702.250552476
+			text = ""
+		intervals [304]:
+			xmin = 702.250552476
+			xmax = 703.964481921
+			text = "我 的 房间 我 想 好 了"
+		intervals [305]:
+			xmin = 703.964481921
+			xmax = 705.49663097
+			text = "我 搞 一 个 高 低 床 .."
+		intervals [306]:
+			xmin = 705.49663097
+			xmax = 706.821030995
+			text = "( 床 上 + 高 低 床 . )"
+		intervals [307]:
+			xmin = 706.821030995
+			xmax = 709.651611442
+			text = "有时候 我 同学 来 朋友 来 他 可以 睡 上 铺 .."
+		intervals [308]:
+			xmin = 709.651611442
+			xmax = 710.768262444
+			text = "我 睡 下 铺"
+		intervals [309]:
+			xmin = 710.768262444
+			xmax = 714.092246821
+			text = "( 反正 呢 我 呢 就 是 . + 反正 . 面积 要 大 一点 .. )"
+		intervals [310]:
+			xmin = 714.092246821
+			xmax = 716.247642941
+			text = "然后 上 铺 可以 放 放 我 的 一些 东西 啊"
+		intervals [311]:
+			xmin = 716.247642941
+			xmax = 717.935603758
+			text = "比方 说 衣服 啊 什么 之类 的 ."
+		intervals [312]:
+			xmin = 717.935603758
+			xmax = 718.974348876
+			text = "还 有 个 衣 橱"
+		intervals [313]:
+			xmin = 718.974348876
+			xmax = 720.636341065
+			text = "我 房间 要 有 个 小 衣 橱 //"
+		intervals [314]:
+			xmin = 720.636341065
+			xmax = 721.571211671
+			text = "一些 挂 的 衣服"
+		intervals [315]:
+			xmin = 721.571211671
+			xmax = 721.75055786
+			text = ""
+		intervals [316]:
+			xmin = 721.75055786
+			xmax = 724.814855958
+			text = "然后 呢 高 低 床 床 上面 放 一些 别 的 衣服 ."
+		intervals [317]:
+			xmin = 724.814855958
+			xmax = 725.619883425
+			text = "什么 之类 的 ."
+		intervals [318]:
+			xmin = 725.619883425
+			xmax = 727.20396973
+			text = "不 需要 挂 起来 的 衣服 .."
+		intervals [319]:
+			xmin = 727.20396973
+			xmax = 728.476432499
+			text = "( 然后 呢 我 + )"
+		intervals [320]:
+			xmin = 728.476432499
+			xmax = 741.355686356
+			text = ""
+		intervals [321]:
+			xmin = 741.355686356
+			xmax = 743.640925616
+			text = "你 什么 装修 都 喜欢 拉 来 拉 去 的"
+		intervals [322]:
+			xmin = 743.640925616
+			xmax = 744.264172687
+			text = "你 喜欢 拉 就 拉"
+		intervals [323]:
+			xmin = 744.264172687
+			xmax = 745.588572712
+			text = "你 就 拉 得 开心 的 话 你 就 拉 吧"
+		intervals [324]:
+			xmin = 745.588572712
+			xmax = 745.900196248
+			text = ""
+		intervals [325]:
+			xmin = 745.900196248
+			xmax = 747.510251181
+			text = "( 我 是 说 我 那 个 + 我 没 说 完 )"
+		intervals [326]:
+			xmin = 747.510251181
+			xmax = 750.652455163
+			text = "我 那 个 {F 呃} 衣 橱 之外 呢 我 要 然后 搞 一 个 书 架"
+		intervals [327]:
+			xmin = 750.652455163
+			xmax = 751.076630417
+			text = ""
+		intervals [328]:
+			xmin = 751.076630417
+			xmax = 753.95914812
+			text = "<unclear/> 书 架 ( 嵌 在 + 嵌 在 墙 上 ) 的 那 种 三 层"
+		intervals [329]:
+			xmin = 753.95914812
+			xmax = 754.894018726
+			text = "第 一 层 放 什么 书"
+		intervals [330]:
+			xmin = 754.894018726
+			xmax = 757.179257985
+			text = "( 第 二 层 + 第 一 层 ) 放 学习 工作 的 书"
+		intervals [331]:
+			xmin = 757.179257985
+			xmax = 759.308685477
+			text = "第 二 层 呢 放 .. 一 个 休闲 的 书"
+		intervals [332]:
+			xmin = 759.308685477
+			xmax = 761.697799249
+			text = "第 三 层 呢 放 一些 别 的 什么 乱七八糟 的 东西"
+		intervals [333]:
+			xmin = 761.697799249
+			xmax = 766.865556211
+			text = "信件 啊 .. {F 呃 : } 文件 啊 ( 一些 . + 一些 ... ) <french> papier </french> 什么 之类 的"
+		intervals [334]:
+			xmin = 766.865556211
+			xmax = 767.147528312
+			text = ""
+		intervals [335]:
+			xmin = 767.147528312
+			xmax = 769.19904992
+			text = "然后 {F 嗯  : } 我 看 { o } .."
+		intervals [336]:
+			xmin = 769.19904992
+			xmax = 771.250571528
+			text = "( 房间 + ) { o } 再 搞 个 小 书 桌 ..."
+		intervals [337]:
+			xmin = 771.250571528
+			xmax = 773.769528439
+			text = "一 个 ( 小 + 小 ) 书 桌 台 灯 啊 简简单单 的"
+		intervals [338]:
+			xmin = 773.769528439
+			xmax = 774.52261865
+			text = "( 我 房间 不 要 + )"
+		intervals [339]:
+			xmin = 774.52261865
+			xmax = 781.48221094
+			text = "然后 . 窗帘 嘛 颜色 嘛 . {F 嗯 : } 跟 那 个 书 架 呀 或者 是 那 个 ( 床 的 椅 + 床 单 的 颜色 ) 差 不 多 就 行 了"
+		intervals [340]:
+			xmin = 781.48221094
+			xmax = 782.443050174
+			text = "我 就 那么 简单 .."
+		intervals [341]:
+			xmin = 782.443050174
+			xmax = 783.63760706
+			text = "简简单单 的 ..."
+		intervals [342]:
+			xmin = 783.63760706
+			xmax = 786.67593653
+			text = "然后 {F 嗯 : } <nv type='teeth sucking'/> 我 看 我们 还 有 什么 地方 { o }"
+		intervals [343]:
+			xmin = 786.67593653
+			xmax = 787.758004022
+			text = ""
+		intervals [344]:
+			xmin = 787.758004022
+			xmax = 788.822717768
+			text = "阳台 还 <unclear/>"
+		intervals [345]:
+			xmin = 788.822717768
+			xmax = 789.653713863
+			text = ""
+		intervals [346]:
+			xmin = 789.653713863
+			xmax = 790.095180538
+			text = "{BC em }"
+		intervals [347]:
+			xmin = 790.095180538
+			xmax = 793.055604124
+			text = ""
+		intervals [348]:
+			xmin = 793.055604124
+			xmax = 793.964506102
+			text = "没 说 装 灯 啊"
+		intervals [349]:
+			xmin = 793.964506102
+			xmax = 794.899376709
+			text = ""
+		intervals [350]:
+			xmin = 794.899376709
+			xmax = 795.626498291
+			text = "花 草 要 搞 的"
+		intervals [351]:
+			xmin = 795.626498291
+			xmax = 796.587337525
+			text = "花 草 要 搞 { o }"
+		intervals [352]:
+			xmin = 796.587337525
+			xmax = 799.205237541
+			text = ""
+		intervals [353]:
+			xmin = 799.205237541
+			xmax = 800.24398266
+			text = "{F 嗯  } 对 对 对"
+		intervals [354]:
+			xmin = 800.24398266
+			xmax = 815.575398958
+			text = ""
+		intervals [355]:
+			xmin = 815.575398958
+			xmax = 816.1726774
+			text = "不 要 不 要"
+		intervals [356]:
+			xmin = 816.1726774
+			xmax = 816.769955843
+			text = "我 反对"
+		intervals [357]:
+			xmin = 816.769955843
+			xmax = 817.31529703
+			text = "这 个 我 反对"
+		intervals [358]:
+			xmin = 817.31529703
+			xmax = 818.769540195
+			text = "阳台 上 还 搞 酒 杯 干什么 呀 ?"
+		intervals [359]:
+			xmin = 818.769540195
+			xmax = 819.34085001
+			text = ""
+		intervals [360]:
+			xmin = 819.34085001
+			xmax = 821.652057898
+			text = "你 厨房 已经 ( 搞 成 + 做 成 ) 酒吧 的 风格 了 ."
+		intervals [361]:
+			xmin = 821.652057898
+			xmax = 825.131854043
+			text = "阳台 上 本来 就 是 ( 休息 + 我 想 . 休息 ) 放松 喝 茶 的 地方"
+		intervals [362]:
+			xmin = 825.131854043
+			xmax = 826.144630533
+			text = "你 搞 许多 酒 杯 干什么 ?"
+		intervals [363]:
+			xmin = 826.144630533
+			xmax = 828.392824983
+			text = ""
+		intervals [364]:
+			xmin = 828.392824983
+			xmax = 829.639319124
+			text = "那 个 在 厨房 吧台"
+		intervals [365]:
+			xmin = 829.639319124
+			xmax = 830.522252475
+			text = "厨房 上面 有 吧台"
+		intervals [366]:
+			xmin = 830.522252475
+			xmax = 832.937334874
+			text = "阳台 我 只是 想 放松 看 看 书 ."
+		intervals [367]:
+			xmin = 832.937334874
+			xmax = 836.053570228
+			text = "比方 说 有时候 周末 . 我 就 靠 在 那 个 藤 椅 上"
+		intervals [368]:
+			xmin = 836.053570228
+			xmax = 836.884566323
+			text = "旁边 ."
+		intervals [369]:
+			xmin = 836.884566323
+			xmax = 837.897342813
+			text = "泡 杯 茶 .."
+		intervals [370]:
+			xmin = 837.897342813
+			xmax = 839.247711466
+			text = "然后 呢 放 点 小 茶 点"
+		intervals [371]:
+			xmin = 839.247711466
+			xmax = 839.896927165
+			text = "看 看 地方"
+		intervals [372]:
+			xmin = 839.896927165
+			xmax = 842.389915448
+			text = "看 看 绿色 植物 看 看 花花草草 喝 喝 东西"
+		intervals [373]:
+			xmin = 842.389915448
+			xmax = 844.441437056
+			text = "( 我 不 想 再 : + )"
+		intervals [374]:
+			xmin = 844.441437056
+			xmax = 845.635993942
+			text = "酒 啊 杯子 们"
+		intervals [375]:
+			xmin = 845.635993942
+			xmax = 846.908456711
+			text = "那 个 阳台 就 简单 点"
+		intervals [376]:
+			xmin = 846.908456711
+			xmax = 847.112522928
+			text = ""
+		intervals [377]:
+			xmin = 847.112522928
+			xmax = 848.203205302
+			text = "不 要 做 成 酒吧 的 风格"
+		intervals [378]:
+			xmin = 848.203205302
+			xmax = 849.709385723
+			text = "厨房 已经 给 你 做 成 酒吧 的 风格 了"
+		intervals [379]:
+			xmin = 849.709385723
+			xmax = 850.150852398
+			text = ""
+		intervals [380]:
+			xmin = 850.150852398
+			xmax = 850.955879865
+			text = "阳台 不 要"
+		intervals [381]:
+			xmin = 850.955879865
+			xmax = 851.942687727
+			text = ""
+		intervals [382]:
+			xmin = 851.942687727
+			xmax = 853.189181869
+			text = "我 不 喜欢 养 小 乌龟 ."
+		intervals [383]:
+			xmin = 853.189181869
+			xmax = 853.812428939
+			text = "( 我 就 是 + )"
+		intervals [384]:
+			xmin = 853.812428939
+			xmax = 855.604264268
+			text = "已经 有 鱼 了 还 要 养 乌龟 干吗 ?"
+		intervals [385]:
+			xmin = 855.604264268
+			xmax = 857.45546546
+			text = ""
+		intervals [386]:
+			xmin = 857.45546546
+			xmax = 859.274518016
+			text = "( 阳台 是 + 阳台 不 大 )"
+		intervals [387]:
+			xmin = 859.274518016
+			xmax = 860.441857674
+			text = "阳台 种 个 花 草"
+		intervals [388]:
+			xmin = 860.441857674
+			xmax = 860.910541577
+			text = ""
+		intervals [389]:
+			xmin = 860.910541577
+			xmax = 861.897349439
+			text = "( 自己 放 个 小 东 + )"
+		intervals [390]:
+			xmin = 861.897349439
+			xmax = 864.831804398
+			text = "我 看 很 多 人家 的 阳台 都 是 放 一 个 桌子 两 个 椅子 ."
+		intervals [391]:
+			xmin = 864.831804398
+			xmax = 866.519765214
+			text = "( 或者 是 + 或 一 个 藤 椅 )"
+		intervals [392]:
+			xmin = 866.519765214
+			xmax = 868.155788775
+			text = "就 是 背 靠 椅 的 那 种 ."
+		intervals [393]:
+			xmin = 868.155788775
+			xmax = 869.038722126
+			text = "或者 是 种 那 些 花 草"
+		intervals [394]:
+			xmin = 869.038722126
+			xmax = 870.025529988
+			text = "没有 别 的 任何 东西"
+		intervals [395]:
+			xmin = 870.025529988
+			xmax = 870.282782061
+			text = ""
+		intervals [396]:
+			xmin = 870.282782061
+			xmax = 873.554829182
+			text = "顶多 如果 ( 你 + ) 要 养 个 宠物 狗 的 话 旁边 有 个 小 狗 屋"
+		intervals [397]:
+			xmin = 873.554829182
+			xmax = 874.178076253
+			text = "造 个 小 狗 屋"
+		intervals [398]:
+			xmin = 874.178076253
+			xmax = 875.684256674
+			text = "但是 . 我 并 不 喜欢"
+		intervals [399]:
+			xmin = 875.684256674
+			xmax = 877.683841027
+			text = "但是 .. 因为 气味 太 严重 了"
+		intervals [400]:
+			xmin = 877.683841027
+			xmax = 880.514421473
+			text = ""
+		intervals [401]:
+			xmin = 880.514421473
+			xmax = 881.916727382
+			text = "( 我 . <unclear/> + )"
+		intervals [402]:
+			xmin = 881.916727382
+			xmax = 883.708562711
+			text = "养 <unclear/> 鸟·很 吵 吵 得 真 吵"
+		intervals [403]:
+			xmin = 883.708562711
+			xmax = 886.019770599
+			text = "而且 ... 为什么 要 把 鸟 关 到 笼子 里面"
+		intervals [404]:
+			xmin = 886.019770599
+			xmax = 886.720923553
+			text = "很 难 养 的"
+		intervals [405]:
+			xmin = 886.720923553
+			xmax = 888.616633394
+			text = "鸟 粪 干什么 要 清扫 ."
+		intervals [406]:
+			xmin = 888.616633394
+			xmax = 889.551504
+			text = "要 清扫 笼子"
+		intervals [407]:
+			xmin = 889.551504
+			xmax = 890.823966769
+			text = "( 阳台 + 搞 得 要 阳台 的 水 )"
+		intervals [408]:
+			xmin = 890.823966769
+			xmax = 891.654962864
+			text = "很 麻烦 的"
+		intervals [409]:
+			xmin = 891.654962864
+			xmax = 954.760103371
+			text = ""
+		intervals [410]:
+			xmin = 954.760103371
+			xmax = 956.006597512
+			text = "{F ei } 这 是 门口 { o }"
+		intervals [411]:
+			xmin = 956.006597512
+			xmax = 956.482710023
+			text = ""
+		intervals [412]:
+			xmin = 956.482710023
+			xmax = 957.02805121
+			text = "好 吧"
+		intervals [413]:
+			xmin = 957.02805121
+			xmax = 958.066796328
+			text = "<french> la porte </french>"
+		intervals [414]:
+			xmin = 958.066796328
+			xmax = 959.780725773
+			text = ""
+		intervals [415]:
+			xmin = 959.780725773
+			xmax = 960.741565007
+			text = "进 去"
+		intervals [416]:
+			xmin = 960.741565007
+			xmax = 962.377588568
+			text = ""
+		intervals [417]:
+			xmin = 962.377588568
+			xmax = 964.325235664
+			text = "这 边 是 我 的 房间"
+		intervals [418]:
+			xmin = 964.325235664
+			xmax = 967.28565925
+			text = ""
+		intervals [419]:
+			xmin = 967.28565925
+			xmax = 968.038749461
+			text = "<english> room one </english>"
+		intervals [420]:
+			xmin = 968.038749461
+			xmax = 969.44105537
+			text = ""
+		intervals [421]:
+			xmin = 969.44105537
+			xmax = 970.973204419
+			text = "等 一下 等 一下 等 等 等"
+		intervals [422]:
+			xmin = 970.973204419
+			xmax = 971.258859327
+			text = ""
+		intervals [423]:
+			xmin = 971.258859327
+			xmax = 971.778231886
+			text = "等 一下"
+		intervals [424]:
+			xmin = 971.778231886
+			xmax = 972.972788771
+			text = "( 别 + 别 着急 )"
+		intervals [425]:
+			xmin = 972.972788771
+			xmax = 974.323157425
+			text = "别 着急 别 着急"
+		intervals [426]:
+			xmin = 974.323157425
+			xmax = 977.094435002
+			text = ""
+		intervals [427]:
+			xmin = 977.094435002
+			xmax = 978.444803656
+			text = "这 是 <french> salon </french>"
+		intervals [428]:
+			xmin = 978.444803656
+			xmax = 978.678521307
+			text = ""
+		intervals [429]:
+			xmin = 978.678521307
+			xmax = 980.002921333
+			text = "这 是 客厅"
+		intervals [430]:
+			xmin = 980.002921333
+			xmax = 983.508686106
+			text = ""
+		intervals [431]:
+			xmin = 983.508686106
+			xmax = 986.183454785
+			text = "这 是 ... <english> balcony </english>"
+		intervals [432]:
+			xmin = 986.183454785
+			xmax = 991.377180375
+			text = ""
+		intervals [433]:
+			xmin = 991.377180375
+			xmax = 992.500010715
+			text = "这 是 你 的 房间"
+		intervals [434]:
+			xmin = 992.500010715
+			xmax = 994.525563695
+			text = "<english> room ... two </english>"
+		intervals [435]:
+			xmin = 994.525563695
+			xmax = 995.460434301
+			text = "你 在 这里 设计 { o }"
+		intervals [436]:
+			xmin = 995.460434301
+			xmax = 996.135618628
+			text = "这 是 我 的 房间"
+		intervals [437]:
+			xmin = 996.135618628
+			xmax = 999.253102582
+			text = "<nv type='teeth sucking'/> ( 然后 ... + ) {F 嗯 }"
+		intervals [438]:
+			xmin = 999.253102582
+			xmax = 1008.59444303
+			text = ""
+		intervals [439]:
+			xmin = 1008.59444303
+			xmax = 1009.42543913
+			text = "<french> cuisine </french>"
+		intervals [440]:
+			xmin = 1009.42543913
+			xmax = 1026.43120763
+			text = ""
+		intervals [441]:
+			xmin = 1026.43120763
+			xmax = 1027.3401096
+			text = "这 是 <french> cuisine </french>"
+		intervals [442]:
+			xmin = 1027.3401096
+			xmax = 1028.11916844
+			text = "这 是 洗 手 间"
+		intervals [443]:
+			xmin = 1028.11916844
+			xmax = 1033.70242345
+			text = ""
+		intervals [444]:
+			xmin = 1033.70242345
+			xmax = 1034.61132543
+			text = "<english> washing room </english>"
+		intervals [445]:
+			xmin = 1034.61132543
+			xmax = 1037.04126438
+			text = ""
+		intervals [446]:
+			xmin = 1037.04126438
+			xmax = 1038.02807224
+			text = "好 .."
+		intervals [447]:
+			xmin = 1038.02807224
+			xmax = 1039.35247226
+			text = "( 我 + 我 的 房间 )"
+		intervals [448]:
+			xmin = 1039.35247226
+			xmax = 1040.85865268
+			text = "这 个 这 是 门 口 <french> la porte </french>"
+		intervals [449]:
+			xmin = 1040.85865268
+			xmax = 1042.46870762
+			text = "{ o } 安全 室"
+		intervals [450]:
+			xmin = 1042.46870762
+			xmax = 1043.89329935
+			text = ""
+		intervals [451]:
+			xmin = 1043.89329935
+			xmax = 1046.85372293
+			text = "我 的 房间 ... 和 客厅 阳台"
+		intervals [452]:
+			xmin = 1046.85372293
+			xmax = 1048.59362101
+			text = "( 这 三 块 + 你 听 我 说 这 三 块 你 别 动 )"
+		intervals [453]:
+			xmin = 1048.59362101
+			xmax = 1050.61917399
+			text = "你 先 把 你 的 搞 出 来 画 出 来 好 吧"
+		intervals [454]:
+			xmin = 1050.61917399
+			xmax = 1051.45017008
+			text = ""
+		intervals [455]:
+			xmin = 1051.45017008
+			xmax = 1052.38504069
+			text = "画 小 一点 啊"
+		intervals [456]:
+			xmin = 1052.38504069
+			xmax = 1053.86525248
+			text = "因为 就 这么 小 的 空间 知道 不 ?"
+		intervals [457]:
+			xmin = 1053.86525248
+			xmax = 1054.87802897
+			text = ""
+		intervals [458]:
+			xmin = 1054.87802897
+			xmax = 1056.15049174
+			text = "{F 呃} 就 这么 小 的 空间"
+		intervals [459]:
+			xmin = 1056.15049174
+			xmax = 1058.77332316
+			text = "你 稍微 写 一下 就 行 了 <unclear/>"
+		intervals [460]:
+			xmin = 1058.77332316
+			xmax = 1169.67690791
+			text = ""
+		intervals [461]:
+			xmin = 1169.67690791
+			xmax = 1170.87146479
+			text = "这 个 是 厨房 { nei }"
+		intervals [462]:
+			xmin = 1170.87146479
+			xmax = 1171.28696284
+			text = ""
+		intervals [463]:
+			xmin = 1171.28696284
+			xmax = 1171.70246089
+			text = "好 不 ?"
+		intervals [464]:
+			xmin = 1171.70246089
+			xmax = 1172.74120601
+			text = ""
+		intervals [465]:
+			xmin = 1172.74120601
+			xmax = 1173.23460994
+			text = "{ a } 对"
+		intervals [466]:
+			xmin = 1173.23460994
+			xmax = 1173.67607661
+			text = "这里"
+		intervals [467]:
+			xmin = 1173.67607661
+			xmax = 1174.84466487
+			text = "<english> wash room </english> 在 这里"
+		intervals [468]:
+			xmin = 1174.84466487
+			xmax = 1175.96131587
+			text = ""
+		intervals [469]:
+			xmin = 1175.96131587
+			xmax = 1177.20781001
+			text = "这 个 是 厨房 { na }"
+		intervals [470]:
+			xmin = 1177.20781001
+			xmax = 1236.26802457
+			text = ""
+		intervals [471]:
+			xmin = 1236.26802457
+			xmax = 1236.96917752
+			text = "<english> glass </english> ?"
+		intervals [472]:
+			xmin = 1236.96917752
+			xmax = 1331.5870971
+			text = ""
+		intervals [473]:
+			xmin = 1331.5870971
+			xmax = 1337.64
+			text = ""
+	item [4]:
+		class = "IntervalTier"
+		name = "B-laughter"
+		xmin = 0.0
+		xmax = 1337.64
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0.0
+			xmax = 461.271
+			text = ""
+		intervals [2]:
+			xmin = 461.271
+			xmax = 463.089
+			text = "SL"
+		intervals [3]:
+			xmin = 463.089
+			xmax = 464.204
+			text = ""
+		intervals [4]:
+			xmin = 464.204
+			xmax = 465.605
+			text = "L"
+		intervals [5]:
+			xmin = 465.605
+			xmax = 900.25
+			text = ""
+		intervals [6]:
+			xmin = 900.25
+			xmax = 900.73
+			text = "L"
+		intervals [7]:
+			xmin = 900.73
+			xmax = 1331.587
+			text = ""
+		intervals [8]:
+			xmin = 1331.587
+			xmax = 1337.64
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "A-laughter"
+		xmin = 0.0
+		xmax = 1337.64
+		intervals: size = 3
+		intervals [1]:
+			xmin = 0.0
+			xmax = 900.62
+			text = ""
+		intervals [2]:
+			xmin = 900.62
+			xmax = 901.38
+			text = "L"
+		intervals [3]:
+			xmin = 901.38
+			xmax = 1337.64
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "A-utts"
+		xmin = 0.0
+		xmax = 1337.64
+		intervals: size = 459
+		intervals [1]:
+			xmin = 0.0
+			xmax = 31.7034464728
+			text = ""
+		intervals [2]:
+			xmin = 31.7034464728
+			xmax = 32.0670072641
+			text = "{BC em }"
+		intervals [3]:
+			xmin = 32.0670072641
+			xmax = 37.0529838305
+			text = "然后 我想 那 个 : 厨房 嘛 做 成 一 个 小 小 的 酒吧"
+		intervals [4]:
+			xmin = 37.0529838305
+			xmax = 39.3122544622
+			text = "在 那 个 角落 里边 <unclear/> 里边"
+		intervals [5]:
+			xmin = 39.3122544622
+			xmax = 41.9350858852
+			text = "拿 些 ... 就 东西 钉 上 去"
+		intervals [6]:
+			xmin = 41.9350858852
+			xmax = 43.7009525858
+			text = "然后 吊 些 酒 杯 上 去"
+		intervals [7]:
+			xmin = 43.7009525858
+			xmax = 46.9470310796
+			text = "然后 旁边 的 酒 瓶 啊 做 一些 菱形 的 架子"
+		intervals [8]:
+			xmin = 46.9470310796
+			xmax = 50.4268272249
+			text = "<nv type='breathing'/> 酒 瓶 啊 油 瓶 啊 酱油 瓶 啊 什么 全部 进去"
+		intervals [9]:
+			xmin = 50.4268272249
+			xmax = 52.2186625535
+			text = "然后 再 下边 呢 ( 厨房 + )"
+		intervals [10]:
+			xmin = 52.2186625535
+			xmax = 54.1255468014
+			text = ""
+		intervals [11]:
+			xmin = 54.1255468014
+			xmax = 55.3201036871
+			text = "木头 再 搭 呀"
+		intervals [12]:
+			xmin = 55.3201036871
+			xmax = 56.2809429213
+			text = "我 自己 都 会 搭"
+		intervals [13]:
+			xmin = 56.2809429213
+			xmax = 61.0591704641
+			text = ""
+		intervals [14]:
+			xmin = 61.0591704641
+			xmax = 62.3316332337
+			text = "都 可以 塞 进去 的"
+		intervals [15]:
+			xmin = 62.3316332337
+			xmax = 64.4610607256
+			text = "那 我 找 一样 的 瓶子 大小 塞 进去 嘛"
+		intervals [16]:
+			xmin = 64.4610607256
+			xmax = 64.6428411213
+			text = ""
+		intervals [17]:
+			xmin = 64.6428411213
+			xmax = 67.1877666604
+			text = "下边 只要 有 个 烧 饭 的 东西"
+		intervals [18]:
+			xmin = 67.1877666604
+			xmax = 69.1613823846
+			text = "然后 有 洗 水 的 东西 就 可以 了"
+		intervals [19]:
+			xmin = 69.1613823846
+			xmax = 70.4857824101
+			text = "然后 都 吊 在 上边"
+		intervals [20]:
+			xmin = 70.4857824101
+			xmax = 73.2903942287
+			text = "然后 锅子 啊 勺 啊 什么 都 往 上 边 吊 起来"
+		intervals [21]:
+			xmin = 73.2903942287
+			xmax = 74.9264177896
+			text = "( 吊 到 + ) 这 样 就 很 美观"
+		intervals [22]:
+			xmin = 74.9264177896
+			xmax = 76.1469433032
+			text = "下边 地方 就 很 大 的"
+		intervals [23]:
+			xmin = 76.1469433032
+			xmax = 76.3844067553
+			text = ""
+		intervals [24]:
+			xmin = 76.3844067553
+			xmax = 77.5529950131
+			text = "( 下边 只要 有 洗 手 + )"
+		intervals [25]:
+			xmin = 77.5529950131
+			xmax = 80.4874499714
+			text = ""
+		intervals [26]:
+			xmin = 80.4874499714
+			xmax = 83.3959363019
+			text = "下边 可以 洗 手 可以 切 菜 的 就 好 了"
+		intervals [27]:
+			xmin = 83.3959363019
+			xmax = 83.863371605
+			text = ""
+		intervals [28]:
+			xmin = 83.863371605
+			xmax = 86.2005481205
+			text = "然后 ( 这 + 这 个 厨房 ) 就 觉得 很 大"
+		intervals [29]:
+			xmin = 86.2005481205
+			xmax = 90.2615798882
+			text = ""
+		intervals [30]:
+			xmin = 90.2615798882
+			xmax = 91.37823089
+			text = "{ ei } ( 这 个 + 这 个 )"
+		intervals [31]:
+			xmin = 91.37823089
+			xmax = 98.156042785
+			text = ""
+		intervals [32]:
+			xmin = 98.156042785
+			xmax = 99.3246310428
+			text = "就 吊 得 高 高 的"
+		intervals [33]:
+			xmin = 99.3246310428
+			xmax = 106.699721381
+			text = "( 然后 ... + 然后 ) 我 建议 是 个 烧 饭 的这 个 .. {F 呃 } 煤气 炉 或者 电 炉 下 边 嘛 是 整 个 那 个 烘箱"
+		intervals [34]:
+			xmin = 106.699721381
+			xmax = 107.530717475
+			text = "可以 烧烤 的"
+		intervals [35]:
+			xmin = 107.530717475
+			xmax = 107.97218415
+			text = ""
+		intervals [36]:
+			xmin = 107.97218415
+			xmax = 110.101611642
+			text = "可以 做 很 多 烧烤 的 东西"
+		intervals [37]:
+			xmin = 110.101611642
+			xmax = 110.574040677
+			text = ""
+		intervals [38]:
+			xmin = 110.574040677
+			xmax = 112.677499541
+			text = "烘 烘 蛋糕 啊 : .."
+		intervals [39]:
+			xmin = 112.677499541
+			xmax = 113.898025055
+			text = "整 披萨 :"
+		intervals [40]:
+			xmin = 113.898025055
+			xmax = 115.923578035
+			text = ""
+		intervals [41]:
+			xmin = 115.923578035
+			xmax = 117.663476108
+			text = "{ ai } 就 有 个 冰箱 就 可以 了"
+		intervals [42]:
+			xmin = 117.663476108
+			xmax = 121.68861344
+			text = ""
+		intervals [43]:
+			xmin = 121.68861344
+			xmax = 122.182017371
+			text = "厨房 吃"
+		intervals [44]:
+			xmin = 122.182017371
+			xmax = 123.428511513
+			text = "( 但是 我 觉得 这 个 + )"
+		intervals [45]:
+			xmin = 123.428511513
+			xmax = 125.168409585
+			text = ""
+		intervals [46]:
+			xmin = 125.168409585
+			xmax = 127.739303752
+			text = "但是 ( 这 个 位 + 这 个 桌子 ) 我 想 钉 在 墙壁 上"
+		intervals [47]:
+			xmin = 127.739303752
+			xmax = 129.193546918
+			text = "有 吃 的 时候 把 它 放 下来"
+		intervals [48]:
+			xmin = 129.193546918
+			xmax = 130.222429222
+			text = ""
+		intervals [49]:
+			xmin = 130.222429222
+			xmax = 130.741801781
+			text = "( 那 还 是 + )"
+		intervals [50]:
+			xmin = 130.741801781
+			xmax = 131.235205712
+			text = "不 麻烦"
+		intervals [51]:
+			xmin = 131.235205712
+			xmax = 132.27395083
+			text = "这 样 房间 就 很 大"
+		intervals [52]:
+			xmin = 132.27395083
+			xmax = 132.507668482
+			text = ""
+		intervals [53]:
+			xmin = 132.507668482
+			xmax = 133.41657046
+			text = "这 厨房 就 很 大"
+		intervals [54]:
+			xmin = 133.41657046
+			xmax = 136.32505679
+			text = ""
+		intervals [55]:
+			xmin = 136.32505679
+			xmax = 138.662233306
+			text = "但是 我 可以 邀请 很 多 人 一起 吃 饭 :"
+		intervals [56]:
+			xmin = 138.662233306
+			xmax = 144.240556908
+			text = ""
+		intervals [57]:
+			xmin = 144.240556908
+			xmax = 147.616478542
+			text = "但是 我 所有 的 东西 ( ( 都 在 楼 下 + 都) + 都 在 上边 ) 啦 ."
+		intervals [58]:
+			xmin = 147.616478542
+			xmax = 152.368737457
+			text = "就是 一 个 {F 呃 } 水池 . 和 一 个 烧 饭 的 东西 . 就 在 下边 ."
+		intervals [59]:
+			xmin = 152.368737457
+			xmax = 154.238478669
+			text = "但是 我 可以 做 得 很 长 的"
+		intervals [60]:
+			xmin = 154.238478669
+			xmax = 155.054680543
+			text = ""
+		intervals [61]:
+			xmin = 155.054680543
+			xmax = 157.807355106
+			text = "{BC ai } ( 长 条 + ) 就 . 所有 的 面积 都 靠 在 那 边 .."
+		intervals [62]:
+			xmin = 157.807355106
+			xmax = 159.417410039
+			text = "周围 都 是 有 人 这么 吃"
+		intervals [63]:
+			xmin = 159.417410039
+			xmax = 159.677096319
+			text = ""
+		intervals [64]:
+			xmin = 159.677096319
+			xmax = 160.560029669
+			text = "就 可以 坐 很 多 人"
+		intervals [65]:
+			xmin = 160.560029669
+			xmax = 161.650712043
+			text = ""
+		intervals [66]:
+			xmin = 161.650712043
+			xmax = 163.001080696
+			text = "{ ei } 放 在 墙壁 上 <unclear/>"
+		intervals [67]:
+			xmin = 163.001080696
+			xmax = 164.35144935
+			text = "但是 面积 很 大 { ai }"
+		intervals [68]:
+			xmin = 164.35144935
+			xmax = 165.2343827
+			text = ""
+		intervals [69]:
+			xmin = 165.2343827
+			xmax = 166.480876841
+			text = "放 在 墙壁 上 ( 挂 + )"
+		intervals [70]:
+			xmin = 166.480876841
+			xmax = 167.675433727
+			text = "不 用 挂 在 中间"
+		intervals [71]:
+			xmin = 167.675433727
+			xmax = 168.947896497
+			text = "周围 面积 就 太 小 了"
+		intervals [72]:
+			xmin = 168.947896497
+			xmax = 169.311457288
+			text = ""
+		intervals [73]:
+			xmin = 169.311457288
+			xmax = 170.791669081
+			text = "( 这么 就 + 厨房 就 很 大 )"
+		intervals [74]:
+			xmin = 170.791669081
+			xmax = 173.752092668
+			text = ""
+		intervals [75]:
+			xmin = 173.752092668
+			xmax = 174.868743669
+			text = "我 想 靠 在 墙壁 上"
+		intervals [76]:
+			xmin = 174.868743669
+			xmax = 175.881520159
+			text = ""
+		intervals [77]:
+			xmin = 175.881520159
+			xmax = 176.816390766
+			text = "贴 在 墙壁 上"
+		intervals [78]:
+			xmin = 176.816390766
+			xmax = 177.205920185
+			text = "翻 上 去"
+		intervals [79]:
+			xmin = 177.205920185
+			xmax = 178.088853535
+			text = "就 没 有 人 翻 上 去"
+		intervals [80]:
+			xmin = 178.088853535
+			xmax = 179.257441793
+			text = "有 人 把 它 放 下 来"
+		intervals [81]:
+			xmin = 179.257441793
+			xmax = 179.507265259
+			text = ""
+		intervals [82]:
+			xmin = 179.507265259
+			xmax = 182.02622217
+			text = "( 椅子 也 是 : + ) 就 是 可以 折 叠 的 椅子"
+		intervals [83]:
+			xmin = 182.02622217
+			xmax = 186.260357126
+			text = ""
+		intervals [84]:
+			xmin = 186.260357126
+			xmax = 187.065384593
+			text = "没 地方"
+		intervals [85]:
+			xmin = 187.065384593
+			xmax = 188.415753246
+			text = "这么 <unclear/> 就 空间 很 大"
+		intervals [86]:
+			xmin = 188.415753246
+			xmax = 192.060037698
+			text = ""
+		intervals [87]:
+			xmin = 192.060037698
+			xmax = 194.864649516
+			text = "房间 有 多 大 我 这 个 . 桌子 就 可以 多 大"
+		intervals [88]:
+			xmin = 194.864649516
+			xmax = 202.454917485
+			text = ""
+		intervals [89]:
+			xmin = 202.454917485
+			xmax = 204.636282233
+			text = "卫生间 我 想 做 个 <unclear/>"
+		intervals [90]:
+			xmin = 204.636282233
+			xmax = 206.298274422
+			text = "就 是 那 个 : 冲凉 缸 嘛"
+		intervals [91]:
+			xmin = 206.298274422
+			xmax = 206.531992073
+			text = ""
+		intervals [92]:
+			xmin = 206.531992073
+			xmax = 208.781399891
+			text = "要 这 个 三 角 的 贴 在 那 边 ."
+		intervals [93]:
+			xmin = 208.781399891
+			xmax = 212.676694084
+			text = "然后 这 个 三 角 缸 旁边 装 水 的 地方 就是 玻璃 是 透明 的"
+		intervals [94]:
+			xmin = 212.676694084
+			xmax = 214.104968621
+			text = "然后 里边 有 这 些 光"
+		intervals [95]:
+			xmin = 214.104968621
+			xmax = 216.52005102
+			text = "如果 有 人 来 的 时候 我 可以 开 点 这 个 音乐"
+		intervals [96]:
+			xmin = 216.52005102
+			xmax = 221.012623656
+			text = "像 一点 { tze } .. {F 嗯  } ( ( ( ( 很 + 很 ) + 很 ) + 很 ) + 很 ) 有 跳 奏 性 的 音乐"
+		intervals [97]:
+			xmin = 221.012623656
+			xmax = 223.064145264
+			text = "它 这 个 灯 光 会 闪 啊 闪 啊 闪"
+		intervals [98]:
+			xmin = 223.064145264
+			xmax = 224.206764894
+			text = "会 <unclear/> 地 闪"
+		intervals [99]:
+			xmin = 224.206764894
+			xmax = 225.686976687
+			text = "然后 旁边 就 是 有 点 <english> spa </english>"
+		intervals [100]:
+			xmin = 225.686976687
+			xmax = 226.985408084
+			text = "就 是 水 冲 出 来"
+		intervals [101]:
+			xmin = 226.985408084
+			xmax = 227.816404179
+			text = "那 我 想 减 肥"
+		intervals [102]:
+			xmin = 227.816404179
+			xmax = 230.153580694
+			text = "( 我 可以 冲 + 可以 . ) 减 我 哪里 都 减 下来"
+		intervals [103]:
+			xmin = 230.153580694
+			xmax = 231.325914753
+			text = ""
+		intervals [104]:
+			xmin = 231.325914753
+			xmax = 231.949161823
+			text = "可以"
+		intervals [105]:
+			xmin = 231.949161823
+			xmax = 233.429373617
+			text = "下去 精油 很 容易 放 嘛"
+		intervals [106]:
+			xmin = 233.429373617
+			xmax = 236.389797203
+			text = "然后 这 个 <unknownLanguage> sakuzin </unknownLanguage> 要 有 一 个 个 楼梯 的"
+		intervals [107]:
+			xmin = 236.389797203
+			xmax = 237.116918786
+			text = "坐 在 那边"
+		intervals [108]:
+			xmin = 237.116918786
+			xmax = 237.350636437
+			text = ""
+		intervals [109]:
+			xmin = 237.350636437
+			xmax = 238.129695276
+			text = "( 然后 这 个 + )"
+		intervals [110]:
+			xmin = 238.129695276
+			xmax = 238.389381555
+			text = ""
+		intervals [111]:
+			xmin = 238.389381555
+			xmax = 240.207185512
+			text = "<unknownLanguage> sakuzin </unknownLanguage> 是 ( 冲 + 三 角 的 冲凉 缸 )"
+		intervals [112]:
+			xmin = 240.207185512
+			xmax = 241.349805141
+			text = "很 大 的 冲凉 缸"
+		intervals [113]:
+			xmin = 241.349805141
+			xmax = 241.687397305
+			text = ""
+		intervals [114]:
+			xmin = 241.687397305
+			xmax = 245.608660125
+			text = "但是 里边 ( 有 这 种 .. + {F 嗯  } + 就 是 ( 有 + 有 ) ) 灯 啊"
+		intervals [115]:
+			xmin = 245.608660125
+			xmax = 246.569499359
+			text = "有 彩 色 灯 的 啊"
+		intervals [116]:
+			xmin = 246.569499359
+			xmax = 249.60782883
+			text = "有 ( 这 个 . + {F 呃 } + 这 个 水 ) 可以 按摩 的 ."
+		intervals [117]:
+			xmin = 249.60782883
+			xmax = 250.672542576
+			text = "就 是 这 种"
+		intervals [118]:
+			xmin = 250.672542576
+			xmax = 251.001520526
+			text = ""
+		intervals [119]:
+			xmin = 251.001520526
+			xmax = 255.338281393
+			text = "然后 这 个 ( 厨 + {F 呃 } + 冲凉 房 ) 嘛 我 想 周围 都 是 装 镜子 ."
+		intervals [120]:
+			xmin = 255.338281393
+			xmax = 256.351057883
+			text = "镜子 要 很 大 ."
+		intervals [121]:
+			xmin = 256.351057883
+			xmax = 260.012634424
+			text = "然后 在 上 边 { na } 只 是 要 做 些 吊 的 东西 下 来 .."
+		intervals [122]:
+			xmin = 260.012634424
+			xmax = 261.960281521
+			text = "吊 些 毛巾 啊 吊 些 什么 .."
+		intervals [123]:
+			xmin = 261.960281521
+			xmax = 263.726148221
+			text = "然后 这 个 地方 就 变 得 很 大 了"
+		intervals [124]:
+			xmin = 263.726148221
+			xmax = 264.037771757
+			text = ""
+		intervals [125]:
+			xmin = 264.037771757
+			xmax = 266.374948272
+			text = "我 要 把 毛巾 也 是 一 卷 卷 地 卷 起来"
+		intervals [126]:
+			xmin = 266.374948272
+			xmax = 267.257881622
+			text = "放 在 里边"
+		intervals [127]:
+			xmin = 267.257881622
+			xmax = 268.608250276
+			text = "我 喜欢 上面 整 一点 花"
+		intervals [128]:
+			xmin = 268.608250276
+			xmax = 269.802807161
+			text = "像 个 吊兰 一样 的"
+		intervals [129]:
+			xmin = 269.802807161
+			xmax = 270.359322756
+			text = ""
+		intervals [130]:
+			xmin = 270.359322756
+			xmax = 271.917440433
+			text = "然后 可 不 可以 装 个 吊兰 ?"
+		intervals [131]:
+			xmin = 271.917440433
+			xmax = 272.229063968
+			text = ""
+		intervals [132]:
+			xmin = 272.229063968
+			xmax = 272.644562016
+			text = "啊 ?"
+		intervals [133]:
+			xmin = 272.644562016
+			xmax = 275.449173834
+			text = ""
+		intervals [134]:
+			xmin = 275.449173834
+			xmax = 277.137134651
+			text = "{ ei } 就 整 一 个 <french> lavabo </french> ."
+		intervals [135]:
+			xmin = 277.137134651
+			xmax = 279.110750375
+			text = "就 是 整 一 个 刷 牙 台 就 可以 了"
+		intervals [136]:
+			xmin = 279.110750375
+			xmax = 279.448342539
+			text = ""
+		intervals [137]:
+			xmin = 279.448342539
+			xmax = 280.69483668
+			text = "( la + <french> lavabo </french> ) { ai }"
+		intervals [138]:
+			xmin = 280.69483668
+			xmax = 281.110334727
+			text = ""
+		intervals [139]:
+			xmin = 281.110334727
+			xmax = 282.486672009
+			text = "就 是 有 可以 刷 呀"
+		intervals [140]:
+			xmin = 282.486672009
+			xmax = 283.10991908
+			text = "就 可以 了"
+		intervals [141]:
+			xmin = 283.10991908
+			xmax = 283.286768068
+			text = ""
+		intervals [142]:
+			xmin = 283.286768068
+			xmax = 284.585199466
+			text = "有 个 <unknownLanguage> sakuzin </unknownLanguage> 有 个 <french> lavabo </french>"
+		intervals [143]:
+			xmin = 284.585199466
+			xmax = 286.117348515
+			text = "但 周围 都 装 了 镜子"
+		intervals [144]:
+			xmin = 286.117348515
+			xmax = 286.313986125
+			text = ""
+		intervals [145]:
+			xmin = 286.313986125
+			xmax = 295.039445116
+			text = "( 然后 上 边 呢 .. + 就 是 我们 家 所有 的 房间 上 面 ) 都 是 四 周围 所有 .. 客厅 睡 房 哪里 都 装 一 个 钩 出来 的 ( 钩 + 钩 的 壁 )"
+		intervals [146]:
+			xmin = 295.039445116
+			xmax = 298.103743214
+			text = "就 像 那 个 ( <french> fouchon </french> + <french> madeleine </french> ) 那 边 上 边 一样"
+		intervals [147]:
+			xmin = 298.103743214
+			xmax = 299.16845696
+			text = "然后 里 边 有 灯"
+		intervals [148]:
+			xmin = 299.16845696
+			xmax = 301.090135429
+			text = "然后 吊兰 都 挂 在 里边"
+		intervals [149]:
+			xmin = 301.090135429
+			xmax = 302.622284478
+			text = "上面 有 吊兰 有 什么 东西"
+		intervals [150]:
+			xmin = 302.622284478
+			xmax = 303.661029596
+			text = "东西 都 挂 在 上 边"
+		intervals [151]:
+			xmin = 303.661029596
+			xmax = 305.193178645
+			text = "排 一 排 就 很 好看 了"
+		intervals [152]:
+			xmin = 305.193178645
+			xmax = 307.501952326
+			text = ""
+		intervals [153]:
+			xmin = 307.501952326
+			xmax = 308.514728816
+			text = "然后 你 说 客厅"
+		intervals [154]:
+			xmin = 308.514728816
+			xmax = 320.512234929
+			text = ""
+		intervals [155]:
+			xmin = 320.512234929
+			xmax = 321.784697699
+			text = "( 洗 脸 的 毛巾 什么 + )"
+		intervals [156]:
+			xmin = 321.784697699
+			xmax = 326.884474584
+			text = ""
+		intervals [157]:
+			xmin = 326.884474584
+			xmax = 328.96196482
+			text = "( 我 上 边 . + 我 上 边 ) 整 个 像 花 篮"
+		intervals [158]:
+			xmin = 328.96196482
+			xmax = 330.546051125
+			text = "很 漂亮 的 花 篮 吊 钩"
+		intervals [159]:
+			xmin = 330.546051125
+			xmax = 332.026262918
+			text = "一 个 吊 篓 里面 我 都 可以 放 东西"
+		intervals [160]:
+			xmin = 332.026262918
+			xmax = 332.909196269
+			text = "放 在 上 边"
+		intervals [161]:
+			xmin = 332.909196269
+			xmax = 334.986686505
+			text = "然后 . 就 可以 做 个 很 大 的 <unknownLanguage> sakuzin </unknownLanguage>"
+		intervals [162]:
+			xmin = 334.986686505
+			xmax = 335.713808087
+			text = ""
+		intervals [163]:
+			xmin = 335.713808087
+			xmax = 336.934333601
+			text = "冲凉 房 就 很 大 ."
+		intervals [164]:
+			xmin = 336.934333601
+			xmax = 339.894757187
+			text = "就 ( 冲凉 房 + 这 个 : + 浴缸 ) 可以 整 得 很 大 ."
+		intervals [165]:
+			xmin = 339.894757187
+			xmax = 341.141251329
+			text = "像 游泳 一样 的 .."
+		intervals [166]:
+			xmin = 341.141251329
+			xmax = 342.543557238
+			text = "我 充分 利用 面积"
+		intervals [167]:
+			xmin = 342.543557238
+			xmax = 355.065430311
+			text = ""
+		intervals [168]:
+			xmin = 355.065430311
+			xmax = 356.519673476
+			text = "因为 我们 两 个 人 合 租 嘛"
+		intervals [169]:
+			xmin = 356.519673476
+			xmax = 357.87004213
+			text = "( 所以 你 可以 做 + )"
+		intervals [170]:
+			xmin = 357.87004213
+			xmax = 358.353582578
+			text = ""
+		intervals [171]:
+			xmin = 358.353582578
+			xmax = 359.366359069
+			text = "可以"
+		intervals [172]:
+			xmin = 359.366359069
+			xmax = 361.88531598
+			text = ""
+		intervals [173]:
+			xmin = 361.88531598
+			xmax = 363.157778749
+			text = "这 小 架子 归 你 用"
+		intervals [174]:
+			xmin = 363.157778749
+			xmax = 363.547308169
+			text = "我 不 用"
+		intervals [175]:
+			xmin = 363.547308169
+			xmax = 365.520923893
+			text = "( 我 都 利用 空 + 我 都 利用 高 空 )"
+		intervals [176]:
+			xmin = 365.520923893
+			xmax = 367.416633733
+			text = ""
+		intervals [177]:
+			xmin = 367.416633733
+			xmax = 369.520092597
+			text = "然后 我 还 要 ( 整 个 + 整 个 抽 水 马桶 )"
+		intervals [178]:
+			xmin = 369.520092597
+			xmax = 370.039465156
+			text = ""
+		intervals [179]:
+			xmin = 370.039465156
+			xmax = 372.01308088
+			text = "( 这 里边 + 厨房 里边 ) 整 个 抽 水 马桶"
+		intervals [180]:
+			xmin = 372.01308088
+			xmax = 372.947951486
+			text = ""
+		intervals [181]:
+			xmin = 372.947951486
+			xmax = 373.493292673
+			text = "哦 不 是"
+		intervals [182]:
+			xmin = 373.493292673
+			xmax = 375.259159374
+			text = "{F 呃 : } 就 是 . <french> salle de bain </french>"
+		intervals [183]:
+			xmin = 375.259159374
+			xmax = 375.778531933
+			text = ""
+		intervals [184]:
+			xmin = 375.778531933
+			xmax = 377.258743726
+			text = "就 是 : 洗澡 间"
+		intervals [185]:
+			xmin = 377.258743726
+			xmax = 377.792973499
+			text = ""
+		intervals [186]:
+			xmin = 377.792973499
+			xmax = 380.156118643
+			text = "要 ( 整 个 + 整 个 马桶 )"
+		intervals [187]:
+			xmin = 380.156118643
+			xmax = 381.610361808
+			text = ""
+		intervals [188]:
+			xmin = 381.610361808
+			xmax = 382.623138298
+			text = "就 是 抽 水 马桶"
+		intervals [189]:
+			xmin = 382.623138298
+			xmax = 384.648691278
+			text = "但是 我 抽 水 马桶 我 要 整 个 电子 的"
+		intervals [190]:
+			xmin = 384.648691278
+			xmax = 385.739373652
+			text = ""
+		intervals [191]:
+			xmin = 385.739373652
+			xmax = 387.946707028
+			text = "就 是 水 可以 很 快 地 抽 出 去 的"
+		intervals [192]:
+			xmin = 387.946707028
+			xmax = 390.663550149
+			text = ""
+		intervals [193]:
+			xmin = 390.663550149
+			xmax = 391.130985452
+			text = "没有"
+		intervals [194]:
+			xmin = 391.130985452
+			xmax = 392.195699198
+			text = "吸 力 很 大 嘛"
+		intervals [195]:
+			xmin = 392.195699198
+			xmax = 392.948789409
+			text = ""
+		intervals [196]:
+			xmin = 392.948789409
+			xmax = 393.623973736
+			text = "( 就 + )"
+		intervals [197]:
+			xmin = 393.623973736
+			xmax = 397.442610644
+			text = ""
+		intervals [198]:
+			xmin = 397.442610644
+			xmax = 398.377481251
+			text = "就 不 用 啦"
+		intervals [199]:
+			xmin = 398.377481251
+			xmax = 400.039473439
+			text = "( 用 + 用 电 的 ) 抽 得 好"
+		intervals [200]:
+			xmin = 400.039473439
+			xmax = 401.727434256
+			text = "你 的 旁边 不 用 整 个 垃圾 桶"
+		intervals [201]:
+			xmin = 401.727434256
+			xmax = 402.792148002
+			text = "什么 东西 都 往 里边 扔"
+		intervals [202]:
+			xmin = 402.792148002
+			xmax = 403.856861748
+			text = "它 一 抽 就 抽 掉 了"
+		intervals [203]:
+			xmin = 403.856861748
+			xmax = 404.999481378
+			text = ""
+		intervals [204]:
+			xmin = 404.999481378
+			xmax = 405.804508844
+			text = "我 不 用"
+		intervals [205]:
+			xmin = 405.804508844
+			xmax = 406.401787287
+			text = ""
+		intervals [206]:
+			xmin = 406.401787287
+			xmax = 407.856030452
+			text = "不 会 天 天 没 有 电 啦"
+		intervals [207]:
+			xmin = 407.856030452
+			xmax = 415.060514134
+			text = ""
+		intervals [208]:
+			xmin = 415.060514134
+			xmax = 417.163972998
+			text = "那 我们 两 个 人 住 我 就 尊重 你"
+		intervals [209]:
+			xmin = 417.163972998
+			xmax = 418.488373023
+			text = "那 就 依 你 呗"
+		intervals [210]:
+			xmin = 418.488373023
+			xmax = 424.631826434
+			text = ""
+		intervals [211]:
+			xmin = 424.631826434
+			xmax = 425.229104876
+			text = "{BC em }"
+		intervals [212]:
+			xmin = 425.229104876
+			xmax = 427.799999044
+			text = "我 就 想 下 边 空 的 地方 大 一点"
+		intervals [213]:
+			xmin = 427.799999044
+			xmax = 428.890681417
+			text = "整 个 出 来 会 快 一 点"
+		intervals [214]:
+			xmin = 428.890681417
+			xmax = 429.929426535
+			text = ""
+		intervals [215]:
+			xmin = 429.929426535
+			xmax = 431.435606957
+			text = "那 你 旁边 整 个 垃圾 桶 啊"
+		intervals [216]:
+			xmin = 431.435606957
+			xmax = 432.967756006
+			text = "什么 东西 再 往 里 边 扔 啊"
+		intervals [217]:
+			xmin = 432.967756006
+			xmax = 433.357285425
+			text = ""
+		intervals [218]:
+			xmin = 433.357285425
+			xmax = 435.616556057
+			text = "我 整 个 电 马桶 旁边 不 要 整 个 垃圾 桶 啊"
+		intervals [219]:
+			xmin = 435.616556057
+			xmax = 435.772367824
+			text = ""
+		intervals [220]:
+			xmin = 435.772367824
+			xmax = 438.057607084
+			text = "我 所有 的 垃圾 都 往 马桶 里 边 扔 啦"
+		intervals [221]:
+			xmin = 438.057607084
+			xmax = 438.793405874
+			text = ""
+		intervals [222]:
+			xmin = 438.793405874
+			xmax = 440.533303946
+			text = "那 你 就 多 个 垃圾 桶"
+		intervals [223]:
+			xmin = 440.533303946
+			xmax = 443.104198114
+			text = ""
+		intervals [224]:
+			xmin = 443.104198114
+			xmax = 444.013100092
+			text = "可以 扔"
+		intervals [225]:
+			xmin = 444.013100092
+			xmax = 444.298754999
+			text = ""
+		intervals [226]:
+			xmin = 444.298754999
+			xmax = 444.870064814
+			text = "可以 扔"
+		intervals [227]:
+			xmin = 444.870064814
+			xmax = 445.545249141
+			text = "冲 得 掉"
+		intervals [228]:
+			xmin = 445.545249141
+			xmax = 446.506088375
+			text = ""
+		intervals [229]:
+			xmin = 446.506088375
+			xmax = 447.389021725
+			text = "那 就 <unclear/>"
+		intervals [230]:
+			xmin = 447.389021725
+			xmax = 449.128919798
+			text = "我们 两 个 人 住 那 我 就 尊重 你"
+		intervals [231]:
+			xmin = 449.128919798
+			xmax = 450.266608021
+			text = ""
+		intervals [232]:
+			xmin = 450.266608021
+			xmax = 450.760011952
+			text = "{BC e }"
+		intervals [233]:
+			xmin = 450.760011952
+			xmax = 456.631419069
+			text = ""
+		intervals [234]:
+			xmin = 456.631419069
+			xmax = 457.410477908
+			text = "我 不 用"
+		intervals [235]:
+			xmin = 457.410477908
+			xmax = 459.617811283
+			text = "我 就 拿 一 个 吊 篮 吊 上 去"
+		intervals [236]:
+			xmin = 459.617811283
+			xmax = 461.3057721
+			text = ""
+		intervals [237]:
+			xmin = 461.3057721
+			xmax = 461.877081915
+			text = "没有 啊"
+		intervals [238]:
+			xmin = 461.877081915
+			xmax = 463.954572151
+			text = "这 吊 篮 一 拿 下 来 我 就 做 运动 嘛"
+		intervals [239]:
+			xmin = 463.954572151
+			xmax = 464.956237227
+			text = ""
+		intervals [240]:
+			xmin = 464.956237227
+			xmax = 466.410480393
+			text = "我 下 边 面积 可以 大 嘛"
+		intervals [241]:
+			xmin = 466.410480393
+			xmax = 466.722103928
+			text = ""
+		intervals [242]:
+			xmin = 466.722103928
+			xmax = 467.033727463
+			text = "好 了"
+		intervals [243]:
+			xmin = 467.033727463
+			xmax = 469.007343188
+			text = "客厅 你 觉得 怎么 样 ?"
+		intervals [244]:
+			xmin = 469.007343188
+			xmax = 476.538245293
+			text = ""
+		intervals [245]:
+			xmin = 476.538245293
+			xmax = 477.187460992
+			text = "{BC em }"
+		intervals [246]:
+			xmin = 477.187460992
+			xmax = 492.457077221
+			text = ""
+		intervals [247]:
+			xmin = 492.457077221
+			xmax = 493.054355664
+			text = "{BC em }"
+		intervals [248]:
+			xmin = 493.054355664
+			xmax = 572.586526249
+			text = ""
+		intervals [249]:
+			xmin = 572.586526249
+			xmax = 574.22254981
+			text = "我 说 不 是 有 100 万 吗"
+		intervals [250]:
+			xmin = 574.22254981
+			xmax = 576.170196906
+			text = "我们 各自 利用 这 个 数"
+		intervals [251]:
+			xmin = 576.170196906
+			xmax = 576.897318489
+			text = "没有"
+		intervals [252]:
+			xmin = 576.897318489
+			xmax = 578.143812631
+			text = ""
+		intervals [253]:
+			xmin = 578.143812631
+			xmax = 579.727898936
+			text = "100 万 很 多 很 多"
+		intervals [254]:
+			xmin = 579.727898936
+			xmax = 580.351146006
+			text = "有 的 用 啦"
+		intervals [255]:
+			xmin = 580.351146006
+			xmax = 581.675546032
+			text = "买 个 <unclear/> 很 便宜 的"
+		intervals [256]:
+			xmin = 581.675546032
+			xmax = 583.934816664
+			text = ""
+		intervals [257]:
+			xmin = 583.934816664
+			xmax = 584.947593154
+			text = "<unknownLanguage> sakuzin </unknownLanguage> 不 是 很 贵 的"
+		intervals [258]:
+			xmin = 584.947593154
+			xmax = 585.729149192
+			text = ""
+		intervals [259]:
+			xmin = 585.729149192
+			xmax = 587.105486474
+			text = "不 是 很 贵 的"
+		intervals [260]:
+			xmin = 587.105486474
+			xmax = 589.105070826
+			text = ""
+		intervals [261]:
+			xmin = 589.105070826
+			xmax = 590.247690456
+			text = "人 工 费 不 是 很 贵 的"
+		intervals [262]:
+			xmin = 590.247690456
+			xmax = 590.455439479
+			text = ""
+		intervals [263]:
+			xmin = 590.455439479
+			xmax = 591.286435574
+			text = "100 万 用 不 完"
+		intervals [264]:
+			xmin = 591.286435574
+			xmax = 595.155761138
+			text = ""
+		intervals [265]:
+			xmin = 595.155761138
+			xmax = 595.727070953
+			text = "( 客厅 + )"
+		intervals [266]:
+			xmin = 595.727070953
+			xmax = 599.492522006
+			text = "( 我 就 想 的 + 我 就 想 的 ) 我们 . 大家 个人 利用 50 万"
+		intervals [267]:
+			xmin = 599.492522006
+			xmax = 601.751792638
+			text = "你 有 50 万 我 有 50 万 <unclear/>"
+		intervals [268]:
+			xmin = 601.751792638
+			xmax = 602.372605502
+			text = ""
+		intervals [269]:
+			xmin = 602.372605502
+			xmax = 602.762134921
+			text = "{BC o }"
+		intervals [270]:
+			xmin = 602.762134921
+			xmax = 607.254707557
+			text = "我 的 房间 设计 嘛 就 是 . 我 想 ( 做 成 一 个 像 + 做 一 个 船 )"
+		intervals [271]:
+			xmin = 607.254707557
+			xmax = 607.644236976
+			text = ""
+		intervals [272]:
+			xmin = 607.644236976
+			xmax = 609.358166421
+			text = "旁边 就 像 大海 一样 的"
+		intervals [273]:
+			xmin = 609.358166421
+			xmax = 609.6178527
+			text = ""
+		intervals [274]:
+			xmin = 609.6178527
+			xmax = 612.734088054
+			text = "然后 我 : 就 睡 在 像 大海 一样 ."
+		intervals [275]:
+			xmin = 612.734088054
+			xmax = 618.005719528
+			text = "上面 有 一点 点 淡淡 的 不 要 很 多 很 浓 的 . 云 啊 .."
+		intervals [276]:
+			xmin = 618.005719528
+			xmax = 619.927397997
+			text = "稍许 有点 像 一点 太阳 啊"
+		intervals [277]:
+			xmin = 619.927397997
+			xmax = 620.550645067
+			text = "一 点 点"
+		intervals [278]:
+			xmin = 620.550645067
+			xmax = 622.368449024
+			text = "就 稍许 点 到 就 可以"
+		intervals [279]:
+			xmin = 622.368449024
+			xmax = 622.769152851
+			text = ""
+		intervals [280]:
+			xmin = 622.769152851
+			xmax = 625.521827413
+			text = "或者 这 个 ( 客厅 + 睡房 ) 给 我 很 大 呢 ."
+		intervals [281]:
+			xmin = 625.521827413
+			xmax = 629.105498071
+			text = "我 还 想 在 : 旁边 呢 做 个 像 个 像 帆布 船 一样 的"
+		intervals [282]:
+			xmin = 629.105498071
+			xmax = 634.636815824
+			text = "我 就 觉得 我 在 这 个 沙滩 上 游泳 了 海 边 游泳 了 以后 我 可以 坐 在 帆布 船 上"
+		intervals [283]:
+			xmin = 634.636815824
+			xmax = 637.571270782
+			text = "旁边 的 角落 的 床 旁边 有 一点点 的 树"
+		intervals [284]:
+			xmin = 637.571270782
+			xmax = 639.88247867
+			text = "但是 这 个 树 是 在 角落 那 个 位置 .."
+		intervals [285]:
+			xmin = 639.88247867
+			xmax = 642.998714024
+			text = "只要 . 三分之一 的 树 露 出 来 .. 可以 了"
+		intervals [286]:
+			xmin = 642.998714024
+			xmax = 644.011490514
+			text = "旁边 都 是 海"
+		intervals [287]:
+			xmin = 644.011490514
+			xmax = 646.556416053
+			text = "( 就 是 不 是 就 是 { tze } + ) 也 不 是 树"
+		intervals [288]:
+			xmin = 646.556416053
+			xmax = 648.426157266
+			text = "就 和 椰子 树 一样 的 .."
+		intervals [289]:
+			xmin = 648.426157266
+			xmax = 649.672651407
+			text = "( 像 个 沙滩 上面 这 种 + )"
+		intervals [290]:
+			xmin = 649.672651407
+			xmax = 650.210626981
+			text = ""
+		intervals [291]:
+			xmin = 650.210626981
+			xmax = 651.015654447
+			text = "{ ei } 椰子 树 一样"
+		intervals [292]:
+			xmin = 651.015654447
+			xmax = 651.638901518
+			text = "一点点"
+		intervals [293]:
+			xmin = 651.638901518
+			xmax = 653.820266266
+			text = "( 但是 .. + ) {F 呃 } . 一点点"
+		intervals [294]:
+			xmin = 653.820266266
+			xmax = 654.884980012
+			text = "不 要 整 颗 树"
+		intervals [295]:
+			xmin = 654.884980012
+			xmax = 655.715976106
+			text = "一点点"
+		intervals [296]:
+			xmin = 655.715976106
+			xmax = 656.832627108
+			text = "然后 旁边 都是 海"
+		intervals [297]:
+			xmin = 656.832627108
+			xmax = 657.793466342
+			text = "蓝 色 的"
+		intervals [298]:
+			xmin = 657.793466342
+			xmax = 659.325615391
+			text = "然后 我 就 觉得 很 舒服"
+		intervals [299]:
+			xmin = 659.325615391
+			xmax = 660.909701696
+			text = "( 然后 你 觉的 沙滩 + )"
+		intervals [300]:
+			xmin = 660.909701696
+			xmax = 662.779442909
+			text = ""
+		intervals [301]:
+			xmin = 662.779442909
+			xmax = 664.103842934
+			text = "我 觉得 很 浅"
+		intervals [302]:
+			xmin = 664.103842934
+			xmax = 664.753058633
+			text = ""
+		intervals [303]:
+			xmin = 664.753058633
+			xmax = 667.064266521
+			text = "我 可以 自己 涂 点 颜色 就 好 了 嘛"
+		intervals [304]:
+			xmin = 667.064266521
+			xmax = 668.310760662
+			text = "这 些 自己 涂"
+		intervals [305]:
+			xmin = 668.310760662
+			xmax = 668.801730387
+			text = ""
+		intervals [306]:
+			xmin = 668.801730387
+			xmax = 669.684663737
+			text = "自己 涂"
+		intervals [307]:
+			xmin = 669.684663737
+			xmax = 671.372624554
+			text = ""
+		intervals [308]:
+			xmin = 671.372624554
+			xmax = 673.32027165
+			text = "( 读 + ) 我 都 放 在 上 边 .."
+		intervals [309]:
+			xmin = 673.32027165
+			xmax = 675.657448166
+			text = "( 我 什么 东西 都 + ) 我 愿意 放 在 上 边 ."
+		intervals [310]:
+			xmin = 675.657448166
+			xmax = 681.734107106
+			text = "然后 嘛 就 是 说 . {F 呃} 我 愿意 你 那 个 客厅 什么 的 我 喜欢 这 颜色 变 成 浅 绿 色 的"
+		intervals [311]:
+			xmin = 681.734107106
+			xmax = 682.435260061
+			text = "对 眼睛 好"
+		intervals [312]:
+			xmin = 682.435260061
+			xmax = 683.741120065
+			text = ""
+		intervals [313]:
+			xmin = 683.741120065
+			xmax = 684.260492624
+			text = "{BC em }"
+		intervals [314]:
+			xmin = 684.260492624
+			xmax = 685.558924022
+			text = ""
+		intervals [315]:
+			xmin = 685.558924022
+			xmax = 686.130233837
+			text = "{BC em }"
+		intervals [316]:
+			xmin = 686.130233837
+			xmax = 686.363951488
+			text = ""
+		intervals [317]:
+			xmin = 686.363951488
+			xmax = 686.753480908
+			text = "( 但是 + )"
+		intervals [318]:
+			xmin = 686.753480908
+			xmax = 687.324790722
+			text = ""
+		intervals [319]:
+			xmin = 687.324790722
+			xmax = 689.713904494
+			text = "( 我 这 .. + 我 这 房间 ) 是 浅 蓝 色"
+		intervals [320]:
+			xmin = 689.713904494
+			xmax = 694.310351641
+			text = "但是 我 觉得 我们 的 主 色 呢 就 是 . 比如 说 要 . {F 呃} 七彩 的"
+		intervals [321]:
+			xmin = 694.310351641
+			xmax = 695.582814411
+			text = "就 是 淡 颜色 的"
+		intervals [322]:
+			xmin = 695.582814411
+			xmax = 721.792651613
+			text = ""
+		intervals [323]:
+			xmin = 721.792651613
+			xmax = 722.363961428
+			text = "{BC em }"
+		intervals [324]:
+			xmin = 722.363961428
+			xmax = 727.027203046
+			text = ""
+		intervals [325]:
+			xmin = 727.027203046
+			xmax = 727.520606977
+			text = "{BC em }"
+		intervals [326]:
+			xmin = 727.520606977
+			xmax = 729.987626632
+			text = "我 把 我 的 衣服 { na } 都 全部 挂 在 墙壁 上"
+		intervals [327]:
+			xmin = 729.987626632
+			xmax = 732.324803148
+			text = "然后 拿 这 个 海 的 纸 一 拉 拉 下 来 就 全部 遮 住"
+		intervals [328]:
+			xmin = 732.324803148
+			xmax = 732.871392935
+			text = ""
+		intervals [329]:
+			xmin = 732.871392935
+			xmax = 734.169824332
+			text = "我 的 衣服 挂 在 墙壁 上"
+		intervals [330]:
+			xmin = 734.169824332
+			xmax = 738.117055781
+			text = "( ( 我 需要 的 + 我 ) + 我 需要 拿 衣服 的 时候 ) 把 这 个 墙 纸 拉 上 去 ."
+		intervals [331]:
+			xmin = 738.117055781
+			xmax = 739.934859737
+			text = "我 不 需要 衣服 的 时候 把 这 墙 纸 拉 起来"
+		intervals [332]:
+			xmin = 739.934859737
+			xmax = 741.80460095
+			text = "我 就 觉得 . 我 睡 在 一 个 大海 上"
+		intervals [333]:
+			xmin = 741.80460095
+			xmax = 742.921251951
+			text = "坐 在 一 个 船 上"
+		intervals [334]:
+			xmin = 742.921251951
+			xmax = 783.481877597
+			text = ""
+		intervals [335]:
+			xmin = 783.481877597
+			xmax = 784.157061924
+			text = "{BC em }"
+		intervals [336]:
+			xmin = 784.157061924
+			xmax = 788.989723923
+			text = ""
+		intervals [337]:
+			xmin = 788.989723923
+			xmax = 789.898625901
+			text = "阳台 啊 ?"
+		intervals [338]:
+			xmin = 789.898625901
+			xmax = 790.184280809
+			text = ""
+		intervals [339]:
+			xmin = 790.184280809
+			xmax = 792.781143604
+			text = "阳台 我 就 觉得 . {F 呃 } 不 要 装 灯"
+		intervals [340]:
+			xmin = 792.781143604
+			xmax = 793.897794605
+			text = "( 我 会 买 一些 + )"
+		intervals [341]:
+			xmin = 793.897794605
+			xmax = 794.157480885
+			text = ""
+		intervals [342]:
+			xmin = 794.157480885
+			xmax = 795.689629934
+			text = "( ( 我 没 想 + 我 要 买 一些 ) + )"
+		intervals [343]:
+			xmin = 795.689629934
+			xmax = 796.105127981
+			text = ""
+		intervals [344]:
+			xmin = 796.105127981
+			xmax = 797.065967215
+			text = "{ ei } 花 草 很 好 的"
+		intervals [345]:
+			xmin = 797.065967215
+			xmax = 799.247331963
+			text = "就是 装 在 这 个 栏杆 的 外 边 嘛"
+		intervals [346]:
+			xmin = 799.247331963
+			xmax = 801.480633967
+			text = "就 利用 外 边 的 空间 全部 吊 起来 嘛"
+		intervals [347]:
+			xmin = 801.480633967
+			xmax = 803.687967343
+			text = "那 周围 { na } 我 就 买 些 小 蜡烛 .."
+		intervals [348]:
+			xmin = 803.687967343
+			xmax = 806.180955626
+			text = "这 个 蜡烛 是 有 玻璃 瓶 玻璃 杯 罩 着"
+		intervals [349]:
+			xmin = 806.180955626
+			xmax = 807.245669372
+			text = "如果 有 人 来 嘛"
+		intervals [350]:
+			xmin = 807.245669372
+			xmax = 810.543685122
+			text = "( 晚上 + 如果 很 晚 了 . ) 我们 可以 把 这 蜡烛 点 起来"
+		intervals [351]:
+			xmin = 810.543685122
+			xmax = 811.764210635
+			text = "{ ai ya } 很 优雅 的"
+		intervals [352]:
+			xmin = 811.764210635
+			xmax = 812.501258025
+			text = ""
+		intervals [353]:
+			xmin = 812.501258025
+			xmax = 815.877179659
+			text = "然后 最 好 这 上 边 也 是 吊 一些 酒 杯 啊 杯子 啊 什么"
+		intervals [354]:
+			xmin = 815.877179659
+			xmax = 816.630269869
+			text = "喝 点 东西"
+		intervals [355]:
+			xmin = 816.630269869
+			xmax = 826.267128039
+			text = ""
+		intervals [356]:
+			xmin = 826.267128039
+			xmax = 828.007026112
+			text = "拿 些 杯子 可以 喝 点 东西 嘛"
+		intervals [357]:
+			xmin = 828.007026112
+			xmax = 829.279488881
+			text = "拿 点 饮料 嘛"
+		intervals [358]:
+			xmin = 829.279488881
+			xmax = 849.830599398
+			text = ""
+		intervals [359]:
+			xmin = 849.830599398
+			xmax = 851.96002689
+			text = "你 喜欢 养 个 小 乌龟 吗 阳台 上 ?"
+		intervals [360]:
+			xmin = 851.96002689
+			xmax = 853.751862218
+			text = ""
+		intervals [361]:
+			xmin = 853.751862218
+			xmax = 855.154168127
+			text = "小 乌龟 镇 邪 的"
+		intervals [362]:
+			xmin = 855.154168127
+			xmax = 855.725477942
+			text = ""
+		intervals [363]:
+			xmin = 855.725477942
+			xmax = 857.127783852
+			text = "阳台 上 养 个 小 乌龟"
+		intervals [364]:
+			xmin = 857.127783852
+			xmax = 857.90684269
+			text = "地方 很 小 的"
+		intervals [365]:
+			xmin = 857.90684269
+			xmax = 876.453436779
+			text = ""
+		intervals [366]:
+			xmin = 876.453436779
+			xmax = 878.297209363
+			text = "我们 可以 养 一 个 小 鸟 啊"
+		intervals [367]:
+			xmin = 878.297209363
+			xmax = 879.959201552
+			text = "我们 养 一点 那 小 的 东西"
+		intervals [368]:
+			xmin = 879.959201552
+			xmax = 881.470376374
+			text = ""
+		intervals [369]:
+			xmin = 881.470376374
+			xmax = 882.846713655
+			text = "( 镇 + 镇 宝 的 )"
+		intervals [370]:
+			xmin = 882.846713655
+			xmax = 892.184307635
+			text = ""
+		intervals [371]:
+			xmin = 892.184307635
+			xmax = 892.859491962
+			text = "{BC em }"
+		intervals [372]:
+			xmin = 892.859491962
+			xmax = 956.955123137
+			text = ""
+		intervals [373]:
+			xmin = 956.955123137
+			xmax = 957.838056488
+			text = "{BC em }"
+		intervals [374]:
+			xmin = 957.838056488
+			xmax = 968.713980192
+			text = ""
+		intervals [375]:
+			xmin = 968.713980192
+			xmax = 971.232937103
+			text = "刚刚 进来 的 是 厨房 的 比较 多"
+		intervals [376]:
+			xmin = 971.232937103
+			xmax = 972.401525361
+			text = ""
+		intervals [377]:
+			xmin = 972.401525361
+			xmax = 974.401109713
+			text = "睡 房 都 在 里 边 的"
+		intervals [378]:
+			xmin = 974.401109713
+			xmax = 1003.03963793
+			text = ""
+		intervals [379]:
+			xmin = 1003.03963793
+			xmax = 1004.05241442
+			text = "<french> couloir </french>"
+		intervals [380]:
+			xmin = 1004.05241442
+			xmax = 1006.88299487
+			text = ""
+		intervals [381]:
+			xmin = 1006.88299487
+			xmax = 1007.79189684
+			text = "<french> couloir </french>"
+		intervals [382]:
+			xmin = 1007.79189684
+			xmax = 1025.9353529
+			text = ""
+		intervals [383]:
+			xmin = 1025.9353529
+			xmax = 1027.38959606
+			text = "<french> salle de bain </french>"
+		intervals [384]:
+			xmin = 1027.38959606
+			xmax = 1028.29849804
+			text = ""
+		intervals [385]:
+			xmin = 1028.29849804
+			xmax = 1029.20740002
+			text = "<french> salle de bain </french>"
+		intervals [386]:
+			xmin = 1029.20740002
+			xmax = 1158.175287
+			text = ""
+		intervals [387]:
+			xmin = 1158.175287
+			xmax = 1161.60564309
+			text = "( 这 个 ... + {F ei } + 这 个 ) <french> salle de bain </french> 嘛"
+		intervals [388]:
+			xmin = 1161.60564309
+			xmax = 1165.44650283
+			text = "我 这里 做 个 ( <french> lavabo </french> + {F 呃} 就 是 那 个 {F 嗯  } 冲凉 房 )"
+		intervals [389]:
+			xmin = 1165.44650283
+			xmax = 1168.40449221
+			text = ""
+		intervals [390]:
+			xmin = 1168.40449221
+			xmax = 1170.81957461
+			text = "{F 嗯  : } ( ( 洗澡 + 洗澡 房 ) + )"
+		intervals [391]:
+			xmin = 1170.81957461
+			xmax = 1171.6505707
+			text = ""
+		intervals [392]:
+			xmin = 1171.6505707
+			xmax = 1172.81915896
+			text = "这 不 是 <french> salle de bain </french> 吗 ?"
+		intervals [393]:
+			xmin = 1172.81915896
+			xmax = 1173.72806094
+			text = "( ( ( ( 这 + 这 ) + 这 ) + 这 ) + )"
+		intervals [394]:
+			xmin = 1173.72806094
+			xmax = 1174.63696292
+			text = ""
+		intervals [395]:
+			xmin = 1174.63696292
+			xmax = 1175.75361392
+			text = "这 个 是 什么 东西 ?"
+		intervals [396]:
+			xmin = 1175.75361392
+			xmax = 1177.44157474
+			text = "<unclear/>"
+		intervals [397]:
+			xmin = 1177.44157474
+			xmax = 1178.58051089
+			text = ""
+		intervals [398]:
+			xmin = 1178.58051089
+			xmax = 1179.93087955
+			text = "这里 <french> salle de bain </french>"
+		intervals [399]:
+			xmin = 1179.93087955
+			xmax = 1180.19056582
+			text = ""
+		intervals [400]:
+			xmin = 1180.19056582
+			xmax = 1182.3978992
+			text = "这 是 冲凉 房"
+		intervals [401]:
+			xmin = 1182.3978992
+			xmax = 1184.93171333
+			text = ""
+		intervals [402]:
+			xmin = 1184.93171333
+			xmax = 1186.23014472
+			text = "洗澡 盆"
+		intervals [403]:
+			xmin = 1186.23014472
+			xmax = 1194.59204292
+			text = ""
+		intervals [404]:
+			xmin = 1194.59204292
+			xmax = 1195.44900765
+			text = "( 然后 + )"
+		intervals [405]:
+			xmin = 1195.44900765
+			xmax = 1230.05164308
+			text = ""
+		intervals [406]:
+			xmin = 1230.05164308
+			xmax = 1231.16829409
+			text = "<french> c'est glasse </french>"
+		intervals [407]:
+			xmin = 1231.16829409
+			xmax = 1232.54463137
+			text = "这 是 一 个 透明 的 玻璃 呢"
+		intervals [408]:
+			xmin = 1232.54463137
+			xmax = 1233.0380353
+			text = "<french> glasse </french>"
+		intervals [409]:
+			xmin = 1233.0380353
+			xmax = 1235.37521181
+			text = "( 这里 要 + 这里 一 点 要 透明 )"
+		intervals [410]:
+			xmin = 1235.37521181
+			xmax = 1247.49519478
+			text = ""
+		intervals [411]:
+			xmin = 1247.49519478
+			xmax = 1248.27425362
+			text = "<french> glasse </french>"
+		intervals [412]:
+			xmin = 1248.27425362
+			xmax = 1250.09205758
+			text = "然后 这里 有 这 个 <english> spa </english>"
+		intervals [413]:
+			xmin = 1250.09205758
+			xmax = 1251.44242623
+			text = "这 又 有 水 池 出来"
+		intervals [414]:
+			xmin = 1251.44242623
+			xmax = 1252.29939096
+			text = "这里 <english> spa </english>"
+		intervals [415]:
+			xmin = 1252.29939096
+			xmax = 1255.02609689
+			text = "这 个 都 是 下面 有 这 个 . <english> spa </english>"
+		intervals [416]:
+			xmin = 1255.02609689
+			xmax = 1255.5974067
+			text = ""
+		intervals [417]:
+			xmin = 1255.5974067
+			xmax = 1258.16830087
+			text = "( 冲 + ) 就 是 会 射 出 来 水 的"
+		intervals [418]:
+			xmin = 1258.16830087
+			xmax = 1259.45562086
+			text = ""
+		intervals [419]:
+			xmin = 1259.45562086
+			xmax = 1261.66295423
+			text = "这里 也 是 全部 都 是 上 边 都 <english> spa </english>"
+		intervals [420]:
+			xmin = 1261.66295423
+			xmax = 1261.97457777
+			text = ""
+		intervals [421]:
+			xmin = 1261.97457777
+			xmax = 1263.35091505
+			text = "到处 都 是 <english> spa </english>"
+		intervals [422]:
+			xmin = 1263.35091505
+			xmax = 1263.7664131
+			text = ""
+		intervals [423]:
+			xmin = 1263.7664131
+			xmax = 1265.01290724
+			text = "可以 冲 水 的 啊"
+		intervals [424]:
+			xmin = 1265.01290724
+			xmax = 1265.14275038
+			text = ""
+		intervals [425]:
+			xmin = 1265.14275038
+			xmax = 1268.4147975
+			text = "这里 ( 有 + 有 ) 一 格 格 的 做 的 那 个 . <english> escalier </english>"
+		intervals [426]:
+			xmin = 1268.4147975
+			xmax = 1269.32369948
+			text = "就 是 楼梯"
+		intervals [427]:
+			xmin = 1269.32369948
+			xmax = 1270.49228773
+			text = "就 是 坐 在 这里"
+		intervals [428]:
+			xmin = 1270.49228773
+			xmax = 1271.32328383
+			text = "一 层 层 上 去"
+		intervals [429]:
+			xmin = 1271.32328383
+			xmax = 1272.35959407
+			text = ""
+		intervals [430]:
+			xmin = 1272.35959407
+			xmax = 1273.39833919
+			text = "这 个 楼梯"
+		intervals [431]:
+			xmin = 1273.39833919
+			xmax = 1275.32001766
+			text = ""
+		intervals [432]:
+			xmin = 1275.32001766
+			xmax = 1276.85216671
+			text = "就 可以 坐 在 这边 的 嘛"
+		intervals [433]:
+			xmin = 1276.85216671
+			xmax = 1277.70913143
+			text = ""
+		intervals [434]:
+			xmin = 1277.70913143
+			xmax = 1278.85175106
+			text = "头 躺 在 这 面 啦"
+		intervals [435]:
+			xmin = 1278.85175106
+			xmax = 1295.73510436
+			text = ""
+		intervals [436]:
+			xmin = 1295.73510436
+			xmax = 1297.81259459
+			text = "这里 就 是 上面 吊 个 玻璃 杯 这样"
+		intervals [437]:
+			xmin = 1297.81259459
+			xmax = 1298.90327697
+			text = "做 个 酒吧"
+		intervals [438]:
+			xmin = 1298.90327697
+			xmax = 1304.37154605
+			text = ""
+		intervals [439]:
+			xmin = 1304.37154605
+			xmax = 1305.98160099
+			text = "( 然后 这 个 烧 饭 的 + )"
+		intervals [440]:
+			xmin = 1305.98160099
+			xmax = 1307.43584415
+			text = ""
+		intervals [441]:
+			xmin = 1307.43584415
+			xmax = 1308.35835474
+			text = "烧 饭 的"
+		intervals [442]:
+			xmin = 1308.35835474
+			xmax = 1309.30558536
+			text = "还 有 洗 手 的"
+		intervals [443]:
+			xmin = 1309.30558536
+			xmax = 1309.72108341
+			text = ""
+		intervals [444]:
+			xmin = 1309.72108341
+			xmax = 1310.42223637
+			text = "有 个 桌子"
+		intervals [445]:
+			xmin = 1310.42223637
+			xmax = 1310.9156403
+			text = ""
+		intervals [446]:
+			xmin = 1310.9156403
+			xmax = 1311.46098148
+			text = "吃 的"
+		intervals [447]:
+			xmin = 1311.46098148
+			xmax = 1311.82497149
+			text = ""
+		intervals [448]:
+			xmin = 1311.82497149
+			xmax = 1312.26643816
+			text = "{BC em }"
+		intervals [449]:
+			xmin = 1312.26643816
+			xmax = 1313.1493715
+			text = ""
+		intervals [450]:
+			xmin = 1313.1493715
+			xmax = 1314.05827347
+			text = "天花板 上"
+		intervals [451]:
+			xmin = 1314.05827347
+			xmax = 1316.05785779
+			text = "我 ( 做 一 个 床 + { o } + 做 一 个 船 )"
+		intervals [452]:
+			xmin = 1316.05785779
+			xmax = 1317.92759898
+			text = "一 个 船 ( 做 + 做 中间 的 )"
+		intervals [453]:
+			xmin = 1317.92759898
+			xmax = 1321.09577155
+			text = "( 旁边 都 ... + {F 呃} + 四面 都 拿 个 布 )"
+		intervals [454]:
+			xmin = 1321.09577155
+			xmax = 1322.13451665
+			text = "{F 呃} 纸 都 拉 下 来"
+		intervals [455]:
+			xmin = 1322.13451665
+			xmax = 1323.82247744
+			text = "就是 做 成 一 个 大海 的"
+		intervals [456]:
+			xmin = 1323.82247744
+			xmax = 1328.28908139
+			text = ""
+		intervals [457]:
+			xmin = 1328.28908139
+			xmax = 1330.88594415
+			text = "然后 . 我 这 个 桌子 . 是 靠 在 墙壁 上"
+		intervals [458]:
+			xmin = 1330.88594415
+			xmax = 1331.5870971
+			text = "可以 拉 下 来 的"
+		intervals [459]:
+			xmin = 1331.5870971
+			xmax = 1337.64
+			text = ""

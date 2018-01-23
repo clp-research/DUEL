@@ -1,0 +1,1300 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 238.345671313
+tiers? <exists>
+size = 6
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "B-turns"
+		xmin = 0.0
+		xmax = 238.345671313
+		intervals: size = 68
+		intervals [1]:
+			xmin = 0.0
+			xmax = 37.3077304033
+			text = ""
+		intervals [2]:
+			xmin = 37.3077304033
+			xmax = 37.9050088462
+			text = "B"
+		intervals [3]:
+			xmin = 37.9050088462
+			xmax = 38.4763186611
+			text = ""
+		intervals [4]:
+			xmin = 38.4763186611
+			xmax = 38.7619735685
+			text = "B"
+		intervals [5]:
+			xmin = 38.7619735685
+			xmax = 39.3852206393
+			text = ""
+		intervals [6]:
+			xmin = 39.3852206393
+			xmax = 57.5892288325
+			text = "B"
+		intervals [7]:
+			xmin = 57.5892288325
+			xmax = 58.1605386474
+			text = ""
+		intervals [8]:
+			xmin = 58.1605386474
+			xmax = 63.8476681685
+			text = "B"
+		intervals [9]:
+			xmin = 63.8476681685
+			xmax = 66.0476294354
+			text = ""
+		intervals [10]:
+			xmin = 66.0476294354
+			xmax = 68.0212451596
+			text = "B"
+		intervals [11]:
+			xmin = 68.0212451596
+			xmax = 75.6869236161
+			text = ""
+		intervals [12]:
+			xmin = 75.6869236161
+			xmax = 76.5179197105
+			text = "B"
+		intervals [13]:
+			xmin = 76.5179197105
+			xmax = 76.9334177577
+			text = ""
+		intervals [14]:
+			xmin = 76.9334177577
+			xmax = 81.451959021
+			text = "B"
+		intervals [15]:
+			xmin = 81.451959021
+			xmax = 88.8765477171
+			text = ""
+		intervals [16]:
+			xmin = 88.8765477171
+			xmax = 90.0451359748
+			text = "B"
+		intervals [17]:
+			xmin = 90.0451359748
+			xmax = 100.227332445
+			text = ""
+		intervals [18]:
+			xmin = 100.227332445
+			xmax = 100.720736376
+			text = "B"
+		intervals [19]:
+			xmin = 100.720736376
+			xmax = 103.603254078
+			text = ""
+		intervals [20]:
+			xmin = 103.603254078
+			xmax = 108.069858086
+			text = "B"
+		intervals [21]:
+			xmin = 108.069858086
+			xmax = 111.560823226
+			text = ""
+		intervals [22]:
+			xmin = 111.560823226
+			xmax = 111.976321273
+			text = "B"
+		intervals [23]:
+			xmin = 111.976321273
+			xmax = 114.157686021
+			text = ""
+		intervals [24]:
+			xmin = 114.157686021
+			xmax = 118.961882191
+			text = "B"
+		intervals [25]:
+			xmin = 118.961882191
+			xmax = 121.610682242
+			text = ""
+		intervals [26]:
+			xmin = 121.610682242
+			xmax = 122.545552849
+			text = "B"
+		intervals [27]:
+			xmin = 122.545552849
+			xmax = 123.220737175
+			text = ""
+		intervals [28]:
+			xmin = 123.220737175
+			xmax = 128.907866696
+			text = "B"
+		intervals [29]:
+			xmin = 128.907866696
+			xmax = 129.764831419
+			text = ""
+		intervals [30]:
+			xmin = 129.764831419
+			xmax = 131.322949096
+			text = "B"
+		intervals [31]:
+			xmin = 131.322949096
+			xmax = 131.764415771
+			text = ""
+		intervals [32]:
+			xmin = 131.764415771
+			xmax = 134.17949817
+			text = "B"
+		intervals [33]:
+			xmin = 134.17949817
+			xmax = 138.254133861
+			text = ""
+		intervals [34]:
+			xmin = 138.254133861
+			xmax = 138.981255443
+			text = "B"
+		intervals [35]:
+			xmin = 138.981255443
+			xmax = 141.578118238
+			text = ""
+		intervals [36]:
+			xmin = 141.578118238
+			xmax = 144.174981033
+			text = "B"
+		intervals [37]:
+			xmin = 144.174981033
+			xmax = 144.694353592
+			text = ""
+		intervals [38]:
+			xmin = 144.694353592
+			xmax = 149.342737996
+			text = "B"
+		intervals [39]:
+			xmin = 149.342737996
+			xmax = 152.334118837
+			text = ""
+		intervals [40]:
+			xmin = 152.334118837
+			xmax = 153.918205142
+			text = "B"
+		intervals [41]:
+			xmin = 153.918205142
+			xmax = 156.956534612
+			text = ""
+		intervals [42]:
+			xmin = 156.956534612
+			xmax = 161.91654255
+			text = "B"
+		intervals [43]:
+			xmin = 161.91654255
+			xmax = 162.358009225
+			text = ""
+		intervals [44]:
+			xmin = 162.358009225
+			xmax = 173.965985919
+			text = "B"
+		intervals [45]:
+			xmin = 173.965985919
+			xmax = 178.419888994
+			text = ""
+		intervals [46]:
+			xmin = 178.419888994
+			xmax = 184.158955762
+			text = "B"
+		intervals [47]:
+			xmin = 184.158955762
+			xmax = 187.768595041
+			text = ""
+		intervals [48]:
+			xmin = 187.768595041
+			xmax = 188.236030343
+			text = "B"
+		intervals [49]:
+			xmin = 188.236030343
+			xmax = 188.703465646
+			text = ""
+		intervals [50]:
+			xmin = 188.703465646
+			xmax = 194.260752018
+			text = "B"
+		intervals [51]:
+			xmin = 194.260752018
+			xmax = 196.866289507
+			text = ""
+		intervals [52]:
+			xmin = 196.866289507
+			xmax = 198.8139366
+			text = "B"
+		intervals [53]:
+			xmin = 198.8139366
+			xmax = 200.320117019
+			text = ""
+		intervals [54]:
+			xmin = 200.320117019
+			xmax = 201.748391554
+			text = "B"
+		intervals [55]:
+			xmin = 201.748391554
+			xmax = 203.254571973
+			text = ""
+		intervals [56]:
+			xmin = 203.254571973
+			xmax = 205.124313182
+			text = "B"
+		intervals [57]:
+			xmin = 205.124313182
+			xmax = 212.287968452
+			text = ""
+		intervals [58]:
+			xmin = 212.287968452
+			xmax = 214.235615545
+			text = "B"
+		intervals [59]:
+			xmin = 214.235615545
+			xmax = 215.092580266
+			text = ""
+		intervals [60]:
+			xmin = 215.092580266
+			xmax = 219.63709015
+			text = "B"
+		intervals [61]:
+			xmin = 219.63709015
+			xmax = 223.413710327
+			text = ""
+		intervals [62]:
+			xmin = 223.413710327
+			xmax = 224.08889465
+			text = "B"
+		intervals [63]:
+			xmin = 224.08889465
+			xmax = 232.528698685
+			text = ""
+		intervals [64]:
+			xmin = 232.528698685
+			xmax = 233.022102614
+			text = "B"
+		intervals [65]:
+			xmin = 233.022102614
+			xmax = 236.423992856
+			text = ""
+		intervals [66]:
+			xmin = 236.423992856
+			xmax = 236.891428156
+			text = "B"
+		intervals [67]:
+			xmin = 236.891428156
+			xmax = 237.774361501
+			text = ""
+		intervals [68]:
+			xmin = 237.774361501
+			xmax = 238.345671313
+			text = "B"
+	item [2]:
+		class = "IntervalTier"
+		name = "A-turns"
+		xmin = 0.0
+		xmax = 238.345671313
+		intervals: size = 67
+		intervals [1]:
+			xmin = 0.0
+			xmax = 36.8909851994
+			text = ""
+		intervals [2]:
+			xmin = 36.8909851994
+			xmax = 37.4622950143
+			text = "A"
+		intervals [3]:
+			xmin = 37.4622950143
+			xmax = 51.173730572
+			text = ""
+		intervals [4]:
+			xmin = 51.173730572
+			xmax = 51.7969776428
+			text = "A"
+		intervals [5]:
+			xmin = 51.7969776428
+			xmax = 54.2887741851
+			text = ""
+		intervals [6]:
+			xmin = 54.2887741851
+			xmax = 54.7302408602
+			text = "A"
+		intervals [7]:
+			xmin = 54.7302408602
+			xmax = 57.7685703304
+			text = ""
+		intervals [8]:
+			xmin = 57.7685703304
+			xmax = 58.1840683776
+			text = "A"
+		intervals [9]:
+			xmin = 58.1840683776
+			xmax = 64.3386332018
+			text = ""
+		intervals [10]:
+			xmin = 64.3386332018
+			xmax = 65.6630332273
+			text = "A"
+		intervals [11]:
+			xmin = 65.6630332273
+			xmax = 67.6106803235
+			text = ""
+		intervals [12]:
+			xmin = 67.6106803235
+			xmax = 75.9985471515
+			text = "A"
+		intervals [13]:
+			xmin = 75.9985471515
+			xmax = 82.5921397531
+			text = ""
+		intervals [14]:
+			xmin = 82.5921397531
+			xmax = 85.7343437351
+			text = "A"
+		intervals [15]:
+			xmin = 85.7343437351
+			xmax = 86.3835594339
+			text = ""
+		intervals [16]:
+			xmin = 86.3835594339
+			xmax = 88.4610496699
+			text = "A"
+		intervals [17]:
+			xmin = 88.4610496699
+			xmax = 89.3959202761
+			text = ""
+		intervals [18]:
+			xmin = 89.3959202761
+			xmax = 90.0970732307
+			text = "A"
+		intervals [19]:
+			xmin = 90.0970732307
+			xmax = 90.48660265
+			text = ""
+		intervals [20]:
+			xmin = 90.48660265
+			xmax = 95.9919517755
+			text = "A"
+		intervals [21]:
+			xmin = 95.9919517755
+			xmax = 96.605332424
+			text = ""
+		intervals [22]:
+			xmin = 96.605332424
+			xmax = 99.6436618942
+			text = "A"
+		intervals [23]:
+			xmin = 99.6436618942
+			xmax = 100.734344268
+			text = ""
+		intervals [24]:
+			xmin = 100.734344268
+			xmax = 103.538956087
+			text = "A"
+		intervals [25]:
+			xmin = 103.538956087
+			xmax = 107.434250279
+			text = ""
+		intervals [26]:
+			xmin = 107.434250279
+			xmax = 114.160124918
+			text = "A"
+		intervals [27]:
+			xmin = 114.160124918
+			xmax = 119.404596023
+			text = ""
+		intervals [28]:
+			xmin = 119.404596023
+			xmax = 121.35224312
+			text = "A"
+		intervals [29]:
+			xmin = 121.35224312
+			xmax = 121.897584307
+			text = ""
+		intervals [30]:
+			xmin = 121.897584307
+			xmax = 122.936329425
+			text = "A"
+		intervals [31]:
+			xmin = 122.936329425
+			xmax = 126.338219686
+			text = ""
+		intervals [32]:
+			xmin = 126.338219686
+			xmax = 128.000211875
+			text = "A"
+		intervals [33]:
+			xmin = 128.000211875
+			xmax = 128.961051109
+			text = ""
+		intervals [34]:
+			xmin = 128.961051109
+			xmax = 129.71414132
+			text = "A"
+		intervals [35]:
+			xmin = 129.71414132
+			xmax = 135.323364957
+			text = ""
+		intervals [36]:
+			xmin = 135.323364957
+			xmax = 137.764415984
+			text = "A"
+		intervals [37]:
+			xmin = 137.764415984
+			xmax = 138.283788543
+			text = ""
+		intervals [38]:
+			xmin = 138.283788543
+			xmax = 143.062016086
+			text = "A"
+		intervals [39]:
+			xmin = 143.062016086
+			xmax = 143.78176556
+			text = ""
+		intervals [40]:
+			xmin = 143.78176556
+			xmax = 144.223232235
+			text = "A"
+		intervals [41]:
+			xmin = 144.223232235
+			xmax = 150.247953919
+			text = ""
+		intervals [42]:
+			xmin = 150.247953919
+			xmax = 152.117695132
+			text = "A"
+		intervals [43]:
+			xmin = 152.117695132
+			xmax = 152.948691226
+			text = ""
+		intervals [44]:
+			xmin = 152.948691226
+			xmax = 153.442095157
+			text = "A"
+		intervals [45]:
+			xmin = 153.442095157
+			xmax = 155.05215009
+			text = ""
+		intervals [46]:
+			xmin = 155.05215009
+			xmax = 156.454456
+			text = "A"
+		intervals [47]:
+			xmin = 156.454456
+			xmax = 158.843569771
+			text = ""
+		intervals [48]:
+			xmin = 158.843569771
+			xmax = 160.791216867
+			text = "A"
+		intervals [49]:
+			xmin = 160.791216867
+			xmax = 175.980425197
+			text = ""
+		intervals [50]:
+			xmin = 175.980425197
+			xmax = 178.005978177
+			text = "A"
+		intervals [51]:
+			xmin = 178.005978177
+			xmax = 184.394260653
+			text = ""
+		intervals [52]:
+			xmin = 184.394260653
+			xmax = 187.328715611
+			text = "A"
+		intervals [53]:
+			xmin = 187.328715611
+			xmax = 188.267327687
+			text = ""
+		intervals [54]:
+			xmin = 188.267327687
+			xmax = 189.202198293
+			text = "A"
+		intervals [55]:
+			xmin = 189.202198293
+			xmax = 195.720323909
+			text = ""
+		intervals [56]:
+			xmin = 195.720323909
+			xmax = 196.966818051
+			text = "A"
+		intervals [57]:
+			xmin = 196.966818051
+			xmax = 199.174151426
+			text = ""
+		intervals [58]:
+			xmin = 199.174151426
+			xmax = 200.057084777
+			text = "A"
+		intervals [59]:
+			xmin = 200.057084777
+			xmax = 200.940018127
+			text = ""
+		intervals [60]:
+			xmin = 200.940018127
+			xmax = 201.511327942
+			text = "A"
+		intervals [61]:
+			xmin = 201.511327942
+			xmax = 201.874888733
+			text = ""
+		intervals [62]:
+			xmin = 201.874888733
+			xmax = 202.809759339
+			text = "A"
+		intervals [63]:
+			xmin = 202.809759339
+			xmax = 206.099155824
+			text = ""
+		intervals [64]:
+			xmin = 206.099155824
+			xmax = 211.812253973
+			text = "A"
+		intervals [65]:
+			xmin = 211.812253973
+			xmax = 221.123877828
+			text = ""
+		intervals [66]:
+			xmin = 221.123877828
+			xmax = 236.133744783
+			text = "A"
+		intervals [67]:
+			xmin = 236.133744783
+			xmax = 238.345671313
+			text = ""
+	item [3]:
+		class = "IntervalTier"
+		name = "B-utts"
+		xmin = 0.0
+		xmax = 238.345671313
+		intervals: size = 82
+		intervals [1]:
+			xmin = 0.0
+			xmax = 37.3077304033
+			text = ""
+		intervals [2]:
+			xmin = 37.3077304033
+			xmax = 37.9050088462
+			text = "你 好"
+		intervals [3]:
+			xmin = 37.9050088462
+			xmax = 38.4763186611
+			text = ""
+		intervals [4]:
+			xmin = 38.4763186611
+			xmax = 38.7619735685
+			text = "{ a }"
+		intervals [5]:
+			xmin = 38.7619735685
+			xmax = 39.3852206393
+			text = ""
+		intervals [6]:
+			xmin = 39.3852206393
+			xmax = 40.060404966
+			text = "{F e : } 你 好"
+		intervals [7]:
+			xmin = 40.060404966
+			xmax = 45.5657540915
+			text = "我 是 : 安 国 的 ( fu + {F e : } 负责 边境 安全 的 工作 人员 )"
+		intervals [8]:
+			xmin = 45.5657540915
+			xmax = 49.4091110281
+			text = "这 次 由 我 来 给 你 进行 {F 这个 } 面试 .."
+		intervals [9]:
+			xmin = 49.4091110281
+			xmax = 51.3567581244
+			text = "你 的 签证 申请 的 面试 .."
+		intervals [10]:
+			xmin = 51.3567581244
+			xmax = 54.7302408602
+			text = "然后 接下来 我 会 问 一 系列 的 安全 问题 ..."
+		intervals [11]:
+			xmin = 54.7302408602
+			xmax = 54.7326797579
+			text = ""
+		intervals [12]:
+			xmin = 54.7326797579
+			xmax = 57.5892288325
+			text = "这 些 问题 { ne } 希望 你 都 可以 如实 回答"
+		intervals [13]:
+			xmin = 57.5892288325
+			xmax = 58.1605386474
+			text = ""
+		intervals [14]:
+			xmin = 58.1605386474
+			xmax = 58.6539425784
+			text = "{ en } 好"
+		intervals [15]:
+			xmin = 58.6539425784
+			xmax = 63.8476681685
+			text = "第 一 个 问题 就 是 . {F a } ( 你 : 以前 . + 你 叫 什么 名字 现在 ) ?"
+		intervals [16]:
+			xmin = 63.8476681685
+			xmax = 66.0476294354
+			text = ""
+		intervals [17]:
+			xmin = 66.0476294354
+			xmax = 68.0212451596
+			text = "以前 有 用 过 其他 的 名字 吗 ?"
+		intervals [18]:
+			xmin = 68.0212451596
+			xmax = 75.6869236161
+			text = ""
+		intervals [19]:
+			xmin = 75.6869236161
+			xmax = 76.5179197105
+			text = "<english> ok </english> 明白"
+		intervals [20]:
+			xmin = 76.5179197105
+			xmax = 76.9334177577
+			text = ""
+		intervals [21]:
+			xmin = 76.9334177577
+			xmax = 81.451959021
+			text = "{F en : } 那 你 目前 为止 是 否 有 过 ( 犯罪 行为 + 犯罪 违法 行为 ) ?"
+		intervals [22]:
+			xmin = 81.451959021
+			xmax = 88.8765477171
+			text = ""
+		intervals [23]:
+			xmin = 88.8765477171
+			xmax = 90.0451359748
+			text = "{ ang } 是 什么 事儿 呢 ?"
+		intervals [24]:
+			xmin = 90.0451359748
+			xmax = 100.227332445
+			text = ""
+		intervals [25]:
+			xmin = 100.227332445
+			xmax = 100.720736376
+			text = "{BC ang }"
+		intervals [26]:
+			xmin = 100.720736376
+			xmax = 103.603254078
+			text = ""
+		intervals [27]:
+			xmin = 103.603254078
+			xmax = 105.99236785
+			text = "所以 是 . 具体 是 出 了 什么 样 的 问题 呢 ?"
+		intervals [28]:
+			xmin = 105.99236785
+			xmax = 108.069858086
+			text = "是 你 最后 是 带 了 还是 没 带 ?"
+		intervals [29]:
+			xmin = 108.069858086
+			xmax = 111.560823226
+			text = ""
+		intervals [30]:
+			xmin = 111.560823226
+			xmax = 111.976321273
+			text = "{BC em }"
+		intervals [31]:
+			xmin = 111.976321273
+			xmax = 114.157686021
+			text = ""
+		intervals [32]:
+			xmin = 114.157686021
+			xmax = 118.961882191
+			text = "那 所以 是 把 你 叫停 了 吗 还是 .. 已经 及时 阻止 你 了 还是 你 已经 带 了 ?"
+		intervals [33]:
+			xmin = 118.961882191
+			xmax = 121.610682242
+			text = ""
+		intervals [34]:
+			xmin = 121.610682242
+			xmax = 122.545552849
+			text = "{ a } ( 那 就 + )"
+		intervals [35]:
+			xmin = 122.545552849
+			xmax = 123.220737175
+			text = ""
+		intervals [36]:
+			xmin = 123.220737175
+			xmax = 126.388909785
+			text = "{F a } 所以 说 这 个 就 是 : 被 阻止 了 .."
+		intervals [37]:
+			xmin = 126.388909785
+			xmax = 128.907866696
+			text = "然后 .. ( 还 没有 + 没有 ) 完成"
+		intervals [38]:
+			xmin = 128.907866696
+			xmax = 129.764831419
+			text = ""
+		intervals [39]:
+			xmin = 129.764831419
+			xmax = 131.322949096
+			text = "{ a } <english> ok </english> 明白 了"
+		intervals [40]:
+			xmin = 131.322949096
+			xmax = 131.764415771
+			text = ""
+		intervals [41]:
+			xmin = 131.764415771
+			xmax = 134.17949817
+			text = "{F a } { 那 : } 你 结 过 几 次 婚 ?"
+		intervals [42]:
+			xmin = 134.17949817
+			xmax = 138.254133861
+			text = ""
+		intervals [43]:
+			xmin = 138.254133861
+			xmax = 138.981255443
+			text = "一 次 婚 ?"
+		intervals [44]:
+			xmin = 138.981255443
+			xmax = 141.578118238
+			text = ""
+		intervals [45]:
+			xmin = 141.578118238
+			xmax = 143.240110427
+			text = "<english> ok ok </english>"
+		intervals [46]:
+			xmin = 143.240110427
+			xmax = 144.174981033
+			text = "<laughter> 明白 了  </laughter>"
+		intervals [47]:
+			xmin = 144.174981033
+			xmax = 144.694353592
+			text = ""
+		intervals [48]:
+			xmin = 144.694353592
+			xmax = 149.342737996
+			text = "{F en : } ( 那 + 那 : ) ... {F e : } 是 否 有 子女 ?"
+		intervals [49]:
+			xmin = 149.342737996
+			xmax = 152.334118837
+			text = ""
+		intervals [50]:
+			xmin = 152.334118837
+			xmax = 152.93139728
+			text = "{ a }"
+		intervals [51]:
+			xmin = 152.93139728
+			xmax = 153.918205142
+			text = "有 几 个 呢 ?"
+		intervals [52]:
+			xmin = 153.918205142
+			xmax = 156.956534612
+			text = ""
+		intervals [53]:
+			xmin = 156.956534612
+			xmax = 158.843569771
+			text = "{F e } 因为 现在 是 公 事 公 办 嘛"
+		intervals [54]:
+			xmin = 158.843569771
+			xmax = 158.852244452
+			text = ""
+		intervals [55]:
+			xmin = 158.852244452
+			xmax = 161.085546456
+			text = "就 我 问 的 问题 你 得 说"
+		intervals [56]:
+			xmin = 161.085546456
+			xmax = 161.91654255
+			text = "<english> ok </english> 一 个"
+		intervals [57]:
+			xmin = 161.91654255
+			xmax = 162.358009225
+			text = ""
+		intervals [58]:
+			xmin = 162.358009225
+			xmax = 173.965985919
+			text = "{F e : } 那么 在 : ( 0 + {F e } 98 年 到 03 年 之间 . ) 你 在 : 你 自己 的 所在 国 有 没有 . 注册 过 : 居住 的 . 地址 什么 的 ?"
+		intervals [59]:
+			xmin = 173.965985919
+			xmax = 178.419888994
+			text = ""
+		intervals [60]:
+			xmin = 178.419888994
+			xmax = 184.158955762
+			text = "就 是 你 在 : 你 自己 国家 ( 有 没有 自己 的 .. + 注册 过 自己 的 房子 啊 居住 地址 啊 ) ?"
+		intervals [61]:
+			xmin = 184.158955762
+			xmax = 187.768595041
+			text = ""
+		intervals [62]:
+			xmin = 187.768595041
+			xmax = 188.236030343
+			text = "{ ang : }"
+		intervals [63]:
+			xmin = 188.236030343
+			xmax = 188.703465646
+			text = ""
+		intervals [64]:
+			xmin = 188.703465646
+			xmax = 194.260752018
+			text = "{F en : } 那 这 段 时间 你 是 在 自己 的 国家 ... 还是 在 别 的 地方 ?"
+		intervals [65]:
+			xmin = 194.260752018
+			xmax = 196.866289507
+			text = ""
+		intervals [66]:
+			xmin = 196.866289507
+			xmax = 198.8139366
+			text = "就 是 98 年 到 03 年 之间"
+		intervals [67]:
+			xmin = 198.8139366
+			xmax = 200.320117019
+			text = ""
+		intervals [68]:
+			xmin = 200.320117019
+			xmax = 201.748391554
+			text = "然后 在 你 的 国家 干 什么 ?"
+		intervals [69]:
+			xmin = 201.748391554
+			xmax = 203.254571973
+			text = ""
+		intervals [70]:
+			xmin = 203.254571973
+			xmax = 205.124313182
+			text = "是 什么 类型 的 工作 ?"
+		intervals [71]:
+			xmin = 205.124313182
+			xmax = 212.287968452
+			text = ""
+		intervals [72]:
+			xmin = 212.287968452
+			xmax = 214.235615545
+			text = "{ a } . 销售 . <english> ok </english>"
+		intervals [73]:
+			xmin = 214.235615545
+			xmax = 215.092580266
+			text = ""
+		intervals [74]:
+			xmin = 215.092580266
+			xmax = 219.63709015
+			text = "{F e : } 那 你 现在 有 没有 随身 携带 一些 生物 物品 ?"
+		intervals [75]:
+			xmin = 219.63709015
+			xmax = 223.413710327
+			text = ""
+		intervals [76]:
+			xmin = 223.413710327
+			xmax = 224.08889465
+			text = "蘑菇 ?"
+		intervals [77]:
+			xmin = 224.08889465
+			xmax = 232.528698685
+			text = ""
+		intervals [78]:
+			xmin = 232.528698685
+			xmax = 233.022102614
+			text = "{BC ang }"
+		intervals [79]:
+			xmin = 233.022102614
+			xmax = 236.423992856
+			text = ""
+		intervals [80]:
+			xmin = 236.423992856
+			xmax = 236.891428156
+			text = "<english> ok </english>"
+		intervals [81]:
+			xmin = 236.891428156
+			xmax = 237.774361501
+			text = ""
+		intervals [82]:
+			xmin = 237.774361501
+			xmax = 238.345671313
+			text = "行"
+	item [4]:
+		class = "IntervalTier"
+		name = "B-laughter"
+		xmin = 0.0
+		xmax = 238.345671313
+		intervals: size = 5
+		intervals [1]:
+			xmin = 0.0
+			xmax = 143.240110427
+			text = ""
+		intervals [2]:
+			xmin = 143.240110427
+			xmax = 144.174981033
+			text = "ls"
+		intervals [3]:
+			xmin = 144.174981033
+			xmax = 216.115583333
+			text = ""
+		intervals [4]:
+			xmin = 216.115583333
+			xmax = 219.63709015
+			text = ""
+		intervals [5]:
+			xmin = 219.63709015
+			xmax = 238.345671313
+			text = ""
+	item [5]:
+		class = "IntervalTier"
+		name = "A-laughter"
+		xmin = 0.0
+		xmax = 238.345671313
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0.0
+			xmax = 142.282957248
+			text = ""
+		intervals [2]:
+			xmin = 142.282957248
+			xmax = 143.062016086
+			text = "l"
+		intervals [3]:
+			xmin = 143.062016086
+			xmax = 222.188591574
+			text = ""
+		intervals [4]:
+			xmin = 222.188591574
+			xmax = 222.604089621
+			text = "ls"
+		intervals [5]:
+			xmin = 222.604089621
+			xmax = 224.084301414
+			text = "l"
+		intervals [6]:
+			xmin = 224.084301414
+			xmax = 226.603258325
+			text = ""
+		intervals [7]:
+			xmin = 226.603258325
+			xmax = 227.797815211
+			text = "ls"
+		intervals [8]:
+			xmin = 227.797815211
+			xmax = 231.35551724
+			text = ""
+		intervals [9]:
+			xmin = 231.35551724
+			xmax = 232.108607451
+			text = "ls"
+		intervals [10]:
+			xmin = 232.108607451
+			xmax = 238.345671313
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "A-utts"
+		xmin = 0.0
+		xmax = 238.345671313
+		intervals: size = 82
+		intervals [1]:
+			xmin = 0.0
+			xmax = 36.8909851994
+			text = ""
+		intervals [2]:
+			xmin = 36.8909851994
+			xmax = 37.4622950143
+			text = "你 好"
+		intervals [3]:
+			xmin = 37.4622950143
+			xmax = 51.173730572
+			text = ""
+		intervals [4]:
+			xmin = 51.173730572
+			xmax = 51.7969776428
+			text = "{BC em }"
+		intervals [5]:
+			xmin = 51.7969776428
+			xmax = 54.2887741851
+			text = ""
+		intervals [6]:
+			xmin = 54.2887741851
+			xmax = 54.7302408602
+			text = "行"
+		intervals [7]:
+			xmin = 54.7302408602
+			xmax = 57.7685703304
+			text = ""
+		intervals [8]:
+			xmin = 57.7685703304
+			xmax = 58.1840683776
+			text = "好"
+		intervals [9]:
+			xmin = 58.1840683776
+			xmax = 64.3386332018
+			text = ""
+		intervals [10]:
+			xmin = 64.3386332018
+			xmax = 65.6630332273
+			text = "我 叫 <name>[NAME]</name>"
+		intervals [11]:
+			xmin = 65.6630332273
+			xmax = 67.6106803235
+			text = ""
+		intervals [12]:
+			xmin = 67.6106803235
+			xmax = 69.480421536
+			text = "以前 是 叫 张小明"
+		intervals [13]:
+			xmin = 69.480421536
+			xmax = 74.674147126
+			text = "我 觉得 它 <nv type='teeth sucking'/> {F e : } .. ( 不 太 ... + 不 太 有 特色 )"
+		intervals [14]:
+			xmin = 74.674147126
+			xmax = 75.9985471515
+			text = "然后 我 就 换 了 一 个"
+		intervals [15]:
+			xmin = 75.9985471515
+			xmax = 82.5921397531
+			text = ""
+		intervals [16]:
+			xmin = 82.5921397531
+			xmax = 85.7343437351
+			text = "{F e } 我 自己 认为 . 我 没 有 犯罪 行为"
+		intervals [17]:
+			xmin = 85.7343437351
+			xmax = 86.3835594339
+			text = ""
+		intervals [18]:
+			xmin = 86.3835594339
+			xmax = 88.4610496699
+			text = "但是 之前 吧 有 一 个 事儿"
+		intervals [19]:
+			xmin = 88.4610496699
+			xmax = 89.3959202761
+			text = ""
+		intervals [20]:
+			xmin = 89.3959202761
+			xmax = 90.0970732307
+			text = "{F e : }"
+		intervals [21]:
+			xmin = 90.0970732307
+			xmax = 90.48660265
+			text = ""
+		intervals [22]:
+			xmin = 90.48660265
+			xmax = 93.9565323731
+			text = "就 是 ( 我 ... + {F e } 我 ) 带 了 些 药品 ( 去 + )"
+		intervals [23]:
+			xmin = 93.9565323731
+			xmax = 95.9919517755
+			text = "有 一 个 朋友 他 特别 需要 这 些 药品"
+		intervals [24]:
+			xmin = 95.9919517755
+			xmax = 96.605332424
+			text = ""
+		intervals [25]:
+			xmin = 96.605332424
+			xmax = 99.6436618942
+			text = "然后 . 但是 我 给 他 带 过去 的 时候 我 没有 申报"
+		intervals [26]:
+			xmin = 99.6436618942
+			xmax = 100.734344268
+			text = ""
+		intervals [27]:
+			xmin = 100.734344268
+			xmax = 103.538956087
+			text = "然后 就 .. 因为 这 个 事儿 出 了 一些 问题"
+		intervals [28]:
+			xmin = 103.538956087
+			xmax = 107.434250279
+			text = ""
+		intervals [29]:
+			xmin = 107.434250279
+			xmax = 111.719073891
+			text = "就 是 .. 我 被 官方 认为 是 .. 不 合法 的 .."
+		intervals [30]:
+			xmin = 111.719073891
+			xmax = 114.160124918
+			text = "但是 我 自己 觉得 .. 没 有 什么 问题"
+		intervals [31]:
+			xmin = 114.160124918
+			xmax = 119.404596023
+			text = ""
+		intervals [32]:
+			xmin = 119.404596023
+			xmax = 121.35224312
+			text = "那 他 觉得 有 问题 当然 阻止 我 了"
+		intervals [33]:
+			xmin = 121.35224312
+			xmax = 121.897584307
+			text = ""
+		intervals [34]:
+			xmin = 121.897584307
+			xmax = 122.936329425
+			text = "{F e} 没有 通过"
+		intervals [35]:
+			xmin = 122.936329425
+			xmax = 126.338219686
+			text = ""
+		intervals [36]:
+			xmin = 126.338219686
+			xmax = 128.000211875
+			text = "{ 就 } 你 可以 认为 是"
+		intervals [37]:
+			xmin = 128.000211875
+			xmax = 128.961051109
+			text = ""
+		intervals [38]:
+			xmin = 128.961051109
+			xmax = 129.71414132
+			text = "{ en } 没有 完成"
+		intervals [39]:
+			xmin = 129.71414132
+			xmax = 135.323364957
+			text = ""
+		intervals [40]:
+			xmin = 135.323364957
+			xmax = 137.764415984
+			text = "我 结 过 : .. 一 次"
+		intervals [41]:
+			xmin = 137.764415984
+			xmax = 138.283788543
+			text = ""
+		intervals [42]:
+			xmin = 138.283788543
+			xmax = 142.282957248
+			text = "( 就 跟 ... + 就 跟 你 ... ) 那 个"
+		intervals [43]:
+			xmin = 142.282957248
+			xmax = 143.062016086
+			text = "<laughter/>"
+		intervals [44]:
+			xmin = 143.062016086
+			xmax = 143.78176556
+			text = ""
+		intervals [45]:
+			xmin = 143.78176556
+			xmax = 144.223232235
+			text = "{BC em }"
+		intervals [46]:
+			xmin = 144.223232235
+			xmax = 150.247953919
+			text = ""
+		intervals [47]:
+			xmin = 150.247953919
+			xmax = 152.117695132
+			text = "{F e } 就 我们 现在 的 孩子 啊"
+		intervals [48]:
+			xmin = 152.117695132
+			xmax = 152.948691226
+			text = ""
+		intervals [49]:
+			xmin = 152.948691226
+			xmax = 153.442095157
+			text = "{BC em }"
+		intervals [50]:
+			xmin = 153.442095157
+			xmax = 155.05215009
+			text = ""
+		intervals [51]:
+			xmin = 155.05215009
+			xmax = 156.454456
+			text = "你 知道 啊 你 还 问 我"
+		intervals [52]:
+			xmin = 156.454456
+			xmax = 158.843569771
+			text = ""
+		intervals [53]:
+			xmin = 158.843569771
+			xmax = 159.388910958
+			text = "<english> ok </english> ."
+		intervals [54]:
+			xmin = 159.388910958
+			xmax = 160.791216867
+			text = "一 个 一 个 { en } 一 个"
+		intervals [55]:
+			xmin = 160.791216867
+			xmax = 175.980425197
+			text = ""
+		intervals [56]:
+			xmin = 175.980425197
+			xmax = 176.551735012
+			text = "注册 过 ?"
+		intervals [57]:
+			xmin = 176.551735012
+			xmax = 177.512574246
+			text = "什么 意思 ?"
+		intervals [58]:
+			xmin = 177.512574246
+			xmax = 178.005978177
+			text = "没 明白"
+		intervals [59]:
+			xmin = 178.005978177
+			xmax = 184.394260653
+			text = ""
+		intervals [60]:
+			xmin = 184.394260653
+			xmax = 185.303162631
+			text = "有 啊 .."
+		intervals [61]:
+			xmin = 185.303162631
+			xmax = 187.328715611
+			text = "我 在 自己 的 家 ( <v='yi'> 有 </v> + 我 有 ) 自己 的 房子 啊"
+		intervals [62]:
+			xmin = 187.328715611
+			xmax = 188.267327687
+			text = ""
+		intervals [63]:
+			xmin = 188.267327687
+			xmax = 189.202198293
+			text = "{F en } 有 :"
+		intervals [64]:
+			xmin = 189.202198293
+			xmax = 195.720323909
+			text = ""
+		intervals [65]:
+			xmin = 195.720323909
+			xmax = 196.966818051
+			text = "这 段 时间 是 指 ?"
+		intervals [66]:
+			xmin = 196.966818051
+			xmax = 199.174151426
+			text = ""
+		intervals [67]:
+			xmin = 199.174151426
+			xmax = 200.057084777
+			text = "在 我 的 国家 ?"
+		intervals [68]:
+			xmin = 200.057084777
+			xmax = 200.940018127
+			text = ""
+		intervals [69]:
+			xmin = 200.940018127
+			xmax = 201.511327942
+			text = "{BC em }"
+		intervals [70]:
+			xmin = 201.511327942
+			xmax = 201.874888733
+			text = ""
+		intervals [71]:
+			xmin = 201.874888733
+			xmax = 202.809759339
+			text = "就 是 工作 啊"
+		intervals [72]:
+			xmin = 202.809759339
+			xmax = 206.099155824
+			text = ""
+		intervals [73]:
+			xmin = 206.099155824
+			xmax = 207.085963686
+			text = "{F e : }"
+		intervals [74]:
+			xmin = 207.085963686
+			xmax = 211.812253973
+			text = "我 是 {F 那个 } . 在 一 家 公司 做 {F 那个 } .. 销售"
+		intervals [75]:
+			xmin = 211.812253973
+			xmax = 221.123877828
+			text = ""
+		intervals [76]:
+			xmin = 221.123877828
+			xmax = 222.604089621
+			text = "我 想 带 一些 <laughter> 蘑菇 </laughter>"
+		intervals [77]:
+			xmin = 222.604089621
+			xmax = 224.084301414
+			text = "<laughter/>"
+		intervals [78]:
+			xmin = 224.084301414
+			xmax = 226.135823022
+			text = "{F e } 因为 我 比较 . 喜欢 蘑菇 ."
+		intervals [79]:
+			xmin = 226.135823022
+			xmax = 232.602011382
+			text = "然后 . ( <laughter> 那 边 的 蘑菇 </laughter> + 那 边 的 蘑菇 ) 的 品种 跟 . 我们 国家 的 <laughter> 不 太 一样 </laughter> .."
+		intervals [80]:
+			xmin = 232.602011382
+			xmax = 233.874474151
+			text = "然后 . 它 也 没有"
+		intervals [81]:
+			xmin = 233.874474151
+			xmax = 236.133744783
+			text = "所以 我 就 . 打算 带 一些 过去 自己 种"
+		intervals [82]:
+			xmin = 236.133744783
+			xmax = 238.345671313
+			text = ""
