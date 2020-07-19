@@ -2563,7 +2563,7 @@ item []:
 		intervals [37]:
 			xmin = 170.290803153
 			xmax = 172.991540459
-			text = "所以 我 的 原 : 名 是 <name>[NAME]</name>"
+			text = "所以 我 的 原 : 名 是 <name> 张小文 </name>"
 		intervals [38]:
 			xmin = 172.991540459
 			xmax = 173.188176755
@@ -2587,11 +2587,11 @@ item []:
 		intervals [43]:
 			xmin = 177.239282715
 			xmax = 178.641588624
-			text = "后来 就 叫 <name>[NAME]</name>"
+			text = "后来 就 叫 <name> 张明 </name>"
 		intervals [44]:
 			xmin = 178.641588624
 			xmax = 179.524521975
-			text = "就 <name>[NAME]</name>"
+			text = "就 <name> 张文 </name>"
 		intervals [45]:
 			xmin = 179.524521975
 			xmax = 181.73185535
@@ -4345,7 +4345,7 @@ item []:
 		intervals [14]:
 			xmin = 116.130060696
 			xmax = 117.324617582
-			text = "叫 <name>[NAME]</name> 吧"
+			text = "叫 <name> 刘强 </name> 吧"
 		intervals [15]:
 			xmin = 117.324617582
 			xmax = 117.402523465
@@ -4501,7 +4501,7 @@ item []:
 		intervals [53]:
 			xmin = 173.162216522
 			xmax = 176.200545992
-			text = "{啊 } 怪不得 爸 有的时候 会 叫 <name>[NAME]</name>  <name>[NAME]</name>"
+			text = "{啊 } 怪不得 爸 有的时候 会 叫 <name> 小文 </name>  <name> 小文 </name>"
 		intervals [54]:
 			xmin = 176.200545992
 			xmax = 177.281363362

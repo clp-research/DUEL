@@ -2325,7 +2325,7 @@ item []:
 		intervals [2]:
 			xmin = 63.3812483734
 			xmax = 64.0668253968
-			text = "{诶 } <name>[NAME]</name> 啊"
+			text = "{诶 } <name> 小丽 </name> 啊"
 		intervals [3]:
 			xmin = 64.0668253968
 			xmax = 64.811292517
@@ -2641,7 +2641,7 @@ item []:
 		intervals [81]:
 			xmin = 155.003204415
 			xmax = 157.709387755
-			text = "<nv type='breathing'/> {F 呃 } 护照 上 嘛 就 <name>[NAME]</name>"
+			text = "<nv type='breathing'/> {F 呃 } 护照 上 嘛 就 <name> 张文 </name>"
 		intervals [82]:
 			xmin = 157.709387755
 			xmax = 158.189478458
@@ -2649,7 +2649,7 @@ item []:
 		intervals [83]:
 			xmin = 158.189478458
 			xmax = 161.126802721
-			text = "那 以前 呢 : 小时候 叫 <name>[NAME]</name>"
+			text = "那 以前 呢 : 小时候 叫 <name> 张小明 </name>"
 		intervals [84]:
 			xmin = 161.126802721
 			xmax = 162.849909297
@@ -4423,7 +4423,7 @@ item []:
 		intervals [59]:
 			xmin = 163.369406403
 			xmax = 166.783174603
-			text = "{ 啊 } 就是说 {F 那 } {F 呃 } 你的 曾用名 是 : <name>[NAME]</name> {吭 }"
+			text = "{ 啊 } 就是说 {F 那 } {F 呃 } 你的 曾用名 是 : <name> 张晓明 </name> {吭 }"
 		intervals [60]:
 			xmin = 166.783174603
 			xmax = 167.805298649

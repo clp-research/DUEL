@@ -2193,7 +2193,7 @@ item []:
 		intervals [228]:
 			xmin = 523.090020426
 			xmax = 526.462254646
-			text = "是 {F 呃 :  }  <name>[NAME]</name> 同学 第一  次  到 英国 的  时候"
+			text = "是 {F 呃 :  }  <name> 小诗 </name> 同学 第一  次  到 英国 的  时候"
 		intervals [229]:
 			xmin = 526.462254646
 			xmax = 527.326215479
@@ -2329,7 +2329,7 @@ item []:
 		intervals [262]:
 			xmin = 594.801580082
 			xmax = 598.675468979
-			text = "然后  后来 <name>[NAME]<v='小诗'>  小明   </v> </name>  同学  就 . 决定 去  坐 {F 那个 } 地铁 转  公交车"
+			text = "然后  后来 <name>  <v='小诗'>  小明   </v> </name>  同学  就 . 决定 去  坐 {F 那个 } 地铁 转  公交车"
 		intervals [263]:
 			xmin = 598.675468979
 			xmax = 602.321103286
@@ -3575,7 +3575,7 @@ item []:
 		intervals [2]:
 			xmin = 15.6071185299
 			xmax = 16.3596018245
-			text = "<name>[NAME]</name>"
+			text = "<name> 小诗 : </name>"
 		intervals [3]:
 			xmin = 16.3596018245
 			xmax = 17.4246651009
@@ -3583,7 +3583,7 @@ item []:
 		intervals [4]:
 			xmin = 17.4246651009
 			xmax = 18.2328877958
-			text = "<name>[NAME]</name>"
+			text = "<name>小诗</name>"
 		intervals [5]:
 			xmin = 18.2328877958
 			xmax = 20.4067281478
@@ -3599,7 +3599,7 @@ item []:
 		intervals [8]:
 			xmin = 21.3821693314
 			xmax = 31.2278628354
-			text = "( <name>[NAME]</name>  + <name>[NAME]</name> ) 有 一 天 : {F 嗯 :  }  ( 他 : +  )  { tze }  (  { 对 }  + { 对 } )  他 看 到 楼 下 (  贴 一  个 + 贴 一 个 ) 海报"
+			text = "( <name> 小诗 : </name>  + <name> 小诗 </name> ) 有 一 天 : {F 嗯 :  }  ( 他 : +  )  { tze }  (  { 对 }  + { 对 } )  他 看 到 楼 下 (  贴 一  个 + 贴 一 个 ) 海报"
 		intervals [9]:
 			xmin = 31.2278628354
 			xmax = 35.1296274592
