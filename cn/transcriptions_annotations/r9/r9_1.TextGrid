@@ -1215,7 +1215,7 @@ item []:
 		intervals [3]:
 			xmin = 15.9616697296
 			xmax = 16.8973483854
-			text = "<name>[NAME]</name> <laughter> 你好 </laughter>"
+			text = "<name> 红红 </name> <laughter> 你好 </laughter>"
 		intervals [4]:
 			xmin = 16.8973483854
 			xmax = 17.6770805986
@@ -1619,7 +1619,7 @@ item []:
 		intervals [104]:
 			xmin = 225.246836176
 			xmax = 232.060513032
-			text = "( 不 + 我 是 + 我 是 觉得 现在 我们 不是 还 有 一 个 + {F 就是}  {F 嗯 } 因为 现在 的 卫生间 很 大  嘛 )"
+			text = "( 不 + ( 我 是 + ( 我 是 觉得 现在 我们 不是 还 有 一 个 + {F 就是}  {F 嗯 } 因为 现在 的 卫生间 很 大  嘛 ) ) )"
 		intervals [105]:
 			xmin = 232.060513032
 			xmax = 236.582958995
@@ -1647,7 +1647,7 @@ item []:
 		intervals [111]:
 			xmin = 243.9592231
 			xmax = 246.454365642
-			text = "( 那 + 那 +  那 ) <name>[NAME]</name> 肯定 不 会 同意  的 ho ?"
+			text = "( 那 + ( 那 +  那 ) ) <name> 田叶 </name> 肯定 不 会 同意  的 ho ?"
 		intervals [112]:
 			xmin = 246.454365642
 			xmax = 247.857883322
@@ -1891,7 +1891,7 @@ item []:
 		intervals [172]:
 			xmin = 366.930738617
 			xmax = 370.556492203
-			text = "特别 是 <name>[NAME]</name> ( 容易 在 沙发 + 喜欢 在 沙发 ) 上 吃 泡面"
+			text = "特别 是 <name> 田叶 </name> ( 容易 在 沙发 + 喜欢 在 沙发 ) 上 吃 泡面"
 		intervals [173]:
 			xmin = 370.556492203
 			xmax = 374.090212318
@@ -2355,7 +2355,7 @@ item []:
 		intervals [288]:
 			xmin = 652.199003498
 			xmax = 653.524547682
-			text = "{F 呃 } <name>[NAME]</name> 你 <laughter> 好 厉害 </laughter>"
+			text = "{F 呃 } <name> 红红 </name> 你 <laughter> 好 厉害 </laughter>"
 		intervals [289]:
 			xmin = 653.524547682
 			xmax = 662.595428469
@@ -3225,7 +3225,7 @@ item []:
 		intervals [83]:
 			xmin = 172.664098204
 			xmax = 175.791729871
-			text = "( 从 {F 这个 } + 从 哪  一  + 就 从 浴室 ) 着手"
+			text = "( 从 {F 这个 } + ( 从 哪  一  + 就 从 浴室 ) ) 着手"
 		intervals [84]:
 			xmin = 175.791729871
 			xmax = 176.171923629
@@ -3241,7 +3241,7 @@ item []:
 		intervals [87]:
 			xmin = 181.79746219
 			xmax = 183.689704949
-			text = "( 那 +  那 + 那 ) ( 怎 + 我们 该 怎么 办 呢 ? )"
+			text = "( 那 + ( 那 + 那 ) ) ( 怎 + 我们 该 怎么 办 呢 ? )"
 		intervals [88]:
 			xmin = 183.689704949
 			xmax = 185.640888008
@@ -3773,7 +3773,7 @@ item []:
 		intervals [220]:
 			xmin = 464.775513029
 			xmax = 470.85861273
-			text = "所以 是  {F 呃 : } {F 就是 }  ( 坐 北 朝 +  坐 南 朝 北  +  坐 北 朝 南  )"
+			text = "所以 是  {F 呃 : } {F 就是 }  ( 坐 北 朝 +  ( 坐 南 朝 北  +  坐 北 朝 南 ) )"
 		intervals [221]:
 			xmin = 470.85861273
 			xmax = 472.83848952
@@ -3809,7 +3809,7 @@ item []:
 		intervals [229]:
 			xmin = 482.792169053
 			xmax = 484.556841843
-			text = "那  <name>[NAME]</name> 那 个  房间 呢"
+			text = "那  <name> 田叶 </name> 那 个  房间 呢"
 		intervals [230]:
 			xmin = 484.556841843
 			xmax = 487.234391808
@@ -3845,7 +3845,7 @@ item []:
 		intervals [238]:
 			xmin = 494.978184846
 			xmax = 497.833224564
-			text = "你说  . <name>[NAME]</name> 那 个  房间 格局 好"
+			text = "你说  . <name> 田叶 </name> 那 个  房间 格局 好"
 		intervals [239]:
 			xmin = 497.833224564
 			xmax = 497.976693896

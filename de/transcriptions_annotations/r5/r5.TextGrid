@@ -3076,6 +3076,332 @@ item []:
 			text = ""
 	item [5]:
 		class = "IntervalTier"
+		name = "A-laughter"
+		xmin = 0.0
+		xmax = 1616.12097911
+		intervals: size = 40
+		intervals [1]:
+			xmin = 0.0
+			xmax = 724.701360779
+			text = ""
+		intervals [2]:
+			xmin = 724.701360779
+			xmax = 726.181572572
+			text = "<laughter/>"
+		intervals [3]:
+			xmin = 726.181572572
+			xmax = 766.32356819
+			text = ""
+		intervals [4]:
+			xmin = 766.32356819
+			xmax = 767.61394595
+			text = "<laughter> großen Probleme </laughter>"
+		intervals [5]:
+			xmin = 767.61394595
+			xmax = 768.016688947
+			text = "<laughterOffset/>"
+		intervals [6]:
+			xmin = 768.016688947
+			xmax = 819.291301326
+			text = ""
+		intervals [7]:
+			xmin = 819.291301326
+			xmax = 820.385317253
+			text = "<laughter/>"
+		intervals [8]:
+			xmin = 820.385317253
+			xmax = 820.708024027
+			text = "<laughterOffset/>"
+		intervals [9]:
+			xmin = 820.708024027
+			xmax = 901.541013304
+			text = ""
+		intervals [10]:
+			xmin = 901.541013304
+			xmax = 902.289915453
+			text = "<laughter/>"
+		intervals [11]:
+			xmin = 902.289915453
+			xmax = 902.682639119
+			text = "<laughterOffset/>"
+		intervals [12]:
+			xmin = 902.682639119
+			xmax = 946.169073658
+			text = ""
+		intervals [13]:
+			xmin = 946.169073658
+			xmax = 946.95452099
+			text = "<laughter/>"
+		intervals [14]:
+			xmin = 946.95452099
+			xmax = 963.307711079
+			text = ""
+		intervals [15]:
+			xmin = 963.307711079
+			xmax = 964.943734639
+			text = "<laughter/>"
+		intervals [16]:
+			xmin = 964.943734639
+			xmax = 1025.37571381
+			text = ""
+		intervals [17]:
+			xmin = 1025.37571381
+			xmax = 1026.93096066
+			text = "<laughter/>"
+		intervals [18]:
+			xmin = 1026.93096066
+			xmax = 1052.6321111
+			text = ""
+		intervals [19]:
+			xmin = 1052.6321111
+			xmax = 1054.99525625
+			text = "<laughter/>"
+		intervals [20]:
+			xmin = 1054.99525625
+			xmax = 1172.04348887
+			text = ""
+		intervals [21]:
+			xmin = 1172.04348887
+			xmax = 1173.58429413
+			text = "<laughter/>"
+		intervals [22]:
+			xmin = 1173.58429413
+			xmax = 1175.09913076
+			text = ""
+		intervals [23]:
+			xmin = 1175.09913076
+			xmax = 1176.56203013
+			text = "<laughter/>"
+		intervals [24]:
+			xmin = 1176.56203013
+			xmax = 1242.855375
+			text = ""
+		intervals [25]:
+			xmin = 1242.855375
+			xmax = 1246.18157257
+			text = "<laughter> vor die man dann ansprechen kann </laughter>"
+		intervals [26]:
+			xmin = 1246.18157257
+			xmax = 1361.31512034
+			text = ""
+		intervals [27]:
+			xmin = 1361.31512034
+			xmax = 1363.40292938
+			text = "<laughter/>"
+		intervals [28]:
+			xmin = 1363.40292938
+			xmax = 1436.0954264
+			text = ""
+		intervals [29]:
+			xmin = 1436.0954264
+			xmax = 1437.65995177
+			text = "<laughter/>"
+		intervals [30]:
+			xmin = 1437.65995177
+			xmax = 1495.9700514
+			text = ""
+		intervals [31]:
+			xmin = 1495.9700514
+			xmax = 1497.84951466
+			text = "<laughter> und der Rest kommt dann </laughter>"
+		intervals [32]:
+			xmin = 1497.84951466
+			xmax = 1498.18613495
+			text = "<laughterOffset/>"
+		intervals [33]:
+			xmin = 1498.18613495
+			xmax = 1560.04265784
+			text = ""
+		intervals [34]:
+			xmin = 1560.04265784
+			xmax = 1563.55173296
+			text = "<laughter> Gut </laughter>"
+		intervals [35]:
+			xmin = 1563.55173296
+			xmax = 1564.21661333
+			text = "<laughter>Offset/>"
+		intervals [36]:
+			xmin = 1564.21661333
+			xmax = 1577.12875113
+			text = ""
+		intervals [37]:
+			xmin = 1577.12875113
+			xmax = 1579.28873129
+			text = "<laughter> schön </laughter>"
+		intervals [38]:
+			xmin = 1579.28873129
+			xmax = 1594.1034896
+			text = ""
+		intervals [39]:
+			xmin = 1594.1034896
+			xmax = 1596.41570614
+			text = "<laughter> sicherlich <v=""irgendetwas"">irgendwas</v> erfinden </laughter>"
+		intervals [40]:
+			xmin = 1596.41570614
+			xmax = 1616.12097911
+			text = ""
+	item [6]:
+		class = "IntervalTier"
+		name = "Part"
+		xmin = 0.0
+		xmax = 1616.12097911
+		intervals: size = 2
+		intervals [1]:
+			xmin = 0.0
+			xmax = 722.937994924
+			text = ""
+		intervals [2]:
+			xmin = 722.937994924
+			xmax = 1616.12097911
+			text = "dream_apartment"
+	item [7]:
+		class = "IntervalTier"
+		name = "Comments"
+		xmin = 0.0
+		xmax = 1616.12097911
+		intervals: size = 35
+		intervals [1]:
+			xmin = 0.0
+			xmax = 726.96538773
+			text = ""
+		intervals [2]:
+			xmin = 726.96538773
+			xmax = 727.631691115
+			text = "An exclamation {X Eijeijeijei}"
+		intervals [3]:
+			xmin = 727.631691115
+			xmax = 949.212077128
+			text = ""
+		intervals [4]:
+			xmin = 949.212077128
+			xmax = 950.53627285
+			text = "overwritten by next utterance: Es soll nach draussen hingehen   NO!"
+		intervals [5]:
+			xmin = 950.53627285
+			xmax = 956.570405531
+			text = ""
+		intervals [6]:
+			xmin = 956.570405531
+			xmax = 958.051075407
+			text = "segment in 3 utts first 2 with ?"
+		intervals [7]:
+			xmin = 958.051075407
+			xmax = 958.073579152
+			text = ""
+		intervals [8]:
+			xmin = 958.073579152
+			xmax = 959.133755597
+			text = "segment off ""von der Himmelsrichtung her"" (adjust of ""welche Seite"")"
+		intervals [9]:
+			xmin = 959.133755597
+			xmax = 988.632111104
+			text = ""
+		intervals [10]:
+			xmin = 988.632111104
+			xmax = 988.785144322
+			text = "segment off ""ja""?  uppercase?"
+		intervals [11]:
+			xmin = 988.785144322
+			xmax = 1038.93521975
+			text = ""
+		intervals [12]:
+			xmin = 1038.93521975
+			xmax = 1039.51462881
+			text = "lowercase?"
+		intervals [13]:
+			xmin = 1039.51462881
+			xmax = 1041.09871511
+			text = ""
+		intervals [14]:
+			xmin = 1041.09871511
+			xmax = 1042.56327708
+			text = "lowercase?"
+		intervals [15]:
+			xmin = 1042.56327708
+			xmax = 1052.60778113
+			text = ""
+		intervals [16]:
+			xmin = 1052.60778113
+			xmax = 1056.38024974
+			text = "son non-standard for ""so einen"" and ""so ein"""
+		intervals [17]:
+			xmin = 1056.38024974
+			xmax = 1090.89772222
+			text = ""
+		intervals [18]:
+			xmin = 1090.89772222
+			xmax = 1091.72394633
+			text = "segment off {F Also:} - right transcription? no! only {}"
+		intervals [19]:
+			xmin = 1091.72394633
+			xmax = 1165.79204315
+			text = ""
+		intervals [20]:
+			xmin = 1165.79204315
+			xmax = 1168.59665497
+			text = "segment more  at { }?"
+		intervals [21]:
+			xmin = 1168.59665497
+			xmax = 1208.55337392
+			text = ""
+		intervals [22]:
+			xmin = 1208.55337392
+			xmax = 1209.62674388
+			text = "how to annotate compositions of english and german words ""<english>Sound</english>+<ger>system</ger>"""
+		intervals [23]:
+			xmin = 1209.62674388
+			xmax = 1214.08503579
+			text = ""
+		intervals [24]:
+			xmin = 1214.08503579
+			xmax = 1215.51245887
+			text = "(guten + . guten) ?!"
+		intervals [25]:
+			xmin = 1215.51245887
+			xmax = 1240.85922405
+			text = ""
+		intervals [26]:
+			xmin = 1240.85922405
+			xmax = 1241.92180474
+			text = "proper nouns in english ""Startrek"" no english generic names or trademarks..."
+		intervals [27]:
+			xmin = 1241.92180474
+			xmax = 1352.30536638
+			text = ""
+		intervals [28]:
+			xmin = 1352.30536638
+			xmax = 1353.81785106
+			text = "don't segment ?"
+		intervals [29]:
+			xmin = 1353.81785106
+			xmax = 1400.49308778
+			text = ""
+		intervals [30]:
+			xmin = 1400.49308778
+			xmax = 1404.08618059
+			text = "alternative:  (<v=""eine"">'ne</v> schöne + ... ( <v=""so einen"">so'n</v> alten + (<v=""eine"">'ne</v> +) <v=""eine"">'ne</v> Eichenvitrine ))"
+		intervals [31]:
+			xmin = 1404.08618059
+			xmax = 1450.44209042
+			text = ""
+		intervals [32]:
+			xmin = 1450.44209042
+			xmax = 1451.36959508
+			text = "with ? after -"
+		intervals [33]:
+			xmin = 1451.36959508
+			xmax = 1557.88726172
+			text = ""
+		intervals [34]:
+			xmin = 1557.88726172
+			xmax = 1562.99608781
+			text = "{X Ach} ? discourse markers but not exclamation only {}"
+		intervals [35]:
+			xmin = 1562.99608781
+			xmax = 1616.12097911
+			text = ""
+	item [8]:
+		class = "IntervalTier"
 		name = "A-utts"
 		xmin = 0.0
 		xmax = 1616.12097911
@@ -5198,332 +5524,6 @@ item []:
 			text = "Zweihundert Quadratmeter <v='ist'>is'</v> das Geld schon schnell weg, ne?"
 		intervals [530]:
 			xmin = 1614.32914378
-			xmax = 1616.12097911
-			text = ""
-	item [6]:
-		class = "IntervalTier"
-		name = "Part"
-		xmin = 0.0
-		xmax = 1616.12097911
-		intervals: size = 2
-		intervals [1]:
-			xmin = 0.0
-			xmax = 722.937994924
-			text = ""
-		intervals [2]:
-			xmin = 722.937994924
-			xmax = 1616.12097911
-			text = "dream_apartment"
-	item [7]:
-		class = "IntervalTier"
-		name = "Comments"
-		xmin = 0.0
-		xmax = 1616.12097911
-		intervals: size = 35
-		intervals [1]:
-			xmin = 0.0
-			xmax = 726.96538773
-			text = ""
-		intervals [2]:
-			xmin = 726.96538773
-			xmax = 727.631691115
-			text = "An exclamation {X Eijeijeijei}"
-		intervals [3]:
-			xmin = 727.631691115
-			xmax = 949.212077128
-			text = ""
-		intervals [4]:
-			xmin = 949.212077128
-			xmax = 950.53627285
-			text = "overwritten by next utterance: Es soll nach draussen hingehen   NO!"
-		intervals [5]:
-			xmin = 950.53627285
-			xmax = 956.570405531
-			text = ""
-		intervals [6]:
-			xmin = 956.570405531
-			xmax = 958.051075407
-			text = "segment in 3 utts first 2 with ?"
-		intervals [7]:
-			xmin = 958.051075407
-			xmax = 958.073579152
-			text = ""
-		intervals [8]:
-			xmin = 958.073579152
-			xmax = 959.133755597
-			text = "segment off ""von der Himmelsrichtung her"" (adjust of ""welche Seite"")"
-		intervals [9]:
-			xmin = 959.133755597
-			xmax = 988.632111104
-			text = ""
-		intervals [10]:
-			xmin = 988.632111104
-			xmax = 988.785144322
-			text = "segment off ""ja""?  uppercase?"
-		intervals [11]:
-			xmin = 988.785144322
-			xmax = 1038.93521975
-			text = ""
-		intervals [12]:
-			xmin = 1038.93521975
-			xmax = 1039.51462881
-			text = "lowercase?"
-		intervals [13]:
-			xmin = 1039.51462881
-			xmax = 1041.09871511
-			text = ""
-		intervals [14]:
-			xmin = 1041.09871511
-			xmax = 1042.56327708
-			text = "lowercase?"
-		intervals [15]:
-			xmin = 1042.56327708
-			xmax = 1052.60778113
-			text = ""
-		intervals [16]:
-			xmin = 1052.60778113
-			xmax = 1056.38024974
-			text = "son non-standard for ""so einen"" and ""so ein"""
-		intervals [17]:
-			xmin = 1056.38024974
-			xmax = 1090.89772222
-			text = ""
-		intervals [18]:
-			xmin = 1090.89772222
-			xmax = 1091.72394633
-			text = "segment off {F Also:} - right transcription? no! only {}"
-		intervals [19]:
-			xmin = 1091.72394633
-			xmax = 1165.79204315
-			text = ""
-		intervals [20]:
-			xmin = 1165.79204315
-			xmax = 1168.59665497
-			text = "segment more  at { }?"
-		intervals [21]:
-			xmin = 1168.59665497
-			xmax = 1208.55337392
-			text = ""
-		intervals [22]:
-			xmin = 1208.55337392
-			xmax = 1209.62674388
-			text = "how to annotate compositions of english and german words ""<english>Sound</english>+<ger>system</ger>"""
-		intervals [23]:
-			xmin = 1209.62674388
-			xmax = 1214.08503579
-			text = ""
-		intervals [24]:
-			xmin = 1214.08503579
-			xmax = 1215.51245887
-			text = "(guten + . guten) ?!"
-		intervals [25]:
-			xmin = 1215.51245887
-			xmax = 1240.85922405
-			text = ""
-		intervals [26]:
-			xmin = 1240.85922405
-			xmax = 1241.92180474
-			text = "proper nouns in english ""Startrek"" no english generic names or trademarks..."
-		intervals [27]:
-			xmin = 1241.92180474
-			xmax = 1352.30536638
-			text = ""
-		intervals [28]:
-			xmin = 1352.30536638
-			xmax = 1353.81785106
-			text = "don't segment ?"
-		intervals [29]:
-			xmin = 1353.81785106
-			xmax = 1400.49308778
-			text = ""
-		intervals [30]:
-			xmin = 1400.49308778
-			xmax = 1404.08618059
-			text = "alternative:  (<v=""eine"">'ne</v> schöne + ... ( <v=""so einen"">so'n</v> alten + (<v=""eine"">'ne</v> +) <v=""eine"">'ne</v> Eichenvitrine ))"
-		intervals [31]:
-			xmin = 1404.08618059
-			xmax = 1450.44209042
-			text = ""
-		intervals [32]:
-			xmin = 1450.44209042
-			xmax = 1451.36959508
-			text = "with ? after -"
-		intervals [33]:
-			xmin = 1451.36959508
-			xmax = 1557.88726172
-			text = ""
-		intervals [34]:
-			xmin = 1557.88726172
-			xmax = 1562.99608781
-			text = "{X Ach} ? discourse markers but not exclamation only {}"
-		intervals [35]:
-			xmin = 1562.99608781
-			xmax = 1616.12097911
-			text = ""
-	item [8]:
-		class = "IntervalTier"
-		name = "A-laughter"
-		xmin = 0.0
-		xmax = 1616.12097911
-		intervals: size = 40
-		intervals [1]:
-			xmin = 0.0
-			xmax = 724.701360779
-			text = ""
-		intervals [2]:
-			xmin = 724.701360779
-			xmax = 726.181572572
-			text = "<laughter/>"
-		intervals [3]:
-			xmin = 726.181572572
-			xmax = 766.32356819
-			text = ""
-		intervals [4]:
-			xmin = 766.32356819
-			xmax = 767.61394595
-			text = "<laughter> großen Probleme </laughter>"
-		intervals [5]:
-			xmin = 767.61394595
-			xmax = 768.016688947
-			text = "<laughterOffset/>"
-		intervals [6]:
-			xmin = 768.016688947
-			xmax = 819.291301326
-			text = ""
-		intervals [7]:
-			xmin = 819.291301326
-			xmax = 820.385317253
-			text = "<laughter/>"
-		intervals [8]:
-			xmin = 820.385317253
-			xmax = 820.708024027
-			text = "<laughterOffset/>"
-		intervals [9]:
-			xmin = 820.708024027
-			xmax = 901.541013304
-			text = ""
-		intervals [10]:
-			xmin = 901.541013304
-			xmax = 902.289915453
-			text = "<laughter/>"
-		intervals [11]:
-			xmin = 902.289915453
-			xmax = 902.682639119
-			text = "<laughterOffset/>"
-		intervals [12]:
-			xmin = 902.682639119
-			xmax = 946.169073658
-			text = ""
-		intervals [13]:
-			xmin = 946.169073658
-			xmax = 946.95452099
-			text = "<laughter/>"
-		intervals [14]:
-			xmin = 946.95452099
-			xmax = 963.307711079
-			text = ""
-		intervals [15]:
-			xmin = 963.307711079
-			xmax = 964.943734639
-			text = "<laughter/>"
-		intervals [16]:
-			xmin = 964.943734639
-			xmax = 1025.37571381
-			text = ""
-		intervals [17]:
-			xmin = 1025.37571381
-			xmax = 1026.93096066
-			text = "<laughter/>"
-		intervals [18]:
-			xmin = 1026.93096066
-			xmax = 1052.6321111
-			text = ""
-		intervals [19]:
-			xmin = 1052.6321111
-			xmax = 1054.99525625
-			text = "<laughter/>"
-		intervals [20]:
-			xmin = 1054.99525625
-			xmax = 1172.04348887
-			text = ""
-		intervals [21]:
-			xmin = 1172.04348887
-			xmax = 1173.58429413
-			text = "<laughter/>"
-		intervals [22]:
-			xmin = 1173.58429413
-			xmax = 1175.09913076
-			text = ""
-		intervals [23]:
-			xmin = 1175.09913076
-			xmax = 1176.56203013
-			text = "<laughter/>"
-		intervals [24]:
-			xmin = 1176.56203013
-			xmax = 1242.855375
-			text = ""
-		intervals [25]:
-			xmin = 1242.855375
-			xmax = 1246.18157257
-			text = "<laughter> vor die man dann ansprechen kann </laughter>"
-		intervals [26]:
-			xmin = 1246.18157257
-			xmax = 1361.31512034
-			text = ""
-		intervals [27]:
-			xmin = 1361.31512034
-			xmax = 1363.40292938
-			text = "<laughter/>"
-		intervals [28]:
-			xmin = 1363.40292938
-			xmax = 1436.0954264
-			text = ""
-		intervals [29]:
-			xmin = 1436.0954264
-			xmax = 1437.65995177
-			text = "<laughter/>"
-		intervals [30]:
-			xmin = 1437.65995177
-			xmax = 1495.9700514
-			text = ""
-		intervals [31]:
-			xmin = 1495.9700514
-			xmax = 1497.84951466
-			text = "<laughter> und der Rest kommt dann </laughter>"
-		intervals [32]:
-			xmin = 1497.84951466
-			xmax = 1498.18613495
-			text = "<laughterOffset/>"
-		intervals [33]:
-			xmin = 1498.18613495
-			xmax = 1560.04265784
-			text = ""
-		intervals [34]:
-			xmin = 1560.04265784
-			xmax = 1563.55173296
-			text = "<laughter> Gut </laughter>"
-		intervals [35]:
-			xmin = 1563.55173296
-			xmax = 1564.21661333
-			text = "<laughter>Offset/>"
-		intervals [36]:
-			xmin = 1564.21661333
-			xmax = 1577.12875113
-			text = ""
-		intervals [37]:
-			xmin = 1577.12875113
-			xmax = 1579.28873129
-			text = "<laughter> schön </laughter>"
-		intervals [38]:
-			xmin = 1579.28873129
-			xmax = 1594.1034896
-			text = ""
-		intervals [39]:
-			xmin = 1594.1034896
-			xmax = 1596.41570614
-			text = "<laughter> sicherlich <v=""irgendetwas"">irgendwas</v> erfinden </laughter>"
-		intervals [40]:
-			xmin = 1596.41570614
 			xmax = 1616.12097911
 			text = ""
 	item [9]:

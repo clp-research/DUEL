@@ -251,7 +251,7 @@ item []:
 		intervals [11]:
 			xmin = 37.791784063
 			xmax = 40.3154668275
-			text = "{ 然后 }  我 以前 的 名字  叫 <name>[NAME]</name>"
+			text = "{ 然后 }  我 以前 的 名字  叫 <name> 张小明 </name>"
 		intervals [12]:
 			xmin = 40.3154668275
 			xmax = 43.6007615342
@@ -283,7 +283,7 @@ item []:
 		intervals [19]:
 			xmin = 65.6322284045
 			xmax = 72.3572691605
-			text = "但是 事实 的 真相 是 {F 呃 } 当时 我 的 朋友 <name>[NAME]</name> 她  得  了 非常 重  的  病"
+			text = "但是 事实 的 真相 是 {F 呃 } 当时 我 的 朋友 <name> 田叶 </name> 她  得  了 非常 重  的  病"
 		intervals [20]:
 			xmin = 72.3572691605
 			xmax = 77.4803729028

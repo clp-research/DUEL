@@ -1539,7 +1539,7 @@ item []:
 		intervals [116]:
 			xmin = 303.796077634
 			xmax = 305.522807361
-			text = "( <name>[NAME]</name> + <laughter/>  { 啊 } <name>[NAME]</name> )"
+			text = "( <name> 彤彤 </name> + <laughter/>  { 啊 } <name>  红红 </name> )"
 		intervals [117]:
 			xmin = 305.522807361
 			xmax = 308.44496536
@@ -1799,7 +1799,7 @@ item []:
 		intervals [181]:
 			xmin = 444.413332525
 			xmax = 449.912302579
-			text = "然后  ( 把 <french> cheva </french>  + { 但是 } + { 但是 } 他  把 那个 女生 的 手机 ) 夺 回来 了 之后"
+			text = "然后  ( 把 <french> cheva </french>  + { 但是 } { 但是 } 他  把 那个 女生 的 手机 ) 夺 回来 了 之后"
 		intervals [182]:
 			xmin = 449.912302579
 			xmax = 453.817368269
@@ -1815,7 +1815,7 @@ item []:
 		intervals [185]:
 			xmin = 460.977204401
 			xmax = 465.387006473
-			text = "{ 然后 }  既然 ( 你 遭 + 让 +  你 为  了  我 ) 遭受 了 这么 大  的 损失"
+			text = "{ 然后 }  既然 ( 你 遭 + ( 让 +  你 为  了  我 ) ) 遭受 了 这么 大  的 损失"
 		intervals [186]:
 			xmin = 465.387006473
 			xmax = 468.521685055
@@ -1971,7 +1971,7 @@ item []:
 		intervals [224]:
 			xmin = 560.235935162
 			xmax = 565.973989725
-			text = "你  .. 的  母亲 ( 是 不 是  叫 ...  + 是  不  是  叫 ) <name>[NAME]</name>"
+			text = "你  .. 的  母亲 ( 是 不 是  叫 ...  + 是  不  是  叫 ) <name> 田叶 </name>"
 		intervals [225]:
 			xmin = 565.973989725
 			xmax = 567.090585127
@@ -2027,7 +2027,7 @@ item []:
 		intervals [238]:
 			xmin = 585.67093183
 			xmax = 588.721958834
-			text = "其实 <name>[NAME]</name> 是 爸爸 的 第一 个 女 朋友"
+			text = "其实 <name> 田叶 </name> 是 爸爸 的 第一 个 女 朋友"
 		intervals [239]:
 			xmin = 588.721958834
 			xmax = 589.359520453
@@ -2219,15 +2219,15 @@ item []:
 		intervals [286]:
 			xmin = 711.429438185
 			xmax = 714.192205196
-			text = "他  已经 和 <name>[NAME]</name> 搞 清楚 了"
+			text = "他  已经 和 <name> 田叶 </name> 搞 清楚 了"
 		intervals [287]:
 			xmin = 714.192205196
 			xmax = 716.450235927
-			text = "原来 <name>[NAME]</name> 早 已 爱 上 了 别人"
+			text = "原来 <name> 田叶 </name> 早 已 爱 上 了 别人"
 		intervals [288]:
 			xmin = 716.450235927
 			xmax = 718.814526928
-			text = "这 就 是 <name>[NAME]</name> 离开 . 他 的  原因"
+			text = "这 就 是 <name> 田叶 </name> 离开 . 他 的  原因"
 		intervals [289]:
 			xmin = 718.814526928
 			xmax = 720.756246325
@@ -2347,7 +2347,7 @@ item []:
 		intervals [318]:
 			xmin = 769.364256376
 			xmax = 770.320598803
-			text = "<name>[NAME]</name> 你 也 <laughter> 不错 啊  </laughter>"
+			text = "<name> 红红 </name> 你 也 <laughter> 不错 啊  </laughter>"
 		intervals [319]:
 			xmin = 770.320598803
 			xmax = 772.764585006
@@ -2395,7 +2395,7 @@ item []:
 		intervals [330]:
 			xmin = 788.823786458
 			xmax = 791.69281374
-			text = "其实 ... 罪魁祸首  应该  是 爸爸  和 <name>[NAME]</name>"
+			text = "其实 ... 罪魁祸首  应该  是 爸爸  和 <name>  田叶 </name>"
 		intervals [331]:
 			xmin = 791.69281374
 			xmax = 792.6225911
@@ -3465,11 +3465,11 @@ item []:
 		intervals [57]:
 			xmin = 181.67744918
 			xmax = 187.867111207
-			text = "<nv type='breathing'/> 然后 <french> chevalier </french> ( 很 + 很 + 很 ) 不 知道 该 怎么 办 地 抬头 ( 告诉  她 + 问 她 )"
+			text = "<nv type='breathing'/> 然后 <french> chevalier </french> ( 很 + ( 很 + 很 ) ) 不 知道 该 怎么 办 地 抬头 ( 告诉  她 + 问 她 )"
 		intervals [58]:
 			xmin = 187.867111207
 			xmax = 190.767644642
-			text = "{ 哎 }  ( 我 + 我 + 我 + 我 ) 想 跟 你 借 那  本  书"
+			text = "{ 哎 }  ( 我 + ( 我 + ( 我 + 我 ) ) ) 想 跟 你 借 那  本  书"
 		intervals [59]:
 			xmin = 190.767644642
 			xmax = 193.450717023
@@ -3613,7 +3613,7 @@ item []:
 		intervals [94]:
 			xmin = 259.380508809
 			xmax = 261.372889158
-			text = "( 怎 + 怎 + 怎 + 怎么 ) 会 这么 尴尬 呢 ?"
+			text = "( 怎 + ( 怎 + ( 怎 + 怎么 ) ) ) 会 这么 尴尬 呢 ?"
 		intervals [95]:
 			xmin = 261.372889158
 			xmax = 262.225341125
@@ -4001,7 +4001,7 @@ item []:
 		intervals [191]:
 			xmin = 495.72775473
 			xmax = 500.854069404
-			text = "这 时候 呢 ( 他们 就  吃 + 他 +  这 个 ) . 女 主角 呢 就 请  这  个 <french> chevalier  </french> 吃  饭"
+			text = "这 时候 呢 ( 他们 就  吃 + ( 他 +  这 个 ) ) . 女 主角 呢 就 请  这  个 <french> chevalier  </french> 吃  饭"
 		intervals [192]:
 			xmin = 500.854069404
 			xmax = 504.633596989
@@ -4217,7 +4217,7 @@ item []:
 		intervals [245]:
 			xmin = 620.55721654
 			xmax = 625.386495979
-			text = "洒 了  狗 血 父亲  就 . ( 再 . + 决定 ) 悄悄 地 去 拜访 ( 前 + <name>[NAME]</name>)"
+			text = "洒 了  狗 血 父亲  就 . ( 再 . + 决定 ) 悄悄 地 去 拜访 ( 前 + <name> 田叶 </name>)"
 		intervals [246]:
 			xmin = 625.386495979
 			xmax = 627.617961523
@@ -4229,7 +4229,7 @@ item []:
 		intervals [248]:
 			xmin = 628.17582791
 			xmax = 631.469896094
-			text = "然后 呢  他 就 悄悄 地 去 拜访 <name>[NAME]</name>了"
+			text = "然后 呢  他 就 悄悄 地 去 拜访 <name> 田叶 </name>了"
 		intervals [249]:
 			xmin = 631.469896094
 			xmax = 633.509844401
@@ -4237,7 +4237,7 @@ item []:
 		intervals [250]:
 			xmin = 633.509844401
 			xmax = 635.874135276
-			text = "原来 当时 <name>[NAME]</name>  跟 另外 一  个 人 交往"
+			text = "原来 当时 <name> 田叶 </name>  跟 另外 一  个 人 交往"
 		intervals [251]:
 			xmin = 635.874135276
 			xmax = 636.2460462
@@ -4453,7 +4453,7 @@ item []:
 		intervals [304]:
 			xmin = 744.151841072
 			xmax = 752.307316336
-			text = "所以  ( 他 不断 地 <laughter/> +  <laughter>  他 不断 地  </laughter>  +  <laughter/>   <laughter> 他 不断 地 ) 遇 到 (  喷 + 泼 )他 咖啡 的  人 </laughter>"
+			text = "所以  ( 他 不断 地 <laughter/> + ( <laughter>  他 不断 地  </laughter>  +  <laughter/>   <laughter> 他 不断 地 ) ) 遇 到 (  喷 + 泼 )他 咖啡 的  人 </laughter>"
 		intervals [305]:
 			xmin = 752.307316336
 			xmax = 754.383464207
